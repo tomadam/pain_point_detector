@@ -1,1 +1,4 @@
-requests>=2.31.0
+requests
+playwright
+bs4
+lxml
