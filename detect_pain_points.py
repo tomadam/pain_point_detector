@@ -51,54 +51,123 @@ def fetch_reddit_pain_points(subreddit):
 def fetch_zhihu_pain_points(keyword):
     """
     抓取知乎相关话题的痛点讨论
-    注意：知乎API需要认证，此版本使用模拟搜索
+    支持通过环境变量 ZHIHU_COOKIE 传入登录 Cookie
     """
+    cookie = os.environ.get('ZHIHU_COOKIE')
+
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        'Referer': 'https://www.zhihu.com/'
+        'Accept': 'application/json, text/plain, */*',
+        'Referer': f'https://www.zhihu.com/search?q={quote(keyword)}&type=content',
     }
 
-    # 使用Google搜索知乎内容作为替代方案
-    google_search_url = f"https://www.google.com/search?q=site:zhihu.com+{quote(keyword)}"
+    if cookie:
+        headers['Cookie'] = cookie
+
+    # 使用知乎 V4 搜索 API，通常返回 JSON
+    api_url = f"https://www.zhihu.com/api/v4/search_v3?t=general&q={quote(keyword)}&offset=0&limit=5"
 
     try:
-        # 尝试直接访问知乎搜索页（可能需要cookie）
-        search_url = f"https://www.zhihu.com/search?type=content&q={quote(keyword)}"
-        response = requests.get(search_url, headers=headers, timeout=10)
+        response = requests.get(api_url, headers=headers, timeout=10)
 
-        if response.status_code == 403 or response.status_code == 400:
-            return f"### 知乎「{keyword}」\n> ⚠️ 知乎需要登录认证才能访问搜索API\n> 💡 建议：使用知乎官方API或配置登录Cookie\n> 🔗 手动搜索：[点击这里在知乎搜索「{keyword}」](https://www.zhihu.com/search?q={quote(keyword)})\n\n"
+        if response.status_code in [403, 401, 400]:
+            return f"### 知乎「{keyword}」\n> ⚠️ 知乎响应了 {response.status_code} (可能需要登录)\n> 💡 请在 GitHub Secrets 中配置 `ZHIHU_COOKIE` 以恢复自动抓取。\n> 🔗 [手动搜索链接](https://www.zhihu.com/search?q={quote(keyword)})\n\n"
 
         if response.status_code != 200:
-            return f"### 知乎「{keyword}」\n> ⚠️ 暂时无法访问 (HTTP {response.status_code})\n> 🔗 手动搜索：[点击这里在知乎搜索「{keyword}」](https://www.zhihu.com/search?q={quote(keyword)})\n\n"
+            return f"### 知乎「{keyword}」\n> ⚠️ 暂时无法访问 API (HTTP {response.status_code})\n> 🔗 [手动搜索链接](https://www.zhihu.com/search?q={quote(keyword)})\n\n"
 
-        # 成功获取页面，尝试解析（简化版）
-        report = f"### 知乎「{keyword}」\n"
-        report += f"> 🔗 [在知乎查看完整结果](https://www.zhihu.com/search?q={quote(keyword)})\n"
-        report += "> ℹ️ 由于知乎API限制，建议手动访问上述链接查看详细内容\n\n"
+        data = response.json()
+        items = data.get('data', [])
+
+        if not items:
+            return f"### 知乎「{keyword}」\n> ℹ️ 未找到相关实时讨论。\n\n"
+
+        report = f"### 知乎「{keyword}」\n\n"
+        count = 0
+        for item in items:
+            if count >= 5: break
+
+            # 提取文章或回答
+            obj = item.get('object', {})
+            title = obj.get('highlight_title') or obj.get('title')
+            if not title: continue
+
+            # 去除 HTML 标签
+            title = re.sub(r'<[^>]+>', '', title)
+            url = obj.get('url', '').replace('api/v4/answers', 'answer').replace('api/v4/questions', 'question')
+            if 'zhihu.com' not in url:
+                if 'id' in obj:
+                    url = f"https://www.zhihu.com/question/{obj.get('id')}"
+                else:
+                    url = f"https://www.zhihu.com/search?q={quote(keyword)}"
+
+            excerpt = re.sub(r'<[^>]+>', '', obj.get('excerpt', ''))
+
+            report += f"#### [{title}]({url})\n"
+            report += f"- **摘要**: {excerpt[:200]}...\n\n"
+            count += 1
+
         return report
 
     except Exception as e:
-        return f"### 知乎「{keyword}」\n> ⚠️ 连接错误: {str(e)}\n> 🔗 [手动在知乎搜索「{keyword}」](https://www.zhihu.com/search?q={quote(keyword)})\n\n"
+        return f"### 知乎「{keyword}」\n> ⚠️ 抓取发生错误: {str(e)}\n> 🔗 [手动搜索链接](https://www.zhihu.com/search?q={quote(keyword)})\n\n"
 
 def fetch_xiaohongshu_pain_points(keyword):
     """
     抓取小红书相关话题的痛点讨论
-    注意：小红书的反爬虫机制极强，提供手动搜索链接
+    支持通过环境变量 XHS_COOKIE 传入登录 Cookie
     """
-    # 小红书的反爬虫机制包括：设备指纹、滑块验证、登录要求等
-    # 直接爬取几乎不可能，提供用户友好的替代方案
+    cookie = os.environ.get('XHS_COOKIE')
 
-    search_url = f"https://www.xiaohongshu.com/search_result?keyword={quote(keyword)}"
+    if not cookie:
+        search_url = f"https://www.xiaohongshu.com/search_result?keyword={quote(keyword)}"
+        report = f"### 小红书「{keyword}」\n"
+        report += f"> ⚠️ 缺少 `XHS_COOKIE`，无法自动抓取内容\n"
+        report += f"> 📱 [在小红书App中搜索「{keyword}」]({search_url})\n"
+        report += "> ℹ️ 小红书反爬虫机制极强，建议手动访问查看最新痛点内容\n\n"
+        return report
 
-    report = f"### 小红书「{keyword}」\n"
-    report += f"> 📱 [在小红书App中搜索「{keyword}」]({search_url})\n"
-    report += "> ℹ️ 小红书需要App登录才能查看内容，建议使用手机App进行搜索\n"
-    report += "> 💡 提示：可以在小红书App中搜索关键词，关注相关话题的痛点讨论\n\n"
+    # 尝试使用 API（小红书需要签名，很可能失败）
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
+        'Accept': 'application/json, text/plain, */*',
+        'Cookie': cookie,
+        'Referer': f'https://www.xiaohongshu.com/search_result?keyword={quote(keyword)}'
+    }
 
-    return report
+    try:
+        # 使用网页版搜索 API（需要 x-sign 等签名，这里只是示例）
+        api_url = "https://edith.xiaohongshu.com/api/sns/web/v1/search/notes"
+        payload = {
+            "keyword": keyword,
+            "page": 1,
+            "page_size": 10,
+            "search_id": "auto_" + str(int(time.time()))
+        }
+
+        response = requests.post(api_url, json=payload, headers=headers, timeout=15)
+
+        if response.status_code == 200:
+            data = response.json()
+            if data.get('code') == 0:
+                items = data.get('data', {}).get('items', [])
+                if items:
+                    report = f"### 小红书「{keyword}」\n\n"
+                    for item in items[:5]:
+                        note = item.get('note_card', {})
+                        title = note.get('display_title', '小红书笔记')
+                        note_id = note.get('id')
+                        user = note.get('user', {}).get('nickname', '未知')
+                        report += f"#### [{title}](https://www.xiaohongshu.com/explore/{note_id})\n"
+                        report += f"- **博主**: {user}\n\n"
+                    return report
+
+        # 失败回退
+        search_url = f"https://www.xiaohongshu.com/search_result?keyword={quote(keyword)}"
+        return f"### 小红书「{keyword}」\n> ⚠️ API 未返回有效数据 (HTTP {response.status_code})\n> 🔗 [手动搜索链接]({search_url})\n\n"
+    except Exception as e:
+        search_url = f"https://www.xiaohongshu.com/search_result?keyword={quote(keyword)}"
+        return f"### 小红书「{keyword}」\n> ⚠️ 请求异常: {str(e)}\n> 🔗 [手动搜索链接]({search_url})\n\n"
 
 def main():
     start_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
