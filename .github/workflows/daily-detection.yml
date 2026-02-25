@@ -27,6 +27,11 @@ jobs:
       - name: Run pain points detection
         run: |
           python detect_pain_points.py
+        env:
+          # 知乎登录 Cookie（在 GitHub Repo Settings → Secrets → Actions 中配置）
+          ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
+          # 小红书登录 Cookie（在 GitHub Repo Settings → Secrets → Actions 中配置）
+          XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
 
       - name: Commit and push report
         run: |
