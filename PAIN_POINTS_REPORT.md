@@ -1,13 +1,10 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-02-25 12:11:14 (UTC)
+> **生成时间**: 2026-02-26 05:12:26 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
-
-#### [Certifications for undergrads?](https://www.reddit.com/r/civilengineering/comments/1rdxwe3/certifications_for_undergrads/)
-- **发布时间**: 2026-02-25
 
 #### [What is a "gravel" parking lot?](https://www.reddit.com/r/civilengineering/comments/1rdrcoq/what_is_a_gravel_parking_lot/)
 - **发布时间**: 2026-02-24
@@ -19,6 +16,9 @@
 - **发布时间**: 2026-02-24
 
 #### [Easy and Repetitive Civil Engineering Jobs?](https://www.reddit.com/r/civilengineering/comments/1rclcsg/easy_and_repetitive_civil_engineering_jobs/)
+- **发布时间**: 2026-02-23
+
+#### [If you work at a large international firm, what is it like?](https://www.reddit.com/r/civilengineering/comments/1rckrr8/if_you_work_at_a_large_international_firm_what_is/)
 - **发布时间**: 2026-02-23
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -63,19 +63,19 @@
 
 - [工地到底难管在哪里？做过工程的人都明白这几个点](https://zhuanlan.zhihu.com/p/1991810003003277814)
 - [专家对装配式建筑推崇备至，一线施工人员却怨声载道。](https://zhuanlan.zhihu.com/p/1916380862901117548)
-- [航站楼工程施工特点及难点](https://zhuanlan.zhihu.com/p/1934511877439879018)
 - [为什么工程越来越难做？盘点2025年工程行业的4大难点！](https://zhuanlan.zhihu.com/p/32416890996)
-- [建筑行业明年会不会更加艰难呢？](https://www.zhihu.com/question/9644117739/answer/1967985873757934310)
+- [航站楼工程施工特点及难点](https://zhuanlan.zhihu.com/p/1934511877439879018)
+- [土建及公用动力施工管理和技术的重点难点分析](https://zhuanlan.zhihu.com/p/1999055195489986021)
 
 > 🔗 [查看全部内容](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
 
 ### 知乎「土木工程 痛点」
 
+- [现在土木专业应该没学生报了吧，这样对我们在坑里的从业者是不是个好消息？](https://www.zhihu.com/question/559657964/answer/2002670188768802778)
 - [土木工程真的劝退吗？](https://www.zhihu.com/question/346962437/answer/1984188369828349590)
 - [土木工程真的这么可怕吗？](https://www.zhihu.com/question/339607773/answer/2003396090028892512)
 - [聊一聊一个土木工程人所面对的困境](https://zhuanlan.zhihu.com/p/1907009389308675323)
-- [现在土木专业应该没学生报了吧，这样对我们在坑里的从业者是不是个好消息？](https://www.zhihu.com/question/559657964/answer/2002670188768802778)
-- [土木工程真的劝退吗？](https://www.zhihu.com/question/346962437/answer/2005056590533900233)
+- [土木几千年来生生不息，为什么仅仅几十年的发展就没落了？](https://www.zhihu.com/question/660310758/answer/3575192207)
 
 > 🔗 [查看全部内容](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
 
