@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-16 05:59:08 (UTC)
+> **生成时间**: 2026-03-17 05:13:24 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Work life and personal life balance](https://www.reddit.com/r/civilengineering/comments/1ruqb1m/work_life_and_personal_life_balance/)
-- **发布时间**: 2026-03-15
+#### [How is it Working on Roads in A DOT Construction Job. Should I Consider it?](https://www.reddit.com/r/civilengineering/comments/1rvut43/how_is_it_working_on_roads_in_a_dot_construction/)
+- **发布时间**: 2026-03-17
 
-#### [2 Year AS Degree](https://www.reddit.com/r/civilengineering/comments/1ru7y3n/2_year_as_degree/)
-- **发布时间**: 2026-03-15
+#### [Question about rock core recovery in borehole geotechnical investigations](https://www.reddit.com/r/civilengineering/comments/1rvomfy/question_about_rock_core_recovery_in_borehole/)
+- **发布时间**: 2026-03-16
 
-#### [Nervous for new job at Kimley Horn](https://www.reddit.com/r/civilengineering/comments/1rtofaz/nervous_for_new_job_at_kimley_horn/)
-- **发布时间**: 2026-03-14
+#### [When attending conferences, do you stay at the expensive sponsored hotel or a cheap one nearby?](https://www.reddit.com/r/civilengineering/comments/1rvkvo3/when_attending_conferences_do_you_stay_at_the/)
+- **发布时间**: 2026-03-16
 
-#### [Designing MRT routes is my 12-year-old son’s version of fantasy football. Does that mean he might be suited for Transportation Engineering?](https://www.reddit.com/r/civilengineering/comments/1rtnl50/designing_mrt_routes_is_my_12yearold_sons_version/)
-- **发布时间**: 2026-03-14
+#### [New hire question: why are coworkers randomly saluting a guy in a trench coat](https://www.reddit.com/r/civilengineering/comments/1rvg0am/new_hire_question_why_are_coworkers_randomly/)
+- **发布时间**: 2026-03-16
 
-#### [Civil engineering in europe](https://www.reddit.com/r/civilengineering/comments/1rt8i23/civil_engineering_in_europe/)
-- **发布时间**: 2026-03-14
+#### [ME interested in switching to Civil](https://www.reddit.com/r/civilengineering/comments/1rv8rb2/me_interested_in_switching_to_civil/)
+- **发布时间**: 2026-03-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Is there a middle ground between Excel and $100/month apps?](https://www.reddit.com/r/Construction/comments/1rvt1wb/is_there_a_middle_ground_between_excel_and/)
+- **发布时间**: 2026-03-17
 
 #### [My Career going Forward with No Experience](https://www.reddit.com/r/Construction/comments/1ruaauc/my_career_going_forward_with_no_experience/)
 - **发布时间**: 2026-03-15
@@ -36,11 +39,14 @@
 #### [Need help deciding on a career path (HVAC vs Electrician vs Steamfitters)](https://www.reddit.com/r/Construction/comments/1rscboe/need_help_deciding_on_a_career_path_hvac_vs/)
 - **发布时间**: 2026-03-13
 
-#### [Got an Offer as a Quality Assurance Engineer. What should I look for?](https://www.reddit.com/r/Construction/comments/1rs4y0b/got_an_offer_as_a_quality_assurance_engineer_what/)
-- **发布时间**: 2026-03-12
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### r/QuantitySurveying 本周无匹配内容
+### 📍 r/QuantitySurveying 动态
+
+#### [All QS is site work? Ireland](https://www.reddit.com/r/quantitysurveying/comments/1rvdq3g/all_qs_is_site_work_ireland/)
+- **发布时间**: 2026-03-16
+
+#### [Apprenticeship to uni?](https://www.reddit.com/r/quantitysurveying/comments/1rv494v/apprenticeship_to_uni/)
+- **发布时间**: 2026-03-16
 
 
 # 🇨🇳 中国平台 - 知乎
@@ -51,9 +57,9 @@
 ### 知乎「土木工程 痛点」
 
 - [土木工程真的劝退吗？](https://www.zhihu.com/question/346962437/answer/2010307632498500718)
-- [土木几千年来生生不息，为什么仅仅几十年的发展就没落了？](https://www.zhihu.com/question/660310758/answer/2014386068108096017)
-- [为啥感觉现在的土木人犹如身处修罗场？](https://www.zhihu.com/question/657105781/answer/3510814857)
 - [土木工程真的劝退吗？](https://www.zhihu.com/question/346962437/answer/1984188369828349590)
+- [土木几千年来生生不息，为什么仅仅几十年的发展就没落了？](https://www.zhihu.com/question/660310758/answer/2014386068108096017)
+- [为什么全网都在黑土木工程？](https://www.zhihu.com/question/613780486/answer/98234978750)
 - [土木几千年来生生不息，为什么仅仅几十年的发展就没落了？](https://www.zhihu.com/question/660310758/answer/3575192207)
 
 > 🔗 [查看全部内容](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
