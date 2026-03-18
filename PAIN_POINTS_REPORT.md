@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-17 05:13:24 (UTC)
+> **生成时间**: 2026-03-18 01:13:43 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Institution of Civil Engineers Appeal](https://www.reddit.com/r/civilengineering/comments/1rwd442/institution_of_civil_engineers_appeal/)
+- **发布时间**: 2026-03-17
 
 #### [How is it Working on Roads in A DOT Construction Job. Should I Consider it?](https://www.reddit.com/r/civilengineering/comments/1rvut43/how_is_it_working_on_roads_in_a_dot_construction/)
 - **发布时间**: 2026-03-17
@@ -15,14 +18,14 @@
 #### [When attending conferences, do you stay at the expensive sponsored hotel or a cheap one nearby?](https://www.reddit.com/r/civilengineering/comments/1rvkvo3/when_attending_conferences_do_you_stay_at_the/)
 - **发布时间**: 2026-03-16
 
-#### [New hire question: why are coworkers randomly saluting a guy in a trench coat](https://www.reddit.com/r/civilengineering/comments/1rvg0am/new_hire_question_why_are_coworkers_randomly/)
-- **发布时间**: 2026-03-16
-
 #### [ME interested in switching to Civil](https://www.reddit.com/r/civilengineering/comments/1rv8rb2/me_interested_in_switching_to_civil/)
 - **发布时间**: 2026-03-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [What’s the loudest thing you’ve ever had to work around on a job site?](https://www.reddit.com/r/Construction/comments/1rvzwmd/whats_the_loudest_thing_youve_ever_had_to_work/)
+- **发布时间**: 2026-03-17
 
 #### [Is there a middle ground between Excel and $100/month apps?](https://www.reddit.com/r/Construction/comments/1rvt1wb/is_there_a_middle_ground_between_excel_and/)
 - **发布时间**: 2026-03-17
@@ -34,9 +37,6 @@
 - **发布时间**: 2026-03-14
 
 #### [Required breaks at work??](https://www.reddit.com/r/Construction/comments/1rt1btu/required_breaks_at_work/)
-- **发布时间**: 2026-03-13
-
-#### [Need help deciding on a career path (HVAC vs Electrician vs Steamfitters)](https://www.reddit.com/r/Construction/comments/1rscboe/need_help_deciding_on_a_career_path_hvac_vs/)
 - **发布时间**: 2026-03-13
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
@@ -55,14 +55,8 @@
 > 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
 
 ### 知乎「土木工程 痛点」
-
-- [土木工程真的劝退吗？](https://www.zhihu.com/question/346962437/answer/2010307632498500718)
-- [土木工程真的劝退吗？](https://www.zhihu.com/question/346962437/answer/1984188369828349590)
-- [土木几千年来生生不息，为什么仅仅几十年的发展就没落了？](https://www.zhihu.com/question/660310758/answer/2014386068108096017)
-- [为什么全网都在黑土木工程？](https://www.zhihu.com/question/613780486/answer/98234978750)
-- [土木几千年来生生不息，为什么仅仅几十年的发展就没落了？](https://www.zhihu.com/question/660310758/answer/3575192207)
-
-> 🔗 [查看全部内容](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
+> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
+> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
 
 
 # 🇨🇳 中国平台 - 小红书
