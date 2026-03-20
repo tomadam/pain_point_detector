@@ -1,46 +1,49 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-19 01:13:16 (UTC)
+> **生成时间**: 2026-03-20 01:08:57 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [What are some major Civil Engineering Inventions in the last 100 years?](https://www.reddit.com/r/civilengineering/comments/1rxkg6d/what_are_some_major_civil_engineering_inventions/)
-- **发布时间**: 2026-03-18
+#### [Traveling Engineer job opportunities](https://www.reddit.com/r/civilengineering/comments/1ryd0ti/traveling_engineer_job_opportunities/)
+- **发布时间**: 2026-03-19
 
-#### [26yo MS in Structural/Construction - The local pay is killing my career. How can I transition to US remote work?](https://www.reddit.com/r/civilengineering/comments/1rx9bay/26yo_ms_in_structuralconstruction_the_local_pay/)
-- **发布时间**: 2026-03-18
+#### [Transportation Engineering Personality Fit](https://www.reddit.com/r/civilengineering/comments/1ryaf4g/transportation_engineering_personality_fit/)
+- **发布时间**: 2026-03-19
 
-#### [Worried about my future at my work](https://www.reddit.com/r/civilengineering/comments/1rvz2mv/worried_about_my_future_at_my_work/)
-- **发布时间**: 2026-03-17
+#### [Jacob’s Engineering hybrid policy?](https://www.reddit.com/r/civilengineering/comments/1ry7kcw/jacobs_engineering_hybrid_policy/)
+- **发布时间**: 2026-03-19
 
-#### [How is it Working on Roads in A DOT Construction Job. Should I Consider it?](https://www.reddit.com/r/civilengineering/comments/1rvut43/how_is_it_working_on_roads_in_a_dot_construction/)
-- **发布时间**: 2026-03-17
+#### [Principals- how much do you really make?](https://www.reddit.com/r/civilengineering/comments/1ry66gd/principals_how_much_do_you_really_make/)
+- **发布时间**: 2026-03-19
 
-#### [Question about rock core recovery in borehole geotechnical investigations](https://www.reddit.com/r/civilengineering/comments/1rvomfy/question_about_rock_core_recovery_in_borehole/)
-- **发布时间**: 2026-03-16
+#### [Final round interview next week and I’m nervous—am I over-preparing?](https://www.reddit.com/r/civilengineering/comments/1rxrb5f/final_round_interview_next_week_and_im_nervousam/)
+- **发布时间**: 2026-03-19
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
-#### [Suggestions for hard-use waterproof bibs](https://www.reddit.com/r/Construction/comments/1rxh18l/suggestions_for_harduse_waterproof_bibs/)
-- **发布时间**: 2026-03-18
+#### [Time to call osha?](https://www.reddit.com/r/Construction/comments/1ryb4ur/time_to_call_osha/)
+- **发布时间**: 2026-03-19
 
-#### [Is There a Way to Build This?](https://www.reddit.com/r/Construction/comments/1rxfols/is_there_a_way_to_build_this/)
+#### [Suggestions for hard-use waterproof bibs](https://www.reddit.com/r/Construction/comments/1rxh18l/suggestions_for_harduse_waterproof_bibs/)
 - **发布时间**: 2026-03-18
 
 #### [Addiction (not that type of addiction)](https://www.reddit.com/r/Construction/comments/1rxfd2u/addiction_not_that_type_of_addiction/)
 - **发布时间**: 2026-03-18
 
-#### [Apparently, sales are part of construction business management. This month, we lost two bids because our proposals appeared amateurish.](https://www.reddit.com/r/Construction/comments/1rxc53a/apparently_sales_are_part_of_construction/)
+#### [Is this a good job offer ?](https://www.reddit.com/r/Construction/comments/1rxbt5f/is_this_a_good_job_offer/)
 - **发布时间**: 2026-03-18
 
-#### [Is this a good job offer ?](https://www.reddit.com/r/Construction/comments/1rxbt5f/is_this_a_good_job_offer/)
+#### [Is this a good job offer?](https://www.reddit.com/r/Construction/comments/1rwqfkh/is_this_a_good_job_offer/)
 - **发布时间**: 2026-03-18
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [How do your CVR meetings go?](https://www.reddit.com/r/quantitysurveying/comments/1ry7mmi/how_do_your_cvr_meetings_go/)
+- **发布时间**: 2026-03-19
 
 #### [All QS is site work? Ireland](https://www.reddit.com/r/quantitysurveying/comments/1rvdq3g/all_qs_is_site_work_ireland/)
 - **发布时间**: 2026-03-16
