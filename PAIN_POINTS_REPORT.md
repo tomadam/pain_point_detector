@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-20 01:08:57 (UTC)
+> **生成时间**: 2026-03-21 01:04:42 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [New grad no internships](https://www.reddit.com/r/civilengineering/comments/1rz0fvq/new_grad_no_internships/)
+- **发布时间**: 2026-03-20
 
 #### [Traveling Engineer job opportunities](https://www.reddit.com/r/civilengineering/comments/1ryd0ti/traveling_engineer_job_opportunities/)
 - **发布时间**: 2026-03-19
@@ -18,11 +21,11 @@
 #### [Principals- how much do you really make?](https://www.reddit.com/r/civilengineering/comments/1ry66gd/principals_how_much_do_you_really_make/)
 - **发布时间**: 2026-03-19
 
-#### [Final round interview next week and I’m nervous—am I over-preparing?](https://www.reddit.com/r/civilengineering/comments/1rxrb5f/final_round_interview_next_week_and_im_nervousam/)
-- **发布时间**: 2026-03-19
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Looking for the best “anti-vibration” gloves. Any recommendations?](https://www.reddit.com/r/Construction/comments/1rzd0nr/looking_for_the_best_antivibration_gloves_any/)
+- **发布时间**: 2026-03-21
 
 #### [Time to call osha?](https://www.reddit.com/r/Construction/comments/1ryb4ur/time_to_call_osha/)
 - **发布时间**: 2026-03-19
@@ -34,9 +37,6 @@
 - **发布时间**: 2026-03-18
 
 #### [Is this a good job offer ?](https://www.reddit.com/r/Construction/comments/1rxbt5f/is_this_a_good_job_offer/)
-- **发布时间**: 2026-03-18
-
-#### [Is this a good job offer?](https://www.reddit.com/r/Construction/comments/1rwqfkh/is_this_a_good_job_offer/)
 - **发布时间**: 2026-03-18
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
