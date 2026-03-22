@@ -1,24 +1,24 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-21 01:04:42 (UTC)
+> **生成时间**: 2026-03-22 01:12:41 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [New grad no internships](https://www.reddit.com/r/civilengineering/comments/1rz0fvq/new_grad_no_internships/)
-- **发布时间**: 2026-03-20
+#### [Switching from landscape architecture to civil engineering - need advice](https://www.reddit.com/r/civilengineering/comments/1s00ppw/switching_from_landscape_architecture_to_civil/)
+- **发布时间**: 2026-03-21
+
+#### [Out of State Internship?](https://www.reddit.com/r/civilengineering/comments/1rzy1kx/out_of_state_internship/)
+- **发布时间**: 2026-03-21
+
+#### [Civil Engineer Wanting to Learn Surveying](https://www.reddit.com/r/civilengineering/comments/1rzgrco/civil_engineer_wanting_to_learn_surveying/)
+- **发布时间**: 2026-03-21
 
 #### [Traveling Engineer job opportunities](https://www.reddit.com/r/civilengineering/comments/1ryd0ti/traveling_engineer_job_opportunities/)
 - **发布时间**: 2026-03-19
 
 #### [Transportation Engineering Personality Fit](https://www.reddit.com/r/civilengineering/comments/1ryaf4g/transportation_engineering_personality_fit/)
-- **发布时间**: 2026-03-19
-
-#### [Jacob’s Engineering hybrid policy?](https://www.reddit.com/r/civilengineering/comments/1ry7kcw/jacobs_engineering_hybrid_policy/)
-- **发布时间**: 2026-03-19
-
-#### [Principals- how much do you really make?](https://www.reddit.com/r/civilengineering/comments/1ry66gd/principals_how_much_do_you_really_make/)
 - **发布时间**: 2026-03-19
 
 ## 🏢 领域：建筑施工 (r/Construction)
