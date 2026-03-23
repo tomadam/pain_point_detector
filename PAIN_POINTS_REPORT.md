@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-22 01:12:41 (UTC)
+> **生成时间**: 2026-03-23 01:13:46 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Are there 1 year civil/environmental engineering MS for STEM BS](https://www.reddit.com/r/civilengineering/comments/1s12yzp/are_there_1_year_civilenvironmental_engineering/)
+- **发布时间**: 2026-03-23
 
 #### [Switching from landscape architecture to civil engineering - need advice](https://www.reddit.com/r/civilengineering/comments/1s00ppw/switching_from_landscape_architecture_to_civil/)
 - **发布时间**: 2026-03-21
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-03-21
 
 #### [Traveling Engineer job opportunities](https://www.reddit.com/r/civilengineering/comments/1ryd0ti/traveling_engineer_job_opportunities/)
-- **发布时间**: 2026-03-19
-
-#### [Transportation Engineering Personality Fit](https://www.reddit.com/r/civilengineering/comments/1ryaf4g/transportation_engineering_personality_fit/)
 - **发布时间**: 2026-03-19
 
 ## 🏢 领域：建筑施工 (r/Construction)
