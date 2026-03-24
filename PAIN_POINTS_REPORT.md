@@ -1,16 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-23 01:13:46 (UTC)
+> **生成时间**: 2026-03-24 01:06:44 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Are there 1 year civil/environmental engineering MS for STEM BS](https://www.reddit.com/r/civilengineering/comments/1s12yzp/are_there_1_year_civilenvironmental_engineering/)
+#### [Rate My Professor but for Engineers](https://www.reddit.com/r/civilengineering/comments/1s1sl08/rate_my_professor_but_for_engineers/)
 - **发布时间**: 2026-03-23
 
-#### [Switching from landscape architecture to civil engineering - need advice](https://www.reddit.com/r/civilengineering/comments/1s00ppw/switching_from_landscape_architecture_to_civil/)
-- **发布时间**: 2026-03-21
+#### [Use the heat produced by datacenters to heat apartment buildings.](https://www.reddit.com/r/civilengineering/comments/1s1hr49/use_the_heat_produced_by_datacenters_to_heat/)
+- **发布时间**: 2026-03-23
+
+#### [Are there 1 year civil/environmental engineering MS for STEM BS](https://www.reddit.com/r/civilengineering/comments/1s12yzp/are_there_1_year_civilenvironmental_engineering/)
+- **发布时间**: 2026-03-23
 
 #### [Out of State Internship?](https://www.reddit.com/r/civilengineering/comments/1rzy1kx/out_of_state_internship/)
 - **发布时间**: 2026-03-21
@@ -18,11 +21,14 @@
 #### [Civil Engineer Wanting to Learn Surveying](https://www.reddit.com/r/civilengineering/comments/1rzgrco/civil_engineer_wanting_to_learn_surveying/)
 - **发布时间**: 2026-03-21
 
-#### [Traveling Engineer job opportunities](https://www.reddit.com/r/civilengineering/comments/1ryd0ti/traveling_engineer_job_opportunities/)
-- **发布时间**: 2026-03-19
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Any trick to fix?](https://www.reddit.com/r/Construction/comments/1s1yawo/any_trick_to_fix/)
+- **发布时间**: 2026-03-24
+
+#### [FE thinking of a minor career shift](https://www.reddit.com/r/Construction/comments/1s1c0pw/fe_thinking_of_a_minor_career_shift/)
+- **发布时间**: 2026-03-23
 
 #### [Looking for the best “anti-vibration” gloves. Any recommendations?](https://www.reddit.com/r/Construction/comments/1rzd0nr/looking_for_the_best_antivibration_gloves_any/)
 - **发布时间**: 2026-03-21
@@ -33,23 +39,11 @@
 #### [Suggestions for hard-use waterproof bibs](https://www.reddit.com/r/Construction/comments/1rxh18l/suggestions_for_harduse_waterproof_bibs/)
 - **发布时间**: 2026-03-18
 
-#### [Addiction (not that type of addiction)](https://www.reddit.com/r/Construction/comments/1rxfd2u/addiction_not_that_type_of_addiction/)
-- **发布时间**: 2026-03-18
-
-#### [Is this a good job offer ?](https://www.reddit.com/r/Construction/comments/1rxbt5f/is_this_a_good_job_offer/)
-- **发布时间**: 2026-03-18
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
 
 #### [How do your CVR meetings go?](https://www.reddit.com/r/quantitysurveying/comments/1ry7mmi/how_do_your_cvr_meetings_go/)
 - **发布时间**: 2026-03-19
-
-#### [All QS is site work? Ireland](https://www.reddit.com/r/quantitysurveying/comments/1rvdq3g/all_qs_is_site_work_ireland/)
-- **发布时间**: 2026-03-16
-
-#### [Apprenticeship to uni?](https://www.reddit.com/r/quantitysurveying/comments/1rv494v/apprenticeship_to_uni/)
-- **发布时间**: 2026-03-16
 
 
 # 🇨🇳 中国平台 - 知乎
