@@ -1,10 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-27 01:16:41 (UTC)
+> **生成时间**: 2026-03-28 01:10:57 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Tired of Design](https://www.reddit.com/r/civilengineering/comments/1s5ehtl/tired_of_design/)
+- **发布时间**: 2026-03-27
+
+#### [Practical differences between Butt Fusion vs. Electrofusion in the field?](https://www.reddit.com/r/civilengineering/comments/1s4tk9d/practical_differences_between_butt_fusion_vs/)
+- **发布时间**: 2026-03-27
+
+#### [Not sure what to major in](https://www.reddit.com/r/civilengineering/comments/1s4qx33/not_sure_what_to_major_in/)
+- **发布时间**: 2026-03-27
 
 #### [I hate this job](https://www.reddit.com/r/civilengineering/comments/1s4kjbd/i_hate_this_job/)
 - **发布时间**: 2026-03-26
@@ -12,17 +21,11 @@
 #### [Suddenly became that “excel guy” because of A.I - how to navigate?](https://www.reddit.com/r/civilengineering/comments/1s4hfui/suddenly_became_that_excel_guy_because_of_ai_how/)
 - **发布时间**: 2026-03-26
 
-#### [In a unique dilemma and seeking advice](https://www.reddit.com/r/civilengineering/comments/1s3qnjy/in_a_unique_dilemma_and_seeking_advice/)
-- **发布时间**: 2026-03-25
-
-#### [Transmission Line Design - Career Intrest](https://www.reddit.com/r/civilengineering/comments/1s3qf39/transmission_line_design_career_intrest/)
-- **发布时间**: 2026-03-25
-
-#### [Compiling list of top 8 ways to handle messy CAD files - what’s missing?](https://www.reddit.com/r/civilengineering/comments/1s3gk79/compiling_list_of_top_8_ways_to_handle_messy_cad/)
-- **发布时间**: 2026-03-25
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Apps](https://www.reddit.com/r/Construction/comments/1s51y81/apps/)
+- **发布时间**: 2026-03-27
 
 #### [Underground Utilities Laborers](https://www.reddit.com/r/Construction/comments/1s4fnhq/underground_utilities_laborers/)
 - **发布时间**: 2026-03-26
@@ -36,11 +39,11 @@
 #### [Is construction actually worth it?](https://www.reddit.com/r/Construction/comments/1s2t3s7/is_construction_actually_worth_it/)
 - **发布时间**: 2026-03-24
 
-#### [How can i prove to companies i am all in and just need a chance without any experience in plumbing? located in los angeles](https://www.reddit.com/r/Construction/comments/1s2k9h1/how_can_i_prove_to_companies_i_am_all_in_and_just/)
-- **发布时间**: 2026-03-24
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Change of role query](https://www.reddit.com/r/quantitysurveying/comments/1s51cro/change_of_role_query/)
+- **发布时间**: 2026-03-27
 
 #### [A glimpse of the estimating tool that I am developing. What features do you think can lift the heaviest weight off your shoulders?](https://www.reddit.com/r/quantitysurveying/comments/1s3xlm3/a_glimpse_of_the_estimating_tool_that_i_am/)
 - **发布时间**: 2026-03-26
