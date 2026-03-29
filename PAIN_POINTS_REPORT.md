@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-03-28 01:10:57 (UTC)
+> **生成时间**: 2026-03-29 01:20:18 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Two months ago I posted here my data analysis on 18k public bids in Texas. The post blew up so I turned it into a free, non-commercial tool.](https://www.reddit.com/r/civilengineering/comments/1s639u6/two_months_ago_i_posted_here_my_data_analysis_on/)
+- **发布时间**: 2026-03-28
+
+#### [Career change](https://www.reddit.com/r/civilengineering/comments/1s5xk28/career_change/)
+- **发布时间**: 2026-03-28
 
 #### [Tired of Design](https://www.reddit.com/r/civilengineering/comments/1s5ehtl/tired_of_design/)
 - **发布时间**: 2026-03-27
@@ -15,14 +21,14 @@
 #### [Not sure what to major in](https://www.reddit.com/r/civilengineering/comments/1s4qx33/not_sure_what_to_major_in/)
 - **发布时间**: 2026-03-27
 
-#### [I hate this job](https://www.reddit.com/r/civilengineering/comments/1s4kjbd/i_hate_this_job/)
-- **发布时间**: 2026-03-26
-
-#### [Suddenly became that “excel guy” because of A.I - how to navigate?](https://www.reddit.com/r/civilengineering/comments/1s4hfui/suddenly_became_that_excel_guy_because_of_ai_how/)
-- **发布时间**: 2026-03-26
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Any intern/ex-intern at Cumming Group](https://www.reddit.com/r/Construction/comments/1s5sw6d/any_internexintern_at_cumming_group/)
+- **发布时间**: 2026-03-28
+
+#### [Help estimating fence project](https://www.reddit.com/r/Construction/comments/1s5na59/help_estimating_fence_project/)
+- **发布时间**: 2026-03-28
 
 #### [Apps](https://www.reddit.com/r/Construction/comments/1s51y81/apps/)
 - **发布时间**: 2026-03-27
@@ -33,14 +39,14 @@
 #### [Tipping](https://www.reddit.com/r/Construction/comments/1s3p463/tipping/)
 - **发布时间**: 2026-03-25
 
-#### [Sheetrock Above Slip Track on Bar Joist](https://www.reddit.com/r/Construction/comments/1s3hv1i/sheetrock_above_slip_track_on_bar_joist/)
-- **发布时间**: 2026-03-25
-
-#### [Is construction actually worth it?](https://www.reddit.com/r/Construction/comments/1s2t3s7/is_construction_actually_worth_it/)
-- **发布时间**: 2026-03-24
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Quantity Surveying & Estimating Templates + Services](https://www.reddit.com/r/quantitysurveying/comments/1s689ds/quantity_surveying_estimating_templates_services/)
+- **发布时间**: 2026-03-28
+
+#### [QS Greggs](https://www.reddit.com/r/quantitysurveying/comments/1s5ur9v/qs_greggs/)
+- **发布时间**: 2026-03-28
 
 #### [Change of role query](https://www.reddit.com/r/quantitysurveying/comments/1s51cro/change_of_role_query/)
 - **发布时间**: 2026-03-27
