@@ -1,13 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-01 01:25:14 (UTC)
+> **生成时间**: 2026-04-02 01:15:26 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Struggling to find mentorship](https://www.reddit.com/r/civilengineering/comments/1s8yb26/struggling_to_find_mentorship/)
-- **发布时间**: 2026-03-31
+#### [Solo Civil Engineering Company](https://www.reddit.com/r/civilengineering/comments/1s9iheo/solo_civil_engineering_company/)
+- **发布时间**: 2026-04-01
+
+#### [Job Opportunities within a Civil Engineering degree](https://www.reddit.com/r/civilengineering/comments/1s97b62/job_opportunities_within_a_civil_engineering/)
+- **发布时间**: 2026-04-01
 
 #### [Any Civils on here design exclusively recreational facilities?](https://www.reddit.com/r/civilengineering/comments/1s8vnim/any_civils_on_here_design_exclusively/)
 - **发布时间**: 2026-03-31
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-03-30
 
 #### [Licensing advice](https://www.reddit.com/r/civilengineering/comments/1s7qhw5/licensing_advice/)
-- **发布时间**: 2026-03-30
-
-#### [Looking for people to collaborate on a conceptual NYC tower project (architecture + structure)](https://www.reddit.com/r/civilengineering/comments/1s7p241/looking_for_people_to_collaborate_on_a_conceptual/)
 - **发布时间**: 2026-03-30
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -57,20 +57,28 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content", waiting until "domcontentloaded"
+
 
 ### 知乎「土木工程 痛点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content", waiting until "domcontentloaded"
+
 
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
