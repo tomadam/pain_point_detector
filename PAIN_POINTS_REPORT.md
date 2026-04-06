@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-05 01:20:49 (UTC)
+> **生成时间**: 2026-04-06 01:21:04 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Civil Bachelor's + Agri-Tech Masters: How to pivot to Water Modeling](https://www.reddit.com/r/civilengineering/comments/1sdcb6h/civil_bachelors_agritech_masters_how_to_pivot_to/)
+- **发布时间**: 2026-04-05
+
+#### [What types of jobs are Civil Engineering Technologist grads finding in Canada now?](https://www.reddit.com/r/civilengineering/comments/1sd9slw/what_types_of_jobs_are_civil_engineering/)
+- **发布时间**: 2026-04-05
 
 #### [CU Boulder or UIUC for Civil Engineering M.S. (structural concentration) non-thesis?](https://www.reddit.com/r/civilengineering/comments/1sbo59y/cu_boulder_or_uiuc_for_civil_engineering_ms/)
 - **发布时间**: 2026-04-03
@@ -15,17 +21,8 @@
 #### [A private detention pond is surrounded by pavement (no emergency overflow weir), is there a criteria for the 100-yr storm elevation to design to?](https://www.reddit.com/r/civilengineering/comments/1sauyz8/a_private_detention_pond_is_surrounded_by/)
 - **发布时间**: 2026-04-02
 
-#### [Job hoppers?](https://www.reddit.com/r/civilengineering/comments/1sakm7z/job_hoppers/)
-- **发布时间**: 2026-04-02
-
-#### [Not sure if I’m overthinking this or being brushed off at work](https://www.reddit.com/r/civilengineering/comments/1sajxme/not_sure_if_im_overthinking_this_or_being_brushed/)
-- **发布时间**: 2026-04-02
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
-
-#### [TPO Bubble](https://www.reddit.com/r/Construction/comments/1scpwpa/tpo_bubble/)
-- **发布时间**: 2026-04-05
 
 #### [UA290 HVAC and Glaziers Local 740 - 2026 Questions](https://www.reddit.com/r/Construction/comments/1sbm492/ua290_hvac_and_glaziers_local_740_2026_questions/)
 - **发布时间**: 2026-04-03
@@ -38,6 +35,9 @@
 
 #### [Attic staircase layout: where should they land?](https://www.reddit.com/r/Construction/comments/1sb74ur/attic_staircase_layout_where_should_they_land/)
 - **发布时间**: 2026-04-03
+
+#### [Interviewing on-site tomorrow, what should I expect?](https://www.reddit.com/r/Construction/comments/1safx3a/interviewing_onsite_tomorrow_what_should_i_expect/)
+- **发布时间**: 2026-04-02
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -67,10 +67,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
