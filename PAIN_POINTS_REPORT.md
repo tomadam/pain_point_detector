@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-06 01:21:04 (UTC)
+> **生成时间**: 2026-04-07 01:18:55 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Crawlspace concerns 3 years after hiring foundation company](https://www.reddit.com/r/civilengineering/comments/1seggyx/crawlspace_concerns_3_years_after_hiring/)
+- **发布时间**: 2026-04-07
 
 #### [Civil Bachelor's + Agri-Tech Masters: How to pivot to Water Modeling](https://www.reddit.com/r/civilengineering/comments/1sdcb6h/civil_bachelors_agritech_masters_how_to_pivot_to/)
 - **发布时间**: 2026-04-05
@@ -18,11 +21,11 @@
 #### [Any WSP Employees?](https://www.reddit.com/r/civilengineering/comments/1sbc4yb/any_wsp_employees/)
 - **发布时间**: 2026-04-03
 
-#### [A private detention pond is surrounded by pavement (no emergency overflow weir), is there a criteria for the 100-yr storm elevation to design to?](https://www.reddit.com/r/civilengineering/comments/1sauyz8/a_private_detention_pond_is_surrounded_by/)
-- **发布时间**: 2026-04-02
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Generalist vs. Specialist in Construction](https://www.reddit.com/r/Construction/comments/1sdnv10/generalist_vs_specialist_in_construction/)
+- **发布时间**: 2026-04-06
 
 #### [UA290 HVAC and Glaziers Local 740 - 2026 Questions](https://www.reddit.com/r/Construction/comments/1sbm492/ua290_hvac_and_glaziers_local_740_2026_questions/)
 - **发布时间**: 2026-04-03
@@ -35,9 +38,6 @@
 
 #### [Attic staircase layout: where should they land?](https://www.reddit.com/r/Construction/comments/1sb74ur/attic_staircase_layout_where_should_they_land/)
 - **发布时间**: 2026-04-03
-
-#### [Interviewing on-site tomorrow, what should I expect?](https://www.reddit.com/r/Construction/comments/1safx3a/interviewing_onsite_tomorrow_what_should_i_expect/)
-- **发布时间**: 2026-04-02
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
