@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-08 01:19:57 (UTC)
+> **生成时间**: 2026-04-09 01:10:07 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Has Anyone Ever Learned to Enjoy Office Life?](https://www.reddit.com/r/civilengineering/comments/1sfe369/has_anyone_ever_learned_to_enjoy_office_life/)
+#### [Detention pond or retention pond?](https://www.reddit.com/r/civilengineering/comments/1sgad0d/detention_pond_or_retention_pond/)
+- **发布时间**: 2026-04-09
+
+#### [CE student here! i just need some help with the structural design im working on](https://www.reddit.com/r/civilengineering/comments/1sg13ui/ce_student_here_i_just_need_some_help_with_the/)
 - **发布时间**: 2026-04-08
 
-#### [Balsa Wood Bridge Help](https://www.reddit.com/r/civilengineering/comments/1sfdjgq/balsa_wood_bridge_help/)
+#### [How common are probationary periods?](https://www.reddit.com/r/civilengineering/comments/1sfwc79/how_common_are_probationary_periods/)
 - **发布时间**: 2026-04-08
 
-#### [Is it possible/reasonable to get a MS in Civil Engineering with a BS in Comp sci?](https://www.reddit.com/r/civilengineering/comments/1sfdfai/is_it_possiblereasonable_to_get_a_ms_in_civil/)
+#### [What is an assurance quality plan? Example? Purpouse?](https://www.reddit.com/r/civilengineering/comments/1sfn7uh/what_is_an_assurance_quality_plan_example_purpouse/)
 - **发布时间**: 2026-04-08
 
-#### [Combining my companies Land Dev. experience with EE?](https://www.reddit.com/r/civilengineering/comments/1sf1m03/combining_my_companies_land_dev_experience_with_ee/)
-- **发布时间**: 2026-04-07
-
-#### [Mech. Eng degree -> CS degree -> Civil Engineer](https://www.reddit.com/r/civilengineering/comments/1sev2vx/mech_eng_degree_cs_degree_civil_engineer/)
-- **发布时间**: 2026-04-07
+#### [What is your day to day job like as a civil engineer ?](https://www.reddit.com/r/civilengineering/comments/1sfewsk/what_is_your_day_to_day_job_like_as_a_civil/)
+- **发布时间**: 2026-04-08
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [what's the biggest headache you deal with when it comes to interiors/finishes on a build?](https://www.reddit.com/r/Construction/comments/1sg8nxv/whats_the_biggest_headache_you_deal_with_when_it/)
+- **发布时间**: 2026-04-08
 
 #### [Starting as a Field Engineer at Kiewit in Power Delivery](https://www.reddit.com/r/Construction/comments/1sfektd/starting_as_a_field_engineer_at_kiewit_in_power/)
 - **发布时间**: 2026-04-08
@@ -35,9 +38,6 @@
 
 #### [Generalist vs. Specialist in Construction](https://www.reddit.com/r/Construction/comments/1sdnv10/generalist_vs_specialist_in_construction/)
 - **发布时间**: 2026-04-06
-
-#### [UA290 HVAC and Glaziers Local 740 - 2026 Questions](https://www.reddit.com/r/Construction/comments/1sbm492/ua290_hvac_and_glaziers_local_740_2026_questions/)
-- **发布时间**: 2026-04-03
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
