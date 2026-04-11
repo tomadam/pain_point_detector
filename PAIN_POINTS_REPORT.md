@@ -1,55 +1,46 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-10 01:21:06 (UTC)
+> **生成时间**: 2026-04-11 01:15:22 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Help Me Pivot](https://www.reddit.com/r/civilengineering/comments/1sgx2vl/help_me_pivot/)
-- **发布时间**: 2026-04-09
+#### [Water Systems Measurement & Reporting - AB](https://www.reddit.com/r/civilengineering/comments/1si0046/water_systems_measurement_reporting_ab/)
+- **发布时间**: 2026-04-10
 
-#### [Seeking advice - transitioning to water resources jobs with master's degree](https://www.reddit.com/r/civilengineering/comments/1sgvocw/seeking_advice_transitioning_to_water_resources/)
-- **发布时间**: 2026-04-09
+#### [Are Contracts Engineer in Demand across the Globe](https://www.reddit.com/r/civilengineering/comments/1shuen7/are_contracts_engineer_in_demand_across_the_globe/)
+- **发布时间**: 2026-04-10
 
-#### [CE student here! i just need some help with the structural design im working on](https://www.reddit.com/r/civilengineering/comments/1sg13ui/ce_student_here_i_just_need_some_help_with_the/)
-- **发布时间**: 2026-04-08
+#### [Starting as a FE at Kiewit in Power Delivery](https://www.reddit.com/r/civilengineering/comments/1shrn1a/starting_as_a_fe_at_kiewit_in_power_delivery/)
+- **发布时间**: 2026-04-10
 
-#### [How common are probationary periods?](https://www.reddit.com/r/civilengineering/comments/1sfwc79/how_common_are_probationary_periods/)
-- **发布时间**: 2026-04-08
+#### [Online or in-school?](https://www.reddit.com/r/civilengineering/comments/1shojk5/online_or_inschool/)
+- **发布时间**: 2026-04-10
 
-#### [What is an assurance quality plan? Example? Purpouse?](https://www.reddit.com/r/civilengineering/comments/1sfn7uh/what_is_an_assurance_quality_plan_example_purpouse/)
-- **发布时间**: 2026-04-08
+#### [Genuine question about my scenario](https://www.reddit.com/r/civilengineering/comments/1shhn6k/genuine_question_about_my_scenario/)
+- **发布时间**: 2026-04-10
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [Lowes big savings 30-60 percent](https://www.reddit.com/r/Construction/comments/1shyvnn/lowes_big_savings_3060_percent/)
+- **发布时间**: 2026-04-10
+
+#### [Lowes big savings](https://www.reddit.com/r/Construction/comments/1shyuaa/lowes_big_savings/)
+- **发布时间**: 2026-04-10
+
+#### [Being a young construction inspector](https://www.reddit.com/r/Construction/comments/1shv5du/being_a_young_construction_inspector/)
+- **发布时间**: 2026-04-10
+
+#### [Social media on the job site](https://www.reddit.com/r/Construction/comments/1shdtp2/social_media_on_the_job_site/)
+- **发布时间**: 2026-04-10
+
 #### [Career path dilemma](https://www.reddit.com/r/Construction/comments/1sh045n/career_path_dilemma/)
 - **发布时间**: 2026-04-09
 
-#### [what's the biggest headache you deal with when it comes to interiors/finishes on a build?](https://www.reddit.com/r/Construction/comments/1sg8nxv/whats_the_biggest_headache_you_deal_with_when_it/)
-- **发布时间**: 2026-04-08
-
-#### [Starting as a Field Engineer at Kiewit in Power Delivery](https://www.reddit.com/r/Construction/comments/1sfektd/starting_as_a_field_engineer_at_kiewit_in_power/)
-- **发布时间**: 2026-04-08
-
-#### [Dust proof phone case](https://www.reddit.com/r/Construction/comments/1sf3v60/dust_proof_phone_case/)
-- **发布时间**: 2026-04-07
-
-#### [Can I be a groundsworker if im not that physically fit?](https://www.reddit.com/r/Construction/comments/1sev307/can_i_be_a_groundsworker_if_im_not_that/)
-- **发布时间**: 2026-04-07
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### 📍 r/QuantitySurveying 动态
-
-#### [Graduate roles Ireland](https://www.reddit.com/r/quantitysurveying/comments/1sblzts/graduate_roles_ireland/)
-- **发布时间**: 2026-04-03
-
-#### [Debating job offer](https://www.reddit.com/r/quantitysurveying/comments/1sbjx1m/debating_job_offer/)
-- **发布时间**: 2026-04-03
-
-#### [Advice on if/how to charter](https://www.reddit.com/r/quantitysurveying/comments/1sbja5f/advice_on_ifhow_to_charter/)
-- **发布时间**: 2026-04-03
+### r/QuantitySurveying 本周无匹配内容
 
 
 # 🇨🇳 中国平台 - 知乎
