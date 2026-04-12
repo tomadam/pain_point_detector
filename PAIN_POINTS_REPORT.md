@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-11 01:15:22 (UTC)
+> **生成时间**: 2026-04-12 01:24:56 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Interested in gaining preliminary experience before exploring a degree](https://www.reddit.com/r/civilengineering/comments/1sikuzd/interested_in_gaining_preliminary_experience/)
+- **发布时间**: 2026-04-11
 
 #### [Water Systems Measurement & Reporting - AB](https://www.reddit.com/r/civilengineering/comments/1si0046/water_systems_measurement_reporting_ab/)
 - **发布时间**: 2026-04-10
@@ -18,11 +21,11 @@
 #### [Online or in-school?](https://www.reddit.com/r/civilengineering/comments/1shojk5/online_or_inschool/)
 - **发布时间**: 2026-04-10
 
-#### [Genuine question about my scenario](https://www.reddit.com/r/civilengineering/comments/1shhn6k/genuine_question_about_my_scenario/)
-- **发布时间**: 2026-04-10
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Would you hire people who are up front about being short term?](https://www.reddit.com/r/Construction/comments/1sis33a/would_you_hire_people_who_are_up_front_about/)
+- **发布时间**: 2026-04-11
 
 #### [Lowes big savings 30-60 percent](https://www.reddit.com/r/Construction/comments/1shyvnn/lowes_big_savings_3060_percent/)
 - **发布时间**: 2026-04-10
@@ -36,11 +39,14 @@
 #### [Social media on the job site](https://www.reddit.com/r/Construction/comments/1shdtp2/social_media_on_the_job_site/)
 - **发布时间**: 2026-04-10
 
-#### [Career path dilemma](https://www.reddit.com/r/Construction/comments/1sh045n/career_path_dilemma/)
-- **发布时间**: 2026-04-09
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### r/QuantitySurveying 本周无匹配内容
+### 📍 r/QuantitySurveying 动态
+
+#### [Planning to work abroad](https://www.reddit.com/r/quantitysurveying/comments/1sifhxj/planning_to_work_abroad/)
+- **发布时间**: 2026-04-11
+
+#### [Anyone Interview with Linesight?](https://www.reddit.com/r/quantitysurveying/comments/1sian1l/anyone_interview_with_linesight/)
+- **发布时间**: 2026-04-11
 
 
 # 🇨🇳 中国平台 - 知乎
@@ -55,8 +61,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
