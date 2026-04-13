@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-12 01:24:56 (UTC)
+> **生成时间**: 2026-04-13 01:26:52 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [The Change Grading needs](https://www.reddit.com/r/civilengineering/comments/1sj6qtc/the_change_grading_needs/)
+- **发布时间**: 2026-04-12
+
+#### [Hopefully with a little help. We can make an idea come to reality.](https://www.reddit.com/r/civilengineering/comments/1sj62t5/hopefully_with_a_little_help_we_can_make_an_idea/)
+- **发布时间**: 2026-04-12
 
 #### [Interested in gaining preliminary experience before exploring a degree](https://www.reddit.com/r/civilengineering/comments/1sikuzd/interested_in_gaining_preliminary_experience/)
 - **发布时间**: 2026-04-11
@@ -15,20 +21,14 @@
 #### [Are Contracts Engineer in Demand across the Globe](https://www.reddit.com/r/civilengineering/comments/1shuen7/are_contracts_engineer_in_demand_across_the_globe/)
 - **发布时间**: 2026-04-10
 
-#### [Starting as a FE at Kiewit in Power Delivery](https://www.reddit.com/r/civilengineering/comments/1shrn1a/starting_as_a_fe_at_kiewit_in_power_delivery/)
-- **发布时间**: 2026-04-10
-
-#### [Online or in-school?](https://www.reddit.com/r/civilengineering/comments/1shojk5/online_or_inschool/)
-- **发布时间**: 2026-04-10
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [Hopefully with a little help. We can make an idea come to reality.](https://www.reddit.com/r/Construction/comments/1sj696d/hopefully_with_a_little_help_we_can_make_an_idea/)
+- **发布时间**: 2026-04-12
+
 #### [Would you hire people who are up front about being short term?](https://www.reddit.com/r/Construction/comments/1sis33a/would_you_hire_people_who_are_up_front_about/)
 - **发布时间**: 2026-04-11
-
-#### [Lowes big savings 30-60 percent](https://www.reddit.com/r/Construction/comments/1shyvnn/lowes_big_savings_3060_percent/)
-- **发布时间**: 2026-04-10
 
 #### [Lowes big savings](https://www.reddit.com/r/Construction/comments/1shyuaa/lowes_big_savings/)
 - **发布时间**: 2026-04-10
@@ -61,10 +61,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
