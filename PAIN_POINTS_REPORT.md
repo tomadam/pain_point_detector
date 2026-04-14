@@ -1,10 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-13 01:26:52 (UTC)
+> **生成时间**: 2026-04-14 01:24:55 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [ABET Accreditation Requirement for Licensure - The Definitive Guide](https://www.reddit.com/r/civilengineering/comments/1skte1u/abet_accreditation_requirement_for_licensure_the/)
+- **发布时间**: 2026-04-14
+
+#### [W/WW Design-Build Projects](https://www.reddit.com/r/civilengineering/comments/1skk6p0/www_designbuild_projects/)
+- **发布时间**: 2026-04-13
+
+#### [Becoming a structural engineer !!!](https://www.reddit.com/r/civilengineering/comments/1skiyla/becoming_a_structural_engineer/)
+- **发布时间**: 2026-04-13
 
 #### [The Change Grading needs](https://www.reddit.com/r/civilengineering/comments/1sj6qtc/the_change_grading_needs/)
 - **发布时间**: 2026-04-12
@@ -12,17 +21,11 @@
 #### [Hopefully with a little help. We can make an idea come to reality.](https://www.reddit.com/r/civilengineering/comments/1sj62t5/hopefully_with_a_little_help_we_can_make_an_idea/)
 - **发布时间**: 2026-04-12
 
-#### [Interested in gaining preliminary experience before exploring a degree](https://www.reddit.com/r/civilengineering/comments/1sikuzd/interested_in_gaining_preliminary_experience/)
-- **发布时间**: 2026-04-11
-
-#### [Water Systems Measurement & Reporting - AB](https://www.reddit.com/r/civilengineering/comments/1si0046/water_systems_measurement_reporting_ab/)
-- **发布时间**: 2026-04-10
-
-#### [Are Contracts Engineer in Demand across the Globe](https://www.reddit.com/r/civilengineering/comments/1shuen7/are_contracts_engineer_in_demand_across_the_globe/)
-- **发布时间**: 2026-04-10
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [When do I reach out or ask for help?](https://www.reddit.com/r/Construction/comments/1sjzo8y/when_do_i_reach_out_or_ask_for_help/)
+- **发布时间**: 2026-04-13
 
 #### [Hopefully with a little help. We can make an idea come to reality.](https://www.reddit.com/r/Construction/comments/1sj696d/hopefully_with_a_little_help_we_can_make_an_idea/)
 - **发布时间**: 2026-04-12
@@ -34,9 +37,6 @@
 - **发布时间**: 2026-04-10
 
 #### [Being a young construction inspector](https://www.reddit.com/r/Construction/comments/1shv5du/being_a_young_construction_inspector/)
-- **发布时间**: 2026-04-10
-
-#### [Social media on the job site](https://www.reddit.com/r/Construction/comments/1shdtp2/social_media_on_the_job_site/)
 - **发布时间**: 2026-04-10
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
@@ -61,8 +61,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
