@@ -1,34 +1,34 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-17 01:24:31 (UTC)
+> **生成时间**: 2026-04-18 01:18:30 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Previous company wants to discuss maybe hiring me](https://www.reddit.com/r/civilengineering/comments/1sn77gc/previous_company_wants_to_discuss_maybe_hiring_me/)
-- **发布时间**: 2026-04-16
+#### [Update + asking for feedback on a new direction](https://www.reddit.com/r/civilengineering/comments/1sohy9d/update_asking_for_feedback_on_a_new_direction/)
+- **发布时间**: 2026-04-18
 
-#### [AI Platform - Civil Site Design](https://www.reddit.com/r/civilengineering/comments/1sn5szf/ai_platform_civil_site_design/)
-- **发布时间**: 2026-04-16
+#### [I want to quit my job, might be a messy breakup, is my last year of experience for a PE at risk?](https://www.reddit.com/r/civilengineering/comments/1sodker/i_want_to_quit_my_job_might_be_a_messy_breakup_is/)
+- **发布时间**: 2026-04-17
 
-#### [What is this structure?](https://www.reddit.com/r/civilengineering/comments/1smzccc/what_is_this_structure/)
-- **发布时间**: 2026-04-16
+#### [Question about entry level roles while dealing with health issues](https://www.reddit.com/r/civilengineering/comments/1so9j5q/question_about_entry_level_roles_while_dealing/)
+- **发布时间**: 2026-04-17
 
-#### [Working on this product for a while for civil engineering compliance. Can you guys give me an honest review?](https://www.reddit.com/r/civilengineering/comments/1smy0ob/working_on_this_product_for_a_while_for_civil/)
-- **发布时间**: 2026-04-16
+#### [What laptop to buy?](https://www.reddit.com/r/civilengineering/comments/1so64cq/what_laptop_to_buy/)
+- **发布时间**: 2026-04-17
 
-#### [A Question About Aarbee Training Academy ? Any one have idea about it ?](https://www.reddit.com/r/civilengineering/comments/1sms04o/a_question_about_aarbee_training_academy_any_one/)
-- **发布时间**: 2026-04-16
+#### [What would the best traffic control for a spot that needs two stops close together?](https://www.reddit.com/r/civilengineering/comments/1so5yjm/what_would_the_best_traffic_control_for_a_spot/)
+- **发布时间**: 2026-04-17
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
-#### [Got all my tools stolen out of my truck today, I need recommendations on replacements](https://www.reddit.com/r/Construction/comments/1snluxg/got_all_my_tools_stolen_out_of_my_truck_today_i/)
+#### [Construction Superintendent Salary OKC](https://www.reddit.com/r/Construction/comments/1so81o5/construction_superintendent_salary_okc/)
 - **发布时间**: 2026-04-17
 
-#### [Why are we still "hoping for the best" in 2026?](https://www.reddit.com/r/Construction/comments/1smohas/why_are_we_still_hoping_for_the_best_in_2026/)
-- **发布时间**: 2026-04-16
+#### [Got all my tools stolen out of my truck today, I need recommendations on replacements](https://www.reddit.com/r/Construction/comments/1snluxg/got_all_my_tools_stolen_out_of_my_truck_today_i/)
+- **发布时间**: 2026-04-17
 
 #### [Where to get affordable osha 10?](https://www.reddit.com/r/Construction/comments/1sme34r/where_to_get_affordable_osha_10/)
 - **发布时间**: 2026-04-15
@@ -67,10 +67,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
