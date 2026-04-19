@@ -1,12 +1,15 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-18 01:18:30 (UTC)
+> **生成时间**: 2026-04-19 01:28:01 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Update + asking for feedback on a new direction](https://www.reddit.com/r/civilengineering/comments/1sohy9d/update_asking_for_feedback_on_a_new_direction/)
+#### [Junior in college, unsure of majoring in civil engineering](https://www.reddit.com/r/civilengineering/comments/1spcc5i/junior_in_college_unsure_of_majoring_in_civil/)
+- **发布时间**: 2026-04-18
+
+#### [Finally got an internship…but I’m not sure about it!!!!](https://www.reddit.com/r/civilengineering/comments/1sp2750/finally_got_an_internshipbut_im_not_sure_about_it/)
 - **发布时间**: 2026-04-18
 
 #### [I want to quit my job, might be a messy breakup, is my last year of experience for a PE at risk?](https://www.reddit.com/r/civilengineering/comments/1sodker/i_want_to_quit_my_job_might_be_a_messy_breakup_is/)
@@ -18,14 +21,14 @@
 #### [What laptop to buy?](https://www.reddit.com/r/civilengineering/comments/1so64cq/what_laptop_to_buy/)
 - **发布时间**: 2026-04-17
 
-#### [What would the best traffic control for a spot that needs two stops close together?](https://www.reddit.com/r/civilengineering/comments/1so5yjm/what_would_the_best_traffic_control_for_a_spot/)
-- **发布时间**: 2026-04-17
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
-#### [Construction Superintendent Salary OKC](https://www.reddit.com/r/Construction/comments/1so81o5/construction_superintendent_salary_okc/)
-- **发布时间**: 2026-04-17
+#### [Update!](https://www.reddit.com/r/Construction/comments/1sp4xaz/update/)
+- **发布时间**: 2026-04-18
+
+#### [How to get started in construction](https://www.reddit.com/r/Construction/comments/1sox1hi/how_to_get_started_in_construction/)
+- **发布时间**: 2026-04-18
 
 #### [Got all my tools stolen out of my truck today, I need recommendations on replacements](https://www.reddit.com/r/Construction/comments/1snluxg/got_all_my_tools_stolen_out_of_my_truck_today_i/)
 - **发布时间**: 2026-04-17
@@ -36,23 +39,17 @@
 #### [Any framers here? This is a big no no yeah?](https://www.reddit.com/r/Construction/comments/1slc5r4/any_framers_here_this_is_a_big_no_no_yeah/)
 - **发布时间**: 2026-04-14
 
-#### [When do I reach out or ask for help?](https://www.reddit.com/r/Construction/comments/1sjzo8y/when_do_i_reach_out_or_ask_for_help/)
-- **发布时间**: 2026-04-13
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [QS development](https://www.reddit.com/r/quantitysurveying/comments/1sokn2v/qs_development/)
+- **发布时间**: 2026-04-18
 
 #### [Intermediate vs Senior QS](https://www.reddit.com/r/quantitysurveying/comments/1smvwqo/intermediate_vs_senior_qs/)
 - **发布时间**: 2026-04-16
 
 #### [QS to Pre-con](https://www.reddit.com/r/quantitysurveying/comments/1sl1yho/qs_to_precon/)
 - **发布时间**: 2026-04-14
-
-#### [Planning to work abroad](https://www.reddit.com/r/quantitysurveying/comments/1sifhxj/planning_to_work_abroad/)
-- **发布时间**: 2026-04-11
-
-#### [Anyone Interview with Linesight?](https://www.reddit.com/r/quantitysurveying/comments/1sian1l/anyone_interview_with_linesight/)
-- **发布时间**: 2026-04-11
 
 
 # 🇨🇳 中国平台 - 知乎
