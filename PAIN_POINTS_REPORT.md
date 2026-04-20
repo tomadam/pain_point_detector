@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-19 01:28:01 (UTC)
+> **生成时间**: 2026-04-20 01:27:44 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Atrium: French Drain + Floating Deck (Basement & Slab foundation)](https://www.reddit.com/r/civilengineering/comments/1sq4zy7/atrium_french_drain_floating_deck_basement_slab/)
+- **发布时间**: 2026-04-19
+
+#### [Avoid Kimley-Horn like the plague](https://www.reddit.com/r/civilengineering/comments/1spwgqm/avoid_kimleyhorn_like_the_plague/)
+- **发布时间**: 2026-04-19
 
 #### [Junior in college, unsure of majoring in civil engineering](https://www.reddit.com/r/civilengineering/comments/1spcc5i/junior_in_college_unsure_of_majoring_in_civil/)
 - **发布时间**: 2026-04-18
@@ -13,12 +19,6 @@
 - **发布时间**: 2026-04-18
 
 #### [I want to quit my job, might be a messy breakup, is my last year of experience for a PE at risk?](https://www.reddit.com/r/civilengineering/comments/1sodker/i_want_to_quit_my_job_might_be_a_messy_breakup_is/)
-- **发布时间**: 2026-04-17
-
-#### [Question about entry level roles while dealing with health issues](https://www.reddit.com/r/civilengineering/comments/1so9j5q/question_about_entry_level_roles_while_dealing/)
-- **发布时间**: 2026-04-17
-
-#### [What laptop to buy?](https://www.reddit.com/r/civilengineering/comments/1so64cq/what_laptop_to_buy/)
 - **发布时间**: 2026-04-17
 
 ## 🏢 领域：建筑施工 (r/Construction)
