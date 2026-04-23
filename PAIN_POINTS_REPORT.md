@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-22 01:23:12 (UTC)
+> **生成时间**: 2026-04-23 01:28:17 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Pre-employment drug screen internship](https://www.reddit.com/r/civilengineering/comments/1ssp1yl/preemployment_drug_screen_internship/)
+- **发布时间**: 2026-04-22
 
 #### [New American Innovation: Pythag-Ra-Bout](https://www.reddit.com/r/civilengineering/comments/1sreahi/new_american_innovation_pythagrabout/)
 - **发布时间**: 2026-04-21
@@ -17,9 +20,6 @@
 
 #### [Avoid Kimley-Horn like the plague](https://www.reddit.com/r/civilengineering/comments/1spwgqm/avoid_kimleyhorn_like_the_plague/)
 - **发布时间**: 2026-04-19
-
-#### [Junior in college, unsure of majoring in civil engineering](https://www.reddit.com/r/civilengineering/comments/1spcc5i/junior_in_college_unsure_of_majoring_in_civil/)
-- **发布时间**: 2026-04-18
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
