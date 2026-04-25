@@ -1,10 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-24 01:27:22 (UTC)
+> **生成时间**: 2026-04-25 01:20:54 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Graduating without a Job](https://www.reddit.com/r/civilengineering/comments/1suqjzf/graduating_without_a_job/)
+- **发布时间**: 2026-04-24
+
+#### [Preparing for a Transit / LRT Project Engineer Interview](https://www.reddit.com/r/civilengineering/comments/1sumqwz/preparing_for_a_transit_lrt_project_engineer/)
+- **发布时间**: 2026-04-24
+
+#### [AECOM PE Licensure Incentives/Reward?](https://www.reddit.com/r/civilengineering/comments/1su6djk/aecom_pe_licensure_incentivesreward/)
+- **发布时间**: 2026-04-24
 
 #### [Working with matching existing](https://www.reddit.com/r/civilengineering/comments/1stng4v/working_with_matching_existing/)
 - **发布时间**: 2026-04-23
@@ -12,31 +21,22 @@
 #### [Pre-employment drug screen internship](https://www.reddit.com/r/civilengineering/comments/1ssp1yl/preemployment_drug_screen_internship/)
 - **发布时间**: 2026-04-22
 
-#### [New American Innovation: Pythag-Ra-Bout](https://www.reddit.com/r/civilengineering/comments/1sreahi/new_american_innovation_pythagrabout/)
-- **发布时间**: 2026-04-21
-
-#### [Pipe charts are a massive PIA](https://www.reddit.com/r/civilengineering/comments/1squ5mm/pipe_charts_are_a_massive_pia/)
-- **发布时间**: 2026-04-20
-
-#### [Atrium: French Drain + Floating Deck (Basement & Slab foundation)](https://www.reddit.com/r/civilengineering/comments/1sq4zy7/atrium_french_drain_floating_deck_basement_slab/)
-- **发布时间**: 2026-04-19
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
-#### [What Night and Weekend Construction Work Was Done on the Empire State Building?](https://www.reddit.com/r/Construction/comments/1stw3k3/what_night_and_weekend_construction_work_was_done/)
-- **发布时间**: 2026-04-23
+#### [Indoor Shooting Range](https://www.reddit.com/r/Construction/comments/1suwopt/indoor_shooting_range/)
+- **发布时间**: 2026-04-25
 
-#### [Leaky ceiling saga](https://www.reddit.com/r/Construction/comments/1stvgiq/leaky_ceiling_saga/)
+#### [Turner Scheduler and miller APM offer letter?](https://www.reddit.com/r/Construction/comments/1suksqs/turner_scheduler_and_miller_apm_offer_letter/)
+- **发布时间**: 2026-04-24
+
+#### [What Night and Weekend Construction Work Was Done on the Empire State Building?](https://www.reddit.com/r/Construction/comments/1stw3k3/what_night_and_weekend_construction_work_was_done/)
 - **发布时间**: 2026-04-23
 
 #### [HUGE DROP after new builds back Gardens...](https://www.reddit.com/r/Construction/comments/1stclxi/huge_drop_after_new_builds_back_gardens/)
 - **发布时间**: 2026-04-23
 
 #### [Looking into possibly becoming a building Inspector - any advice?](https://www.reddit.com/r/Construction/comments/1srv2rf/looking_into_possibly_becoming_a_building/)
-- **发布时间**: 2026-04-21
-
-#### [My boss and I have a problem I need advice](https://www.reddit.com/r/Construction/comments/1srp32u/my_boss_and_i_have_a_problem_i_need_advice/)
 - **发布时间**: 2026-04-21
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
@@ -61,10 +61,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
