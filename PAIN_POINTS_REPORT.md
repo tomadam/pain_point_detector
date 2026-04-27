@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-26 01:30:26 (UTC)
+> **生成时间**: 2026-04-27 01:44:57 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Graduating without a Job](https://www.reddit.com/r/civilengineering/comments/1suqjzf/graduating_without_a_job/)
-- **发布时间**: 2026-04-24
+#### [Looking for resources on guyed scaffolding towers.](https://www.reddit.com/r/civilengineering/comments/1swjrd7/looking_for_resources_on_guyed_scaffolding_towers/)
+- **发布时间**: 2026-04-26
 
-#### [Preparing for a Transit / LRT Project Engineer Interview](https://www.reddit.com/r/civilengineering/comments/1sumqwz/preparing_for_a_transit_lrt_project_engineer/)
-- **发布时间**: 2026-04-24
+#### [New grad engineer laid off after 4 months, struggling to move forward](https://www.reddit.com/r/civilengineering/comments/1swjqed/new_grad_engineer_laid_off_after_4_months/)
+- **发布时间**: 2026-04-26
 
-#### [AECOM PE Licensure Incentives/Reward?](https://www.reddit.com/r/civilengineering/comments/1su6djk/aecom_pe_licensure_incentivesreward/)
-- **发布时间**: 2026-04-24
+#### [Intersection of Civil Engineering, Architecture/Urban Planning, and Resilient Infrastructure? Programs/Experience?](https://www.reddit.com/r/civilengineering/comments/1swb09s/intersection_of_civil_engineering/)
+- **发布时间**: 2026-04-26
 
-#### [Working with matching existing](https://www.reddit.com/r/civilengineering/comments/1stng4v/working_with_matching_existing/)
-- **发布时间**: 2026-04-23
+#### [Line work issue](https://www.reddit.com/r/civilengineering/comments/1sw9d5g/line_work_issue/)
+- **发布时间**: 2026-04-26
 
-#### [Pre-employment drug screen internship](https://www.reddit.com/r/civilengineering/comments/1ssp1yl/preemployment_drug_screen_internship/)
-- **发布时间**: 2026-04-22
+#### [Switching my major ( Anything I should Really Know!)](https://www.reddit.com/r/civilengineering/comments/1svzmmn/switching_my_major_anything_i_should_really_know/)
+- **发布时间**: 2026-04-26
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Problem solving skills](https://www.reddit.com/r/Construction/comments/1sw729u/problem_solving_skills/)
+- **发布时间**: 2026-04-26
 
 #### [Cost break down of our fleet as we are transitioning to electric vehicles](https://www.reddit.com/r/Construction/comments/1svnc5y/cost_break_down_of_our_fleet_as_we_are/)
 - **发布时间**: 2026-04-25
@@ -35,9 +38,6 @@
 
 #### [Turner Scheduler and miller APM offer letter?](https://www.reddit.com/r/Construction/comments/1suksqs/turner_scheduler_and_miller_apm_offer_letter/)
 - **发布时间**: 2026-04-24
-
-#### [What Night and Weekend Construction Work Was Done on the Empire State Building?](https://www.reddit.com/r/Construction/comments/1stw3k3/what_night_and_weekend_construction_work_was_done/)
-- **发布时间**: 2026-04-23
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -58,10 +58,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
