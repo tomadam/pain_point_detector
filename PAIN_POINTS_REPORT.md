@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-27 01:44:57 (UTC)
+> **生成时间**: 2026-04-28 01:52:14 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [How can I get a Civil Engineer degree while keeping my current full-time job?](https://www.reddit.com/r/civilengineering/comments/1sxcqbv/how_can_i_get_a_civil_engineer_degree_while/)
+- **发布时间**: 2026-04-27
 
 #### [Looking for resources on guyed scaffolding towers.](https://www.reddit.com/r/civilengineering/comments/1swjrd7/looking_for_resources_on_guyed_scaffolding_towers/)
 - **发布时间**: 2026-04-26
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-04-26
 
 #### [Line work issue](https://www.reddit.com/r/civilengineering/comments/1sw9d5g/line_work_issue/)
-- **发布时间**: 2026-04-26
-
-#### [Switching my major ( Anything I should Really Know!)](https://www.reddit.com/r/civilengineering/comments/1svzmmn/switching_my_major_anything_i_should_really_know/)
 - **发布时间**: 2026-04-26
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -42,8 +42,8 @@
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
 
-#### [Premature liquidation](https://www.reddit.com/r/quantitysurveying/comments/1sqpr0x/premature_liquidation/)
-- **发布时间**: 2026-04-20
+#### [Aussie looking to move to London](https://www.reddit.com/r/quantitysurveying/comments/1sx1vzm/aussie_looking_to_move_to_london/)
+- **发布时间**: 2026-04-27
 
 
 # 🇨🇳 中国平台 - 知乎
@@ -58,8 +58,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
