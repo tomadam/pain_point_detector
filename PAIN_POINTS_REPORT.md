@@ -1,24 +1,24 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-28 01:52:14 (UTC)
+> **生成时间**: 2026-04-29 01:54:56 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Changing jobs](https://www.reddit.com/r/civilengineering/comments/1sykb4m/changing_jobs/)
+- **发布时间**: 2026-04-29
+
+#### [Purpose of this double yellow](https://www.reddit.com/r/civilengineering/comments/1syghmm/purpose_of_this_double_yellow/)
+- **发布时间**: 2026-04-28
+
+#### [Is a career in Civil Engineering right for me? (Singapore/Australia/Canada) Should I transfer to study Civil Engineering?](https://www.reddit.com/r/civilengineering/comments/1sxy0nx/is_a_career_in_civil_engineering_right_for_me/)
+- **发布时间**: 2026-04-28
+
 #### [How can I get a Civil Engineer degree while keeping my current full-time job?](https://www.reddit.com/r/civilengineering/comments/1sxcqbv/how_can_i_get_a_civil_engineer_degree_while/)
 - **发布时间**: 2026-04-27
 
 #### [Looking for resources on guyed scaffolding towers.](https://www.reddit.com/r/civilengineering/comments/1swjrd7/looking_for_resources_on_guyed_scaffolding_towers/)
-- **发布时间**: 2026-04-26
-
-#### [New grad engineer laid off after 4 months, struggling to move forward](https://www.reddit.com/r/civilengineering/comments/1swjqed/new_grad_engineer_laid_off_after_4_months/)
-- **发布时间**: 2026-04-26
-
-#### [Intersection of Civil Engineering, Architecture/Urban Planning, and Resilient Infrastructure? Programs/Experience?](https://www.reddit.com/r/civilengineering/comments/1swb09s/intersection_of_civil_engineering/)
-- **发布时间**: 2026-04-26
-
-#### [Line work issue](https://www.reddit.com/r/civilengineering/comments/1sw9d5g/line_work_issue/)
 - **发布时间**: 2026-04-26
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -58,10 +58,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
