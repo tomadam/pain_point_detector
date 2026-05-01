@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-04-30 01:53:53 (UTC)
+> **生成时间**: 2026-05-01 01:55:43 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Need To Have Culvert Head Wall Replaced - Who To Call?](https://www.reddit.com/r/civilengineering/comments/1t05mf8/need_to_have_culvert_head_wall_replaced_who_to/)
+- **发布时间**: 2026-04-30
+
+#### [Rant about Architects & GC's wanting to cut corners...](https://www.reddit.com/r/civilengineering/comments/1szxyn5/rant_about_architects_gcs_wanting_to_cut_corners/)
+- **发布时间**: 2026-04-30
 
 #### [Summer intern](https://www.reddit.com/r/civilengineering/comments/1syrrva/summer_intern/)
 - **发布时间**: 2026-04-29
@@ -14,12 +20,6 @@
 
 #### [Purpose of this double yellow](https://www.reddit.com/r/civilengineering/comments/1syghmm/purpose_of_this_double_yellow/)
 - **发布时间**: 2026-04-28
-
-#### [Is a career in Civil Engineering right for me? (Singapore/Australia/Canada) Should I transfer to study Civil Engineering?](https://www.reddit.com/r/civilengineering/comments/1sxy0nx/is_a_career_in_civil_engineering_right_for_me/)
-- **发布时间**: 2026-04-28
-
-#### [How can I get a Civil Engineer degree while keeping my current full-time job?](https://www.reddit.com/r/civilengineering/comments/1sxcqbv/how_can_i_get_a_civil_engineer_degree_while/)
-- **发布时间**: 2026-04-27
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
