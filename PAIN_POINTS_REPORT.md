@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-02 01:45:21 (UTC)
+> **生成时间**: 2026-05-03 01:48:53 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -24,6 +24,12 @@
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [PERMITS!](https://www.reddit.com/r/Construction/comments/1t1zjnw/permits/)
+- **发布时间**: 2026-05-02
+
+#### [Under qualified jr foreman?](https://www.reddit.com/r/Construction/comments/1t1dcsm/under_qualified_jr_foreman/)
+- **发布时间**: 2026-05-02
+
 #### [Full yard rebuild: hardscaping, fences, irrigation, lawn](https://www.reddit.com/r/Construction/comments/1t19eq8/full_yard_rebuild_hardscaping_fences_irrigation/)
 - **发布时间**: 2026-05-01
 
@@ -32,12 +38,6 @@
 
 #### [boots for new framer?](https://www.reddit.com/r/Construction/comments/1synlmg/boots_for_new_framer/)
 - **发布时间**: 2026-04-29
-
-#### [Problem solving skills](https://www.reddit.com/r/Construction/comments/1sw729u/problem_solving_skills/)
-- **发布时间**: 2026-04-26
-
-#### [Cost break down of our fleet as we are transitioning to electric vehicles](https://www.reddit.com/r/Construction/comments/1svnc5y/cost_break_down_of_our_fleet_as_we_are/)
-- **发布时间**: 2026-04-25
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
