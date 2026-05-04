@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-03 01:48:53 (UTC)
+> **生成时间**: 2026-05-04 01:48:44 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [WB20/I-BUS Swept Path Issue](https://www.reddit.com/r/civilengineering/comments/1t2kfz3/wb20ibus_swept_path_issue/)
+- **发布时间**: 2026-05-03
+
+#### [Next Steps after College](https://www.reddit.com/r/civilengineering/comments/1t2dmt5/next_steps_after_college/)
+- **发布时间**: 2026-05-03
 
 #### [I started going into the office full-time by choice](https://www.reddit.com/r/civilengineering/comments/1t19ewk/i_started_going_into_the_office_fulltime_by_choice/)
 - **发布时间**: 2026-05-01
@@ -14,12 +20,6 @@
 
 #### [Career advice needed](https://www.reddit.com/r/civilengineering/comments/1t0uvqp/career_advice_needed/)
 - **发布时间**: 2026-05-01
-
-#### [From life](https://www.reddit.com/r/civilengineering/comments/1t0k0xd/from_life/)
-- **发布时间**: 2026-05-01
-
-#### [Need To Have Culvert Head Wall Replaced - Who To Call?](https://www.reddit.com/r/civilengineering/comments/1t05mf8/need_to_have_culvert_head_wall_replaced_who_to/)
-- **发布时间**: 2026-04-30
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
