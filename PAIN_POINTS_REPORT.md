@@ -1,10 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-04 01:48:44 (UTC)
+> **生成时间**: 2026-05-05 01:49:50 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Degree Questions](https://www.reddit.com/r/civilengineering/comments/1t3zqjq/degree_questions/)
+- **发布时间**: 2026-05-05
+
+#### [How can I find out more about this major and gain more experience?](https://www.reddit.com/r/civilengineering/comments/1t3ym0b/how_can_i_find_out_more_about_this_major_and_gain/)
+- **发布时间**: 2026-05-04
+
+#### [Submersed river equipment design issues-sediment deposition, floating debris, floods](https://www.reddit.com/r/civilengineering/comments/1t3mw64/submersed_river_equipment_design_issuessediment/)
+- **发布时间**: 2026-05-04
 
 #### [WB20/I-BUS Swept Path Issue](https://www.reddit.com/r/civilengineering/comments/1t2kfz3/wb20ibus_swept_path_issue/)
 - **发布时间**: 2026-05-03
@@ -12,17 +21,11 @@
 #### [Next Steps after College](https://www.reddit.com/r/civilengineering/comments/1t2dmt5/next_steps_after_college/)
 - **发布时间**: 2026-05-03
 
-#### [I started going into the office full-time by choice](https://www.reddit.com/r/civilengineering/comments/1t19ewk/i_started_going_into_the_office_fulltime_by_choice/)
-- **发布时间**: 2026-05-01
-
-#### [Does anyone else feel that civil engineer pay is insulting?](https://www.reddit.com/r/civilengineering/comments/1t12vfp/does_anyone_else_feel_that_civil_engineer_pay_is/)
-- **发布时间**: 2026-05-01
-
-#### [Career advice needed](https://www.reddit.com/r/civilengineering/comments/1t0uvqp/career_advice_needed/)
-- **发布时间**: 2026-05-01
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Seeking Advice - Burnt out geologist thinking about construction management](https://www.reddit.com/r/Construction/comments/1t350iz/seeking_advice_burnt_out_geologist_thinking_about/)
+- **发布时间**: 2026-05-04
 
 #### [PERMITS!](https://www.reddit.com/r/Construction/comments/1t1zjnw/permits/)
 - **发布时间**: 2026-05-02
@@ -36,14 +39,8 @@
 #### [Any one else find that modern laser designs are pretty bad compared to the older designs?](https://www.reddit.com/r/Construction/comments/1sz0yuh/any_one_else_find_that_modern_laser_designs_are/)
 - **发布时间**: 2026-04-29
 
-#### [boots for new framer?](https://www.reddit.com/r/Construction/comments/1synlmg/boots_for_new_framer/)
-- **发布时间**: 2026-04-29
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### 📍 r/QuantitySurveying 动态
-
-#### [Aussie looking to move to London](https://www.reddit.com/r/quantitysurveying/comments/1sx1vzm/aussie_looking_to_move_to_london/)
-- **发布时间**: 2026-04-27
+### r/QuantitySurveying 本周无匹配内容
 
 
 # 🇨🇳 中国平台 - 知乎
