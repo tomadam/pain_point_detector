@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-05 01:49:50 (UTC)
+> **生成时间**: 2026-05-06 01:48:40 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -24,6 +24,9 @@
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [Builder in southern mi](https://www.reddit.com/r/Construction/comments/1t4uc1v/builder_in_southern_mi/)
+- **发布时间**: 2026-05-05
+
 #### [Seeking Advice - Burnt out geologist thinking about construction management](https://www.reddit.com/r/Construction/comments/1t350iz/seeking_advice_burnt_out_geologist_thinking_about/)
 - **发布时间**: 2026-05-04
 
@@ -35,9 +38,6 @@
 
 #### [Full yard rebuild: hardscaping, fences, irrigation, lawn](https://www.reddit.com/r/Construction/comments/1t19eq8/full_yard_rebuild_hardscaping_fences_irrigation/)
 - **发布时间**: 2026-05-01
-
-#### [Any one else find that modern laser designs are pretty bad compared to the older designs?](https://www.reddit.com/r/Construction/comments/1sz0yuh/any_one_else_find_that_modern_laser_designs_are/)
-- **发布时间**: 2026-04-29
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### r/QuantitySurveying 本周无匹配内容
