@@ -1,28 +1,34 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-06 01:48:40 (UTC)
+> **生成时间**: 2026-05-07 01:52:31 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Construction inspector sense of purpose?](https://www.reddit.com/r/civilengineering/comments/1t5w3cn/construction_inspector_sense_of_purpose/)
+- **发布时间**: 2026-05-07
+
+#### [Hydraulic questions: bridge abutment + old stone retaining wall interaction causing trapped water, NFIP, Floodway, Historic District](https://www.reddit.com/r/civilengineering/comments/1t5o9ir/hydraulic_questions_bridge_abutment_old_stone/)
+- **发布时间**: 2026-05-06
+
+#### [Beyond the desk: Where can Civil Engineers work on hardware, specialized machinery, and technical field trials?](https://www.reddit.com/r/civilengineering/comments/1t5ii7u/beyond_the_desk_where_can_civil_engineers_work_on/)
+- **发布时间**: 2026-05-06
+
+#### [Storm and Sanitary Analysis](https://www.reddit.com/r/civilengineering/comments/1t5haj1/storm_and_sanitary_analysis/)
+- **发布时间**: 2026-05-06
+
 #### [Degree Questions](https://www.reddit.com/r/civilengineering/comments/1t3zqjq/degree_questions/)
 - **发布时间**: 2026-05-05
 
-#### [How can I find out more about this major and gain more experience?](https://www.reddit.com/r/civilengineering/comments/1t3ym0b/how_can_i_find_out_more_about_this_major_and_gain/)
-- **发布时间**: 2026-05-04
-
-#### [Submersed river equipment design issues-sediment deposition, floating debris, floods](https://www.reddit.com/r/civilengineering/comments/1t3mw64/submersed_river_equipment_design_issuessediment/)
-- **发布时间**: 2026-05-04
-
-#### [WB20/I-BUS Swept Path Issue](https://www.reddit.com/r/civilengineering/comments/1t2kfz3/wb20ibus_swept_path_issue/)
-- **发布时间**: 2026-05-03
-
-#### [Next Steps after College](https://www.reddit.com/r/civilengineering/comments/1t2dmt5/next_steps_after_college/)
-- **发布时间**: 2026-05-03
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Would you say this is an allowable deviation for printed quartz?](https://www.reddit.com/r/Construction/comments/1t5voa7/would_you_say_this_is_an_allowable_deviation_for/)
+- **发布时间**: 2026-05-07
+
+#### [Question for European Construction Managers and laborers](https://www.reddit.com/r/Construction/comments/1t5cc8j/question_for_european_construction_managers_and/)
+- **发布时间**: 2026-05-06
 
 #### [Builder in southern mi](https://www.reddit.com/r/Construction/comments/1t4uc1v/builder_in_southern_mi/)
 - **发布时间**: 2026-05-05
@@ -32,12 +38,6 @@
 
 #### [PERMITS!](https://www.reddit.com/r/Construction/comments/1t1zjnw/permits/)
 - **发布时间**: 2026-05-02
-
-#### [Under qualified jr foreman?](https://www.reddit.com/r/Construction/comments/1t1dcsm/under_qualified_jr_foreman/)
-- **发布时间**: 2026-05-02
-
-#### [Full yard rebuild: hardscaping, fences, irrigation, lawn](https://www.reddit.com/r/Construction/comments/1t19eq8/full_yard_rebuild_hardscaping_fences_irrigation/)
-- **发布时间**: 2026-05-01
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### r/QuantitySurveying 本周无匹配内容
