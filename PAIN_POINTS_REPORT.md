@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-08 01:58:03 (UTC)
+> **生成时间**: 2026-05-09 01:52:06 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Is there a way to hide my address on license lookups?](https://www.reddit.com/r/civilengineering/comments/1t7cha0/is_there_a_way_to_hide_my_address_on_license/)
+- **发布时间**: 2026-05-08
 
 #### [I Need Advice PLEASE!!!](https://www.reddit.com/r/civilengineering/comments/1t6rfl7/i_need_advice_please/)
 - **发布时间**: 2026-05-07
@@ -15,16 +18,13 @@
 #### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nqks/engineering_in_spain/)
 - **发布时间**: 2026-05-07
 
-#### [Any other EITs hate creating estimates](https://www.reddit.com/r/civilengineering/comments/1t691zn/any_other_eits_hate_creating_estimates/)
-- **发布时间**: 2026-05-07
-
 #### [Questions on Experience Requirement](https://www.reddit.com/r/civilengineering/comments/1t5zpqg/questions_on_experience_requirement/)
 - **发布时间**: 2026-05-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
-#### [Cost Estimating Help](https://www.reddit.com/r/Construction/comments/1t6u3do/cost_estimating_help/)
+#### [Over a year searching for APM/PC roles: Is the lack of a degree killing my chances?](https://www.reddit.com/r/Construction/comments/1t7m9iv/over_a_year_searching_for_apmpc_roles_is_the_lack/)
 - **发布时间**: 2026-05-08
 
 #### [Looking for app for plans](https://www.reddit.com/r/Construction/comments/1t6shos/looking_for_app_for_plans/)
@@ -40,7 +40,10 @@
 - **发布时间**: 2026-05-04
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### r/QuantitySurveying 本周无匹配内容
+### 📍 r/QuantitySurveying 动态
+
+#### [Getting into being a QS as a 25M who’s getting married next year based in London.](https://www.reddit.com/r/quantitysurveying/comments/1t72nt0/getting_into_being_a_qs_as_a_25m_whos_getting/)
+- **发布时间**: 2026-05-08
 
 
 # 🇨🇳 中国平台 - 知乎
@@ -55,8 +58,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
