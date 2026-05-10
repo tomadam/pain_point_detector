@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-09 01:52:06 (UTC)
+> **生成时间**: 2026-05-10 01:52:07 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Is there a way to hide my address on license lookups?](https://www.reddit.com/r/civilengineering/comments/1t7cha0/is_there_a_way_to_hide_my_address_on_license/)
-- **发布时间**: 2026-05-08
+#### [Should I choose Civil Eng or Arch Eng?](https://www.reddit.com/r/civilengineering/comments/1t8t9cb/should_i_choose_civil_eng_or_arch_eng/)
+- **发布时间**: 2026-05-10
+
+#### [Highway startup firm client potential](https://www.reddit.com/r/civilengineering/comments/1t8sor9/highway_startup_firm_client_potential/)
+- **发布时间**: 2026-05-10
+
+#### [Need some career advice](https://www.reddit.com/r/civilengineering/comments/1t8rqb3/need_some_career_advice/)
+- **发布时间**: 2026-05-10
+
+#### [What certifications are useful for career advancement?](https://www.reddit.com/r/civilengineering/comments/1t86cwp/what_certifications_are_useful_for_career/)
+- **发布时间**: 2026-05-09
 
 #### [I Need Advice PLEASE!!!](https://www.reddit.com/r/civilengineering/comments/1t6rfl7/i_need_advice_please/)
 - **发布时间**: 2026-05-07
 
-#### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nrex/engineering_in_spain/)
-- **发布时间**: 2026-05-07
-
-#### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nqks/engineering_in_spain/)
-- **发布时间**: 2026-05-07
-
-#### [Questions on Experience Requirement](https://www.reddit.com/r/civilengineering/comments/1t5zpqg/questions_on_experience_requirement/)
-- **发布时间**: 2026-05-07
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Seeking genuine advice](https://www.reddit.com/r/Construction/comments/1t7x1bt/seeking_genuine_advice/)
+- **发布时间**: 2026-05-09
 
 #### [Over a year searching for APM/PC roles: Is the lack of a degree killing my chances?](https://www.reddit.com/r/Construction/comments/1t7m9iv/over_a_year_searching_for_apmpc_roles_is_the_lack/)
 - **发布时间**: 2026-05-08
@@ -35,9 +38,6 @@
 
 #### [Builder in southern mi](https://www.reddit.com/r/Construction/comments/1t4uc1v/builder_in_southern_mi/)
 - **发布时间**: 2026-05-05
-
-#### [Seeking Advice - Burnt out geologist thinking about construction management](https://www.reddit.com/r/Construction/comments/1t350iz/seeking_advice_burnt_out_geologist_thinking_about/)
-- **发布时间**: 2026-05-04
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -58,10 +58,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
