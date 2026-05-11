@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-10 01:52:07 (UTC)
+> **生成时间**: 2026-05-11 02:00:10 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -9,20 +9,23 @@
 #### [Should I choose Civil Eng or Arch Eng?](https://www.reddit.com/r/civilengineering/comments/1t8t9cb/should_i_choose_civil_eng_or_arch_eng/)
 - **发布时间**: 2026-05-10
 
-#### [Highway startup firm client potential](https://www.reddit.com/r/civilengineering/comments/1t8sor9/highway_startup_firm_client_potential/)
-- **发布时间**: 2026-05-10
-
-#### [Need some career advice](https://www.reddit.com/r/civilengineering/comments/1t8rqb3/need_some_career_advice/)
-- **发布时间**: 2026-05-10
-
 #### [What certifications are useful for career advancement?](https://www.reddit.com/r/civilengineering/comments/1t86cwp/what_certifications_are_useful_for_career/)
 - **发布时间**: 2026-05-09
 
 #### [I Need Advice PLEASE!!!](https://www.reddit.com/r/civilengineering/comments/1t6rfl7/i_need_advice_please/)
 - **发布时间**: 2026-05-07
 
+#### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nrex/engineering_in_spain/)
+- **发布时间**: 2026-05-07
+
+#### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nqks/engineering_in_spain/)
+- **发布时间**: 2026-05-07
+
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [How do you guys keep track of everything?](https://www.reddit.com/r/Construction/comments/1t9o8jf/how_do_you_guys_keep_track_of_everything/)
+- **发布时间**: 2026-05-11
 
 #### [Seeking genuine advice](https://www.reddit.com/r/Construction/comments/1t7x1bt/seeking_genuine_advice/)
 - **发布时间**: 2026-05-09
@@ -36,11 +39,14 @@
 #### [Question for European Construction Managers and laborers](https://www.reddit.com/r/Construction/comments/1t5cc8j/question_for_european_construction_managers_and/)
 - **发布时间**: 2026-05-06
 
-#### [Builder in southern mi](https://www.reddit.com/r/Construction/comments/1t4uc1v/builder_in_southern_mi/)
-- **发布时间**: 2026-05-05
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Looking for Change - QS](https://www.reddit.com/r/quantitysurveying/comments/1t9hy14/looking_for_change_qs/)
+- **发布时间**: 2026-05-10
+
+#### [Change of Career](https://www.reddit.com/r/quantitysurveying/comments/1t930c8/change_of_career/)
+- **发布时间**: 2026-05-10
 
 #### [Getting into being a QS as a 25M who’s getting married next year based in London.](https://www.reddit.com/r/quantitysurveying/comments/1t72nt0/getting_into_being_a_qs_as_a_25m_whos_getting/)
 - **发布时间**: 2026-05-08
