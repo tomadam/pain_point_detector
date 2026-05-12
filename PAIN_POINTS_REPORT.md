@@ -1,30 +1,33 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-11 02:00:10 (UTC)
+> **生成时间**: 2026-05-12 01:57:45 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Built an open-source scaffold design and verification tool. Free. Would love some eyes on it.](https://www.reddit.com/r/civilengineering/comments/1tah30k/built_an_opensource_scaffold_design_and/)
+- **发布时间**: 2026-05-11
+
+#### [Remote work in Civil?](https://www.reddit.com/r/civilengineering/comments/1tae40e/remote_work_in_civil/)
+- **发布时间**: 2026-05-11
+
+#### [Experiencing a significant project slowdown at my firm — anyone else in civil site/land dev seeing this? (SE region)](https://www.reddit.com/r/civilengineering/comments/1ta7d3u/experiencing_a_significant_project_slowdown_at_my/)
+- **发布时间**: 2026-05-11
+
+#### [What is it like being a mining engineer?](https://www.reddit.com/r/civilengineering/comments/1t9r0pl/what_is_it_like_being_a_mining_engineer/)
+- **发布时间**: 2026-05-11
+
 #### [Should I choose Civil Eng or Arch Eng?](https://www.reddit.com/r/civilengineering/comments/1t8t9cb/should_i_choose_civil_eng_or_arch_eng/)
 - **发布时间**: 2026-05-10
-
-#### [What certifications are useful for career advancement?](https://www.reddit.com/r/civilengineering/comments/1t86cwp/what_certifications_are_useful_for_career/)
-- **发布时间**: 2026-05-09
-
-#### [I Need Advice PLEASE!!!](https://www.reddit.com/r/civilengineering/comments/1t6rfl7/i_need_advice_please/)
-- **发布时间**: 2026-05-07
-
-#### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nrex/engineering_in_spain/)
-- **发布时间**: 2026-05-07
-
-#### [Engineering in Spain](https://www.reddit.com/r/civilengineering/comments/1t6nqks/engineering_in_spain/)
-- **发布时间**: 2026-05-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
-#### [How do you guys keep track of everything?](https://www.reddit.com/r/Construction/comments/1t9o8jf/how_do_you_guys_keep_track_of_everything/)
+#### [Need Help On Getting Work For My Area, As It’s my only Option To Not Starve!](https://www.reddit.com/r/Construction/comments/1tab3k5/need_help_on_getting_work_for_my_area_as_its_my/)
+- **发布时间**: 2026-05-11
+
+#### [Should I buy a gutter machine?](https://www.reddit.com/r/Construction/comments/1t9r0ib/should_i_buy_a_gutter_machine/)
 - **发布时间**: 2026-05-11
 
 #### [Seeking genuine advice](https://www.reddit.com/r/Construction/comments/1t7x1bt/seeking_genuine_advice/)
@@ -35,9 +38,6 @@
 
 #### [Looking for app for plans](https://www.reddit.com/r/Construction/comments/1t6shos/looking_for_app_for_plans/)
 - **发布时间**: 2026-05-08
-
-#### [Question for European Construction Managers and laborers](https://www.reddit.com/r/Construction/comments/1t5cc8j/question_for_european_construction_managers_and/)
-- **发布时间**: 2026-05-06
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
