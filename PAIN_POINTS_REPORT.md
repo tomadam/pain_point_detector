@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-14 02:04:34 (UTC)
+> **生成时间**: 2026-05-15 02:02:26 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Engineering Experience and applying for my license](https://www.reddit.com/r/civilengineering/comments/1tdi7t2/engineering_experience_and_applying_for_my_license/)
+- **发布时间**: 2026-05-15
+
+#### [Transportation Cad monkey in small office of 2 other people. Do I hate the job or the environment?](https://www.reddit.com/r/civilengineering/comments/1tdc54t/transportation_cad_monkey_in_small_office_of_2/)
+- **发布时间**: 2026-05-14
 
 #### [Utility work is a great option and I feel like many young civil engineers don’t know about it as an option.](https://www.reddit.com/r/civilengineering/comments/1tcj5eg/utility_work_is_a_great_option_and_i_feel_like/)
 - **发布时间**: 2026-05-14
@@ -15,14 +21,14 @@
 #### [What non-engineering skills do you appreciate seeing from engineers?](https://www.reddit.com/r/civilengineering/comments/1tb61w9/what_nonengineering_skills_do_you_appreciate/)
 - **发布时间**: 2026-05-12
 
-#### [UCL or Purdue for PhD?](https://www.reddit.com/r/civilengineering/comments/1tazznr/ucl_or_purdue_for_phd/)
-- **发布时间**: 2026-05-12
-
-#### [PhD in Transportation/Traffic Engineering after Comp Sci Undergrad?](https://www.reddit.com/r/civilengineering/comments/1tap8sv/phd_in_transportationtraffic_engineering_after/)
-- **发布时间**: 2026-05-12
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Construction Site Plans](https://www.reddit.com/r/Construction/comments/1tdfdeb/construction_site_plans/)
+- **发布时间**: 2026-05-14
+
+#### [Construction Management Degree](https://www.reddit.com/r/Construction/comments/1td49u4/construction_management_degree/)
+- **发布时间**: 2026-05-14
 
 #### [Need some advice on how I’m starting to feel about this](https://www.reddit.com/r/Construction/comments/1tcgyfs/need_some_advice_on_how_im_starting_to_feel_about/)
 - **发布时间**: 2026-05-13
@@ -32,12 +38,6 @@
 
 #### [Homeowner refused to pay the extra $500 for subfloor rot repairs. What can I do?](https://www.reddit.com/r/Construction/comments/1tb5tqi/homeowner_refused_to_pay_the_extra_500_for/)
 - **发布时间**: 2026-05-12
-
-#### [Need Help On Getting Work For My Area, As It’s my only Option To Not Starve!](https://www.reddit.com/r/Construction/comments/1tab3k5/need_help_on_getting_work_for_my_area_as_its_my/)
-- **发布时间**: 2026-05-11
-
-#### [Should I buy a gutter machine?](https://www.reddit.com/r/Construction/comments/1t9r0ib/should_i_buy_a_gutter_machine/)
-- **发布时间**: 2026-05-11
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -67,8 +67,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
