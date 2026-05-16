@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-15 02:02:26 (UTC)
+> **生成时间**: 2026-05-16 01:55:23 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -24,6 +24,9 @@
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [White collar people get mad when we say AI can't take our jobs, so they overhype AI's ability to do construction](https://www.reddit.com/r/Construction/comments/1tdilnk/white_collar_people_get_mad_when_we_say_ai_cant/)
+- **发布时间**: 2026-05-15
+
 #### [Construction Site Plans](https://www.reddit.com/r/Construction/comments/1tdfdeb/construction_site_plans/)
 - **发布时间**: 2026-05-14
 
@@ -36,9 +39,6 @@
 #### [Communication as a flagger](https://www.reddit.com/r/Construction/comments/1tbq4gb/communication_as_a_flagger/)
 - **发布时间**: 2026-05-13
 
-#### [Homeowner refused to pay the extra $500 for subfloor rot repairs. What can I do?](https://www.reddit.com/r/Construction/comments/1tb5tqi/homeowner_refused_to_pay_the_extra_500_for/)
-- **发布时间**: 2026-05-12
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
 
@@ -50,9 +50,6 @@
 
 #### [Change of Career](https://www.reddit.com/r/quantitysurveying/comments/1t930c8/change_of_career/)
 - **发布时间**: 2026-05-10
-
-#### [Getting into being a QS as a 25M who’s getting married next year based in London.](https://www.reddit.com/r/quantitysurveying/comments/1t72nt0/getting_into_being_a_qs_as_a_25m_whos_getting/)
-- **发布时间**: 2026-05-08
 
 
 # 🇨🇳 中国平台 - 知乎
