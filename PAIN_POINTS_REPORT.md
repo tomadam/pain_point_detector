@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-17 01:58:18 (UTC)
+> **生成时间**: 2026-05-18 02:09:42 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -24,32 +24,32 @@
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [In deliema](https://www.reddit.com/r/Construction/comments/1tg4qec/in_deliema/)
+- **发布时间**: 2026-05-17
+
+#### [Deciding what to do with this old porch](https://www.reddit.com/r/Construction/comments/1tfx5at/deciding_what_to_do_with_this_old_porch/)
+- **发布时间**: 2026-05-17
+
+#### [Extra long site fencing clamp bolts](https://www.reddit.com/r/Construction/comments/1tfixhd/extra_long_site_fencing_clamp_bolts/)
+- **发布时间**: 2026-05-17
+
 #### [Nightmare dealing with builder over foundation settlement; attorney recommending mediation. Looking for advice](https://www.reddit.com/r/Construction/comments/1tem7mr/nightmare_dealing_with_builder_over_foundation/)
 - **发布时间**: 2026-05-16
 
 #### [White collar people get mad when we say AI can't take our jobs, so they overhype AI's ability to do construction](https://www.reddit.com/r/Construction/comments/1tdilnk/white_collar_people_get_mad_when_we_say_ai_cant/)
 - **发布时间**: 2026-05-15
 
-#### [Construction Site Plans](https://www.reddit.com/r/Construction/comments/1tdfdeb/construction_site_plans/)
-- **发布时间**: 2026-05-14
-
-#### [Construction Management Degree](https://www.reddit.com/r/Construction/comments/1td49u4/construction_management_degree/)
-- **发布时间**: 2026-05-14
-
-#### [Need some advice on how I’m starting to feel about this](https://www.reddit.com/r/Construction/comments/1tcgyfs/need_some_advice_on_how_im_starting_to_feel_about/)
-- **发布时间**: 2026-05-13
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Leaving Quantity Surveying](https://www.reddit.com/r/quantitysurveying/comments/1tfirmr/leaving_quantity_surveying/)
+- **发布时间**: 2026-05-17
 
 #### [Level 6 NVQ](https://www.reddit.com/r/quantitysurveying/comments/1tf7blt/level_6_nvq/)
 - **发布时间**: 2026-05-16
 
 #### [Estimating to QS](https://www.reddit.com/r/quantitysurveying/comments/1tcdyur/estimating_to_qs/)
 - **发布时间**: 2026-05-13
-
-#### [Looking for Change - QS](https://www.reddit.com/r/quantitysurveying/comments/1t9hy14/looking_for_change_qs/)
-- **发布时间**: 2026-05-10
 
 
 # 🇨🇳 中国平台 - 知乎
