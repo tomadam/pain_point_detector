@@ -1,18 +1,18 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-19 02:09:00 (UTC)
+> **生成时间**: 2026-05-20 02:07:39 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [24 yo civil geotech](https://www.reddit.com/r/civilengineering/comments/1thte5i/24_yo_civil_geotech/)
+- **发布时间**: 2026-05-19
+
 #### [How do I land a civil internship?](https://www.reddit.com/r/civilengineering/comments/1th1kuv/how_do_i_land_a_civil_internship/)
 - **发布时间**: 2026-05-18
 
 #### [Public Sector Salary Progression](https://www.reddit.com/r/civilengineering/comments/1th0vz4/public_sector_salary_progression/)
-- **发布时间**: 2026-05-18
-
-#### [Concrete](https://www.reddit.com/r/civilengineering/comments/1tgwpot/concrete/)
 - **发布时间**: 2026-05-18
 
 #### [College programs/experiences for teens](https://www.reddit.com/r/civilengineering/comments/1tgtd2j/college_programsexperiences_for_teens/)
@@ -41,6 +41,12 @@
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Is MRICS really that important?](https://www.reddit.com/r/quantitysurveying/comments/1thwbke/is_mrics_really_that_important/)
+- **发布时间**: 2026-05-19
+
+#### [RICS APC - INTERVIEW DONE](https://www.reddit.com/r/quantitysurveying/comments/1tht4oj/rics_apc_interview_done/)
+- **发布时间**: 2026-05-19
 
 #### [Leaving Quantity Surveying](https://www.reddit.com/r/quantitysurveying/comments/1tfirmr/leaving_quantity_surveying/)
 - **发布时间**: 2026-05-17
