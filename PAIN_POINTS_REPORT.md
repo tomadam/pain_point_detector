@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-20 02:07:39 (UTC)
+> **生成时间**: 2026-05-21 02:06:56 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [24 yo civil geotech](https://www.reddit.com/r/civilengineering/comments/1thte5i/24_yo_civil_geotech/)
-- **发布时间**: 2026-05-19
+#### [Found this Storm Structure, anybody know what it is exactly?](https://www.reddit.com/r/civilengineering/comments/1tj0g62/found_this_storm_structure_anybody_know_what_it/)
+- **发布时间**: 2026-05-20
 
-#### [How do I land a civil internship?](https://www.reddit.com/r/civilengineering/comments/1th1kuv/how_do_i_land_a_civil_internship/)
-- **发布时间**: 2026-05-18
+#### [Passion for water resources but going into LD](https://www.reddit.com/r/civilengineering/comments/1tiv456/passion_for_water_resources_but_going_into_ld/)
+- **发布时间**: 2026-05-20
 
-#### [Public Sector Salary Progression](https://www.reddit.com/r/civilengineering/comments/1th0vz4/public_sector_salary_progression/)
-- **发布时间**: 2026-05-18
+#### [Help a fresh graduate pick a civil engineering discipline in California](https://www.reddit.com/r/civilengineering/comments/1tiiak6/help_a_fresh_graduate_pick_a_civil_engineering/)
+- **发布时间**: 2026-05-20
 
-#### [College programs/experiences for teens](https://www.reddit.com/r/civilengineering/comments/1tgtd2j/college_programsexperiences_for_teens/)
-- **发布时间**: 2026-05-18
+#### [AN OFFER!!! but sm sadness](https://www.reddit.com/r/civilengineering/comments/1tieteh/an_offer_but_sm_sadness/)
+- **发布时间**: 2026-05-20
 
-#### [Anyone have experience working for ESP Associates / ESP Engineers, Surveyors & Planners?](https://www.reddit.com/r/civilengineering/comments/1tgp1r8/anyone_have_experience_working_for_esp_associates/)
-- **发布时间**: 2026-05-18
+#### [Has anyone faded out contours before?](https://www.reddit.com/r/civilengineering/comments/1ties2o/has_anyone_faded_out_contours_before/)
+- **发布时间**: 2026-05-20
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [termination decision](https://www.reddit.com/r/Construction/comments/1tia1n7/termination_decision/)
+- **发布时间**: 2026-05-20
 
 #### [Never have I had to wet sand so much as when I have to come in after HVAC guys tear apart a wall.](https://www.reddit.com/r/Construction/comments/1th0hxl/never_have_i_had_to_wet_sand_so_much_as_when_i/)
 - **发布时间**: 2026-05-18
@@ -36,11 +39,11 @@
 #### [Extra long site fencing clamp bolts](https://www.reddit.com/r/Construction/comments/1tfixhd/extra_long_site_fencing_clamp_bolts/)
 - **发布时间**: 2026-05-17
 
-#### [Nightmare dealing with builder over foundation settlement; attorney recommending mediation. Looking for advice](https://www.reddit.com/r/Construction/comments/1tem7mr/nightmare_dealing_with_builder_over_foundation/)
-- **发布时间**: 2026-05-16
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Does anyone use Power BI in your QS work?](https://www.reddit.com/r/quantitysurveying/comments/1ti7xf5/does_anyone_use_power_bi_in_your_qs_work/)
+- **发布时间**: 2026-05-20
 
 #### [Is MRICS really that important?](https://www.reddit.com/r/quantitysurveying/comments/1thwbke/is_mrics_really_that_important/)
 - **发布时间**: 2026-05-19
@@ -53,9 +56,6 @@
 
 #### [Level 6 NVQ](https://www.reddit.com/r/quantitysurveying/comments/1tf7blt/level_6_nvq/)
 - **发布时间**: 2026-05-16
-
-#### [Estimating to QS](https://www.reddit.com/r/quantitysurveying/comments/1tcdyur/estimating_to_qs/)
-- **发布时间**: 2026-05-13
 
 
 # 🇨🇳 中国平台 - 知乎
