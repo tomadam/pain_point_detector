@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-21 02:06:56 (UTC)
+> **生成时间**: 2026-05-22 02:09:12 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -24,6 +24,12 @@
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
+#### [How do you deal with clients who find issues with everything?](https://www.reddit.com/r/Construction/comments/1tjscpc/how_do_you_deal_with_clients_who_find_issues_with/)
+- **发布时间**: 2026-05-21
+
+#### [Jobsite Drama](https://www.reddit.com/r/Construction/comments/1tjp2km/jobsite_drama/)
+- **发布时间**: 2026-05-21
+
 #### [termination decision](https://www.reddit.com/r/Construction/comments/1tia1n7/termination_decision/)
 - **发布时间**: 2026-05-20
 
@@ -31,12 +37,6 @@
 - **发布时间**: 2026-05-18
 
 #### [In deliema](https://www.reddit.com/r/Construction/comments/1tg4qec/in_deliema/)
-- **发布时间**: 2026-05-17
-
-#### [Deciding what to do with this old porch](https://www.reddit.com/r/Construction/comments/1tfx5at/deciding_what_to_do_with_this_old_porch/)
-- **发布时间**: 2026-05-17
-
-#### [Extra long site fencing clamp bolts](https://www.reddit.com/r/Construction/comments/1tfixhd/extra_long_site_fencing_clamp_bolts/)
 - **发布时间**: 2026-05-17
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
@@ -70,8 +70,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
