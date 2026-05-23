@@ -1,24 +1,24 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-22 02:09:12 (UTC)
+> **生成时间**: 2026-05-23 01:57:39 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [County Interview](https://www.reddit.com/r/civilengineering/comments/1tkwyw9/county_interview/)
+- **发布时间**: 2026-05-22
+
+#### [Student interested in coastal engineering](https://www.reddit.com/r/civilengineering/comments/1tkr70q/student_interested_in_coastal_engineering/)
+- **发布时间**: 2026-05-22
+
+#### [Dealing with inefficient Junior Engineer as a mid-level](https://www.reddit.com/r/civilengineering/comments/1tkq55b/dealing_with_inefficient_junior_engineer_as_a/)
+- **发布时间**: 2026-05-22
+
+#### [Sizing a bypass around a closed isolation valve](https://www.reddit.com/r/civilengineering/comments/1tk67tc/sizing_a_bypass_around_a_closed_isolation_valve/)
+- **发布时间**: 2026-05-22
+
 #### [Found this Storm Structure, anybody know what it is exactly?](https://www.reddit.com/r/civilengineering/comments/1tj0g62/found_this_storm_structure_anybody_know_what_it/)
-- **发布时间**: 2026-05-20
-
-#### [Passion for water resources but going into LD](https://www.reddit.com/r/civilengineering/comments/1tiv456/passion_for_water_resources_but_going_into_ld/)
-- **发布时间**: 2026-05-20
-
-#### [Help a fresh graduate pick a civil engineering discipline in California](https://www.reddit.com/r/civilengineering/comments/1tiiak6/help_a_fresh_graduate_pick_a_civil_engineering/)
-- **发布时间**: 2026-05-20
-
-#### [AN OFFER!!! but sm sadness](https://www.reddit.com/r/civilengineering/comments/1tieteh/an_offer_but_sm_sadness/)
-- **发布时间**: 2026-05-20
-
-#### [Has anyone faded out contours before?](https://www.reddit.com/r/civilengineering/comments/1ties2o/has_anyone_faded_out_contours_before/)
 - **发布时间**: 2026-05-20
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -42,6 +42,9 @@
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
 
+#### [Civils QS to MEP QS](https://www.reddit.com/r/quantitysurveying/comments/1tkg7qq/civils_qs_to_mep_qs/)
+- **发布时间**: 2026-05-22
+
 #### [Does anyone use Power BI in your QS work?](https://www.reddit.com/r/quantitysurveying/comments/1ti7xf5/does_anyone_use_power_bi_in_your_qs_work/)
 - **发布时间**: 2026-05-20
 
@@ -53,9 +56,6 @@
 
 #### [Leaving Quantity Surveying](https://www.reddit.com/r/quantitysurveying/comments/1tfirmr/leaving_quantity_surveying/)
 - **发布时间**: 2026-05-17
-
-#### [Level 6 NVQ](https://www.reddit.com/r/quantitysurveying/comments/1tf7blt/level_6_nvq/)
-- **发布时间**: 2026-05-16
 
 
 # 🇨🇳 中国平台 - 知乎
