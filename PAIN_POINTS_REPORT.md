@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-23 01:57:39 (UTC)
+> **生成时间**: 2026-05-24 02:05:37 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Getting PDHs in an Unrelated Topic Outside of Civil?](https://www.reddit.com/r/civilengineering/comments/1tlumpr/getting_pdhs_in_an_unrelated_topic_outside_of/)
+- **发布时间**: 2026-05-23
+
+#### [0YOE - resume review and general advice](https://www.reddit.com/r/civilengineering/comments/1tl33nl/0yoe_resume_review_and_general_advice/)
+- **发布时间**: 2026-05-23
 
 #### [County Interview](https://www.reddit.com/r/civilengineering/comments/1tkwyw9/county_interview/)
 - **发布时间**: 2026-05-22
@@ -14,12 +20,6 @@
 
 #### [Dealing with inefficient Junior Engineer as a mid-level](https://www.reddit.com/r/civilengineering/comments/1tkq55b/dealing_with_inefficient_junior_engineer_as_a/)
 - **发布时间**: 2026-05-22
-
-#### [Sizing a bypass around a closed isolation valve](https://www.reddit.com/r/civilengineering/comments/1tk67tc/sizing_a_bypass_around_a_closed_isolation_valve/)
-- **发布时间**: 2026-05-22
-
-#### [Found this Storm Structure, anybody know what it is exactly?](https://www.reddit.com/r/civilengineering/comments/1tj0g62/found_this_storm_structure_anybody_know_what_it/)
-- **发布时间**: 2026-05-20
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
