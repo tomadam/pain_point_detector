@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-24 02:05:37 (UTC)
+> **生成时间**: 2026-05-25 02:13:45 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [What do good architects do versus bad?](https://www.reddit.com/r/civilengineering/comments/1tmv94f/what_do_good_architects_do_versus_bad/)
+- **发布时间**: 2026-05-25
+
+#### [Tired of being in management and want to go back to being a grunt in the trenches](https://www.reddit.com/r/civilengineering/comments/1tmdcx7/tired_of_being_in_management_and_want_to_go_back/)
+- **发布时间**: 2026-05-24
+
+#### [I am lost right now](https://www.reddit.com/r/civilengineering/comments/1tmbg3u/i_am_lost_right_now/)
+- **发布时间**: 2026-05-24
+
+#### [Should I switch to Architecture from Civil engineering?](https://www.reddit.com/r/civilengineering/comments/1tm7pyq/should_i_switch_to_architecture_from_civil/)
+- **发布时间**: 2026-05-24
+
 #### [Getting PDHs in an Unrelated Topic Outside of Civil?](https://www.reddit.com/r/civilengineering/comments/1tlumpr/getting_pdhs_in_an_unrelated_topic_outside_of/)
 - **发布时间**: 2026-05-23
 
-#### [0YOE - resume review and general advice](https://www.reddit.com/r/civilengineering/comments/1tl33nl/0yoe_resume_review_and_general_advice/)
-- **发布时间**: 2026-05-23
-
-#### [County Interview](https://www.reddit.com/r/civilengineering/comments/1tkwyw9/county_interview/)
-- **发布时间**: 2026-05-22
-
-#### [Student interested in coastal engineering](https://www.reddit.com/r/civilengineering/comments/1tkr70q/student_interested_in_coastal_engineering/)
-- **发布时间**: 2026-05-22
-
-#### [Dealing with inefficient Junior Engineer as a mid-level](https://www.reddit.com/r/civilengineering/comments/1tkq55b/dealing_with_inefficient_junior_engineer_as_a/)
-- **发布时间**: 2026-05-22
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Where can I find Construction Tenders ( Research Purposes )](https://www.reddit.com/r/Construction/comments/1tm2yc3/where_can_i_find_construction_tenders_research/)
+- **发布时间**: 2026-05-24
 
 #### [How do you deal with clients who find issues with everything?](https://www.reddit.com/r/Construction/comments/1tjscpc/how_do_you_deal_with_clients_who_find_issues_with/)
 - **发布时间**: 2026-05-21
@@ -35,9 +38,6 @@
 
 #### [Never have I had to wet sand so much as when I have to come in after HVAC guys tear apart a wall.](https://www.reddit.com/r/Construction/comments/1th0hxl/never_have_i_had_to_wet_sand_so_much_as_when_i/)
 - **发布时间**: 2026-05-18
-
-#### [In deliema](https://www.reddit.com/r/Construction/comments/1tg4qec/in_deliema/)
-- **发布时间**: 2026-05-17
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -53,9 +53,6 @@
 
 #### [RICS APC - INTERVIEW DONE](https://www.reddit.com/r/quantitysurveying/comments/1tht4oj/rics_apc_interview_done/)
 - **发布时间**: 2026-05-19
-
-#### [Leaving Quantity Surveying](https://www.reddit.com/r/quantitysurveying/comments/1tfirmr/leaving_quantity_surveying/)
-- **发布时间**: 2026-05-17
 
 
 # 🇨🇳 中国平台 - 知乎
