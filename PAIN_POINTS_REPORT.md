@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-25 02:13:45 (UTC)
+> **生成时间**: 2026-05-26 02:04:44 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Switching into civil/water resources from biology and agriculture. Need advice.](https://www.reddit.com/r/civilengineering/comments/1tnea5s/switching_into_civilwater_resources_from_biology/)
+- **发布时间**: 2026-05-25
 
 #### [What do good architects do versus bad?](https://www.reddit.com/r/civilengineering/comments/1tmv94f/what_do_good_architects_do_versus_bad/)
 - **发布时间**: 2026-05-25
@@ -18,11 +21,14 @@
 #### [Should I switch to Architecture from Civil engineering?](https://www.reddit.com/r/civilengineering/comments/1tm7pyq/should_i_switch_to_architecture_from_civil/)
 - **发布时间**: 2026-05-24
 
-#### [Getting PDHs in an Unrelated Topic Outside of Civil?](https://www.reddit.com/r/civilengineering/comments/1tlumpr/getting_pdhs_in_an_unrelated_topic_outside_of/)
-- **发布时间**: 2026-05-23
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Sealing question!](https://www.reddit.com/r/Construction/comments/1tnpgrd/sealing_question/)
+- **发布时间**: 2026-05-25
+
+#### [Relatively new GC in GA, and I'm struggling to find any work, Any ideas?](https://www.reddit.com/r/Construction/comments/1tnilhh/relatively_new_gc_in_ga_and_im_struggling_to_find/)
+- **发布时间**: 2026-05-25
 
 #### [Where can I find Construction Tenders ( Research Purposes )](https://www.reddit.com/r/Construction/comments/1tm2yc3/where_can_i_find_construction_tenders_research/)
 - **发布时间**: 2026-05-24
@@ -32,12 +38,6 @@
 
 #### [Jobsite Drama](https://www.reddit.com/r/Construction/comments/1tjp2km/jobsite_drama/)
 - **发布时间**: 2026-05-21
-
-#### [termination decision](https://www.reddit.com/r/Construction/comments/1tia1n7/termination_decision/)
-- **发布时间**: 2026-05-20
-
-#### [Never have I had to wet sand so much as when I have to come in after HVAC guys tear apart a wall.](https://www.reddit.com/r/Construction/comments/1th0hxl/never_have_i_had_to_wet_sand_so_much_as_when_i/)
-- **发布时间**: 2026-05-18
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -67,10 +67,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
