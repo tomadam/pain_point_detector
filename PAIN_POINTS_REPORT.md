@@ -1,28 +1,31 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-26 02:04:44 (UTC)
+> **生成时间**: 2026-05-27 02:13:00 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Switching into civil/water resources from biology and agriculture. Need advice.](https://www.reddit.com/r/civilengineering/comments/1tnea5s/switching_into_civilwater_resources_from_biology/)
-- **发布时间**: 2026-05-25
+#### [What can I do as a former medical resident to land a civil engineering position?](https://www.reddit.com/r/civilengineering/comments/1toq2dp/what_can_i_do_as_a_former_medical_resident_to/)
+- **发布时间**: 2026-05-27
 
-#### [What do good architects do versus bad?](https://www.reddit.com/r/civilengineering/comments/1tmv94f/what_do_good_architects_do_versus_bad/)
-- **发布时间**: 2026-05-25
+#### [Can anyone here give insight about working at a big consulting firm?](https://www.reddit.com/r/civilengineering/comments/1topk5n/can_anyone_here_give_insight_about_working_at_a/)
+- **发布时间**: 2026-05-27
 
-#### [Tired of being in management and want to go back to being a grunt in the trenches](https://www.reddit.com/r/civilengineering/comments/1tmdcx7/tired_of_being_in_management_and_want_to_go_back/)
-- **发布时间**: 2026-05-24
+#### [Advice for a student](https://www.reddit.com/r/civilengineering/comments/1toparg/advice_for_a_student/)
+- **发布时间**: 2026-05-27
 
-#### [I am lost right now](https://www.reddit.com/r/civilengineering/comments/1tmbg3u/i_am_lost_right_now/)
-- **发布时间**: 2026-05-24
+#### [Delayed funding vs. graduation university hold. How should a graduating Civil Engineer handle this logistical roadblock?](https://www.reddit.com/r/civilengineering/comments/1top7a6/delayed_funding_vs_graduation_university_hold_how/)
+- **发布时间**: 2026-05-27
 
-#### [Should I switch to Architecture from Civil engineering?](https://www.reddit.com/r/civilengineering/comments/1tm7pyq/should_i_switch_to_architecture_from_civil/)
-- **发布时间**: 2026-05-24
+#### [Has Anyone Here Made it through a Company Merger? Advice appreciated](https://www.reddit.com/r/civilengineering/comments/1too83a/has_anyone_here_made_it_through_a_company_merger/)
+- **发布时间**: 2026-05-26
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Questions about basement foundation](https://www.reddit.com/r/Construction/comments/1tol8g4/questions_about_basement_foundation/)
+- **发布时间**: 2026-05-26
 
 #### [Sealing question!](https://www.reddit.com/r/Construction/comments/1tnpgrd/sealing_question/)
 - **发布时间**: 2026-05-25
@@ -36,9 +39,6 @@
 #### [How do you deal with clients who find issues with everything?](https://www.reddit.com/r/Construction/comments/1tjscpc/how_do_you_deal_with_clients_who_find_issues_with/)
 - **发布时间**: 2026-05-21
 
-#### [Jobsite Drama](https://www.reddit.com/r/Construction/comments/1tjp2km/jobsite_drama/)
-- **发布时间**: 2026-05-21
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
 
@@ -47,12 +47,6 @@
 
 #### [Does anyone use Power BI in your QS work?](https://www.reddit.com/r/quantitysurveying/comments/1ti7xf5/does_anyone_use_power_bi_in_your_qs_work/)
 - **发布时间**: 2026-05-20
-
-#### [Is MRICS really that important?](https://www.reddit.com/r/quantitysurveying/comments/1thwbke/is_mrics_really_that_important/)
-- **发布时间**: 2026-05-19
-
-#### [RICS APC - INTERVIEW DONE](https://www.reddit.com/r/quantitysurveying/comments/1tht4oj/rics_apc_interview_done/)
-- **发布时间**: 2026-05-19
 
 
 # 🇨🇳 中国平台 - 知乎
