@@ -1,10 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-28 01:56:11 (UTC)
+> **生成时间**: 2026-05-29 02:04:08 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [What’s it like working in civil day-to-day? (Especially transportation)](https://www.reddit.com/r/civilengineering/comments/1tqdfj4/whats_it_like_working_in_civil_daytoday/)
+- **发布时间**: 2026-05-28
+
+#### [First time using HyroCAD](https://www.reddit.com/r/civilengineering/comments/1tq7gte/first_time_using_hyrocad/)
+- **发布时间**: 2026-05-28
+
+#### [Job decision](https://www.reddit.com/r/civilengineering/comments/1tq1kua/job_decision/)
+- **发布时间**: 2026-05-28
 
 #### [From International Inspector to Project Management Path Seeking Honest Career Guidance from Civil Engineers](https://www.reddit.com/r/civilengineering/comments/1toryeg/from_international_inspector_to_project/)
 - **发布时间**: 2026-05-27
@@ -12,17 +21,11 @@
 #### [What can I do as a former medical resident to land a civil engineering position?](https://www.reddit.com/r/civilengineering/comments/1toq2dp/what_can_i_do_as_a_former_medical_resident_to/)
 - **发布时间**: 2026-05-27
 
-#### [Advice for a student](https://www.reddit.com/r/civilengineering/comments/1toparg/advice_for_a_student/)
-- **发布时间**: 2026-05-27
-
-#### [Delayed funding vs. graduation university hold. How should a graduating Civil Engineer handle this logistical roadblock?](https://www.reddit.com/r/civilengineering/comments/1top7a6/delayed_funding_vs_graduation_university_hold_how/)
-- **发布时间**: 2026-05-27
-
-#### [Has Anyone Here Made it through a Company Merger? Advice appreciated](https://www.reddit.com/r/civilengineering/comments/1too83a/has_anyone_here_made_it_through_a_company_merger/)
-- **发布时间**: 2026-05-26
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Working with an ostomy bag](https://www.reddit.com/r/Construction/comments/1tppu73/working_with_an_ostomy_bag/)
+- **发布时间**: 2026-05-28
 
 #### [Asking for advice--aspirations of development](https://www.reddit.com/r/Construction/comments/1tpm9qu/asking_for_adviceaspirations_of_development/)
 - **发布时间**: 2026-05-27
@@ -34,9 +37,6 @@
 - **发布时间**: 2026-05-27
 
 #### [Sealing question!](https://www.reddit.com/r/Construction/comments/1tnpgrd/sealing_question/)
-- **发布时间**: 2026-05-25
-
-#### [Relatively new GC in GA, and I'm struggling to find any work, Any ideas?](https://www.reddit.com/r/Construction/comments/1tnilhh/relatively_new_gc_in_ga_and_im_struggling_to_find/)
 - **发布时间**: 2026-05-25
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
@@ -64,10 +64,14 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
