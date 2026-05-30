@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-29 02:04:08 (UTC)
+> **生成时间**: 2026-05-30 01:58:50 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Do most civil engineering firms have vague promotion paths, or am I at the wrong company/discipline ? What types of disciplines have more defined paths?](https://www.reddit.com/r/civilengineering/comments/1trck6g/do_most_civil_engineering_firms_have_vague/)
+- **发布时间**: 2026-05-29
+
+#### [Recruiting nightmare](https://www.reddit.com/r/civilengineering/comments/1tr8ott/recruiting_nightmare/)
+- **发布时间**: 2026-05-29
+
+#### [Possible to work in Germany with an ABET degree?](https://www.reddit.com/r/civilengineering/comments/1tr3c0i/possible_to_work_in_germany_with_an_abet_degree/)
+- **发布时间**: 2026-05-29
+
+#### [Quit job for better balance?](https://www.reddit.com/r/civilengineering/comments/1tr24ut/quit_job_for_better_balance/)
+- **发布时间**: 2026-05-29
+
 #### [What’s it like working in civil day-to-day? (Especially transportation)](https://www.reddit.com/r/civilengineering/comments/1tqdfj4/whats_it_like_working_in_civil_daytoday/)
 - **发布时间**: 2026-05-28
-
-#### [First time using HyroCAD](https://www.reddit.com/r/civilengineering/comments/1tq7gte/first_time_using_hyrocad/)
-- **发布时间**: 2026-05-28
-
-#### [Job decision](https://www.reddit.com/r/civilengineering/comments/1tq1kua/job_decision/)
-- **发布时间**: 2026-05-28
-
-#### [From International Inspector to Project Management Path Seeking Honest Career Guidance from Civil Engineers](https://www.reddit.com/r/civilengineering/comments/1toryeg/from_international_inspector_to_project/)
-- **发布时间**: 2026-05-27
-
-#### [What can I do as a former medical resident to land a civil engineering position?](https://www.reddit.com/r/civilengineering/comments/1toq2dp/what_can_i_do_as_a_former_medical_resident_to/)
-- **发布时间**: 2026-05-27
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
@@ -48,9 +48,6 @@
 #### [Advice](https://www.reddit.com/r/quantitysurveying/comments/1tp9oo7/advice/)
 - **发布时间**: 2026-05-27
 
-#### [Civils QS to MEP QS](https://www.reddit.com/r/quantitysurveying/comments/1tkg7qq/civils_qs_to_mep_qs/)
-- **发布时间**: 2026-05-22
-
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
@@ -64,10 +61,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
