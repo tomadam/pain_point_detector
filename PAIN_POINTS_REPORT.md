@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-30 01:58:50 (UTC)
+> **生成时间**: 2026-05-31 02:14:32 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Tablets vs. Paper: What's your study setup for the PE?](https://www.reddit.com/r/civilengineering/comments/1tseqpq/tablets_vs_paper_whats_your_study_setup_for_the_pe/)
+- **发布时间**: 2026-05-30
+
+#### [Open-source Agentic SWMM: use natural language to run EPA SWMM with reproducible and auditable workflows. Live demo, no install needed.](https://www.reddit.com/r/civilengineering/comments/1trs118/opensource_agentic_swmm_use_natural_language_to/)
+- **发布时间**: 2026-05-30
+
+#### [Non-Billable Work](https://www.reddit.com/r/civilengineering/comments/1trplmy/nonbillable_work/)
+- **发布时间**: 2026-05-30
 
 #### [Do most civil engineering firms have vague promotion paths, or am I at the wrong company/discipline ? What types of disciplines have more defined paths?](https://www.reddit.com/r/civilengineering/comments/1trck6g/do_most_civil_engineering_firms_have_vague/)
 - **发布时间**: 2026-05-29
 
 #### [Recruiting nightmare](https://www.reddit.com/r/civilengineering/comments/1tr8ott/recruiting_nightmare/)
 - **发布时间**: 2026-05-29
-
-#### [Possible to work in Germany with an ABET degree?](https://www.reddit.com/r/civilengineering/comments/1tr3c0i/possible_to_work_in_germany_with_an_abet_degree/)
-- **发布时间**: 2026-05-29
-
-#### [Quit job for better balance?](https://www.reddit.com/r/civilengineering/comments/1tr24ut/quit_job_for_better_balance/)
-- **发布时间**: 2026-05-29
-
-#### [What’s it like working in civil day-to-day? (Especially transportation)](https://www.reddit.com/r/civilengineering/comments/1tqdfj4/whats_it_like_working_in_civil_daytoday/)
-- **发布时间**: 2026-05-28
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
@@ -61,12 +61,12 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
-
-### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
 
+
+### 小红书「施工现场」
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
