@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-05-31 02:14:32 (UTC)
+> **生成时间**: 2026-06-01 02:35:41 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [can i get into geotech or water engineering w a geoscience degree? (GTA, Canada)](https://www.reddit.com/r/civilengineering/comments/1tsz494/can_i_get_into_geotech_or_water_engineering_w_a/)
+- **发布时间**: 2026-05-31
+
+#### [8 YOE - Stay or go to Public](https://www.reddit.com/r/civilengineering/comments/1tsuubm/8_yoe_stay_or_go_to_public/)
+- **发布时间**: 2026-05-31
 
 #### [Tablets vs. Paper: What's your study setup for the PE?](https://www.reddit.com/r/civilengineering/comments/1tseqpq/tablets_vs_paper_whats_your_study_setup_for_the_pe/)
 - **发布时间**: 2026-05-30
@@ -15,14 +21,11 @@
 #### [Non-Billable Work](https://www.reddit.com/r/civilengineering/comments/1trplmy/nonbillable_work/)
 - **发布时间**: 2026-05-30
 
-#### [Do most civil engineering firms have vague promotion paths, or am I at the wrong company/discipline ? What types of disciplines have more defined paths?](https://www.reddit.com/r/civilengineering/comments/1trck6g/do_most_civil_engineering_firms_have_vague/)
-- **发布时间**: 2026-05-29
-
-#### [Recruiting nightmare](https://www.reddit.com/r/civilengineering/comments/1tr8ott/recruiting_nightmare/)
-- **发布时间**: 2026-05-29
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [This house sucks.](https://www.reddit.com/r/Construction/comments/1tt8y8x/this_house_sucks/)
+- **发布时间**: 2026-05-31
 
 #### [Working with an ostomy bag](https://www.reddit.com/r/Construction/comments/1tppu73/working_with_an_ostomy_bag/)
 - **发布时间**: 2026-05-28
@@ -36,11 +39,11 @@
 #### [Which trade?](https://www.reddit.com/r/Construction/comments/1tov2z0/which_trade/)
 - **发布时间**: 2026-05-27
 
-#### [Sealing question!](https://www.reddit.com/r/Construction/comments/1tnpgrd/sealing_question/)
-- **发布时间**: 2026-05-25
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [16 years of QS experience but weak English – how can I break into international companies?](https://www.reddit.com/r/quantitysurveying/comments/1ttdaig/16_years_of_qs_experience_but_weak_english_how/)
+- **发布时间**: 2026-06-01
 
 #### [I’ve made a mistake](https://www.reddit.com/r/quantitysurveying/comments/1tpfbbe/ive_made_a_mistake/)
 - **发布时间**: 2026-05-27
@@ -61,10 +64,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
