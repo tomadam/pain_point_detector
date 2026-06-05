@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-04 02:36:36 (UTC)
+> **生成时间**: 2026-06-05 02:11:38 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Wrote a free AutoLISP tool for the save + reload XREF step when working between multiple drawings](https://www.reddit.com/r/civilengineering/comments/1tww2j8/wrote_a_free_autolisp_tool_for_the_save_reload/)
+- **发布时间**: 2026-06-04
+
+#### [Every utility long-section tool needs an expensive CAD seat — I'm building one that doesn't. Talk me out it.](https://www.reddit.com/r/civilengineering/comments/1twkj2r/every_utility_longsection_tool_needs_an_expensive/)
+- **发布时间**: 2026-06-04
 
 #### [Is there an efficient way to look up a list of eponymous bridge/tunnel/etc dedications? Like, find every bridge that has a person's name attached to it in a given city? [US]](https://www.reddit.com/r/civilengineering/comments/1tw7lyd/is_there_an_efficient_way_to_look_up_a_list_of/)
 - **发布时间**: 2026-06-04
@@ -15,16 +21,13 @@
 #### [Thoughts on winning RFP City/ Municipal work](https://www.reddit.com/r/civilengineering/comments/1tursp4/thoughts_on_winning_rfp_city_municipal_work/)
 - **发布时间**: 2026-06-02
 
-#### [Serious Career Advice for my GF](https://www.reddit.com/r/civilengineering/comments/1tun4rn/serious_career_advice_for_my_gf/)
-- **发布时间**: 2026-06-02
-
-#### [First interview at City Hall](https://www.reddit.com/r/civilengineering/comments/1tujgn3/first_interview_at_city_hall/)
-- **发布时间**: 2026-06-02
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
 
 #### [OSHA](https://www.reddit.com/r/Construction/comments/1tw29co/osha/)
+- **发布时间**: 2026-06-03
+
+#### [DIYer mortgage agent is gone hurt someone](https://www.reddit.com/r/Construction/comments/1tv8xzs/diyer_mortgage_agent_is_gone_hurt_someone/)
 - **发布时间**: 2026-06-03
 
 #### [Sewing Geotextile Fabric](https://www.reddit.com/r/Construction/comments/1tv5j6j/sewing_geotextile_fabric/)
@@ -36,11 +39,14 @@
 #### [take lower paying job for more skills?](https://www.reddit.com/r/Construction/comments/1tu9nwz/take_lower_paying_job_for_more_skills/)
 - **发布时间**: 2026-06-01
 
-#### [Contractor walk through instead of an inspection?](https://www.reddit.com/r/Construction/comments/1tu788p/contractor_walk_through_instead_of_an_inspection/)
-- **发布时间**: 2026-06-01
-
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
+
+#### [Why Are There Always Variations/CEs On A Job?](https://www.reddit.com/r/quantitysurveying/comments/1tx2zrb/why_are_there_always_variationsces_on_a_job/)
+- **发布时间**: 2026-06-04
+
+#### [Is There Real Value in a Dedicated MEP QS?](https://www.reddit.com/r/quantitysurveying/comments/1twwxu2/is_there_real_value_in_a_dedicated_mep_qs/)
+- **发布时间**: 2026-06-04
 
 #### [Is Something Fishy Going On](https://www.reddit.com/r/quantitysurveying/comments/1tvoqz4/is_something_fishy_going_on/)
 - **发布时间**: 2026-06-03
