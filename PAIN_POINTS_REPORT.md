@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-05 02:11:38 (UTC)
+> **生成时间**: 2026-06-06 02:03:02 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Engineer of Record— what does it take?](https://www.reddit.com/r/civilengineering/comments/1txriuc/engineer_of_record_what_does_it_take/)
+- **发布时间**: 2026-06-05
+
+#### [Free GUI like PCSWMM for storm water modelling](https://www.reddit.com/r/civilengineering/comments/1txie9f/free_gui_like_pcswmm_for_storm_water_modelling/)
+- **发布时间**: 2026-06-05
 
 #### [Wrote a free AutoLISP tool for the save + reload XREF step when working between multiple drawings](https://www.reddit.com/r/civilengineering/comments/1tww2j8/wrote_a_free_autolisp_tool_for_the_save_reload/)
 - **发布时间**: 2026-06-04
@@ -15,14 +21,14 @@
 #### [Is there an efficient way to look up a list of eponymous bridge/tunnel/etc dedications? Like, find every bridge that has a person's name attached to it in a given city? [US]](https://www.reddit.com/r/civilengineering/comments/1tw7lyd/is_there_an_efficient_way_to_look_up_a_list_of/)
 - **发布时间**: 2026-06-04
 
-#### [How do you know it’s time to switch firms?](https://www.reddit.com/r/civilengineering/comments/1tv6ore/how_do_you_know_its_time_to_switch_firms/)
-- **发布时间**: 2026-06-02
-
-#### [Thoughts on winning RFP City/ Municipal work](https://www.reddit.com/r/civilengineering/comments/1tursp4/thoughts_on_winning_rfp_city_municipal_work/)
-- **发布时间**: 2026-06-02
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
+
+#### [Anyone else a bit on the spectrum?](https://www.reddit.com/r/Construction/comments/1ty3nf3/anyone_else_a_bit_on_the_spectrum/)
+- **发布时间**: 2026-06-06
+
+#### [My dream job slowly becoming nightmare](https://www.reddit.com/r/Construction/comments/1txem9e/my_dream_job_slowly_becoming_nightmare/)
+- **发布时间**: 2026-06-05
 
 #### [OSHA](https://www.reddit.com/r/Construction/comments/1tw29co/osha/)
 - **发布时间**: 2026-06-03
@@ -32,12 +38,6 @@
 
 #### [Sewing Geotextile Fabric](https://www.reddit.com/r/Construction/comments/1tv5j6j/sewing_geotextile_fabric/)
 - **发布时间**: 2026-06-02
-
-#### [Should I leave my family business and move across the country, or stay and try to save it?](https://www.reddit.com/r/Construction/comments/1tue751/should_i_leave_my_family_business_and_move_across/)
-- **发布时间**: 2026-06-02
-
-#### [take lower paying job for more skills?](https://www.reddit.com/r/Construction/comments/1tu9nwz/take_lower_paying_job_for_more_skills/)
-- **发布时间**: 2026-06-01
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
@@ -76,8 +76,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
