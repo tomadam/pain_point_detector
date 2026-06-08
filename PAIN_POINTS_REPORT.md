@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-07 02:31:53 (UTC)
+> **生成时间**: 2026-06-08 02:34:42 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Stuck in construction engineering/management and I don’t know how to branch out](https://www.reddit.com/r/civilengineering/comments/1tzsy5a/stuck_in_construction_engineeringmanagement_and_i/)
+- **发布时间**: 2026-06-08
+
+#### [Why does civil engineering start at 70-80k a year while trash-men start at 50-60k a year and can start out of high school?](https://www.reddit.com/r/civilengineering/comments/1tzp0uw/why_does_civil_engineering_start_at_7080k_a_year/)
+- **发布时间**: 2026-06-07
+
+#### [How involved in design work were you during your first internship/co-op?](https://www.reddit.com/r/civilengineering/comments/1tz82m0/how_involved_in_design_work_were_you_during_your/)
+- **发布时间**: 2026-06-07
+
+#### [Aviation as a broad field](https://www.reddit.com/r/civilengineering/comments/1tyzzio/aviation_as_a_broad_field/)
+- **发布时间**: 2026-06-07
+
 #### [Am I being dramatic? EIT hating life](https://www.reddit.com/r/civilengineering/comments/1tyt598/am_i_being_dramatic_eit_hating_life/)
 - **发布时间**: 2026-06-06
-
-#### [Contractor didn't follow construction plans](https://www.reddit.com/r/civilengineering/comments/1typjx0/contractor_didnt_follow_construction_plans/)
-- **发布时间**: 2026-06-06
-
-#### [Calibrating for Internship Search](https://www.reddit.com/r/civilengineering/comments/1tyo7tm/calibrating_for_internship_search/)
-- **发布时间**: 2026-06-06
-
-#### [Engineer of Record— what does it take?](https://www.reddit.com/r/civilengineering/comments/1txriuc/engineer_of_record_what_does_it_take/)
-- **发布时间**: 2026-06-05
-
-#### [Free GUI like PCSWMM for storm water modelling](https://www.reddit.com/r/civilengineering/comments/1txie9f/free_gui_like_pcswmm_for_storm_water_modelling/)
-- **发布时间**: 2026-06-05
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
@@ -76,8 +76,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
