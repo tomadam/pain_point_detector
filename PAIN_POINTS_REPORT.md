@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-08 02:34:42 (UTC)
+> **生成时间**: 2026-06-09 01:59:27 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Stuck in construction engineering/management and I don’t know how to branch out](https://www.reddit.com/r/civilengineering/comments/1tzsy5a/stuck_in_construction_engineeringmanagement_and_i/)
+#### [Professional Organizations](https://www.reddit.com/r/civilengineering/comments/1u0rmu1/professional_organizations/)
+- **发布时间**: 2026-06-09
+
+#### [Seeking entry level career advice: two job offers in water resources](https://www.reddit.com/r/civilengineering/comments/1u0qusz/seeking_entry_level_career_advice_two_job_offers/)
+- **发布时间**: 2026-06-09
+
+#### [Taking Another Role](https://www.reddit.com/r/civilengineering/comments/1u0q5sw/taking_another_role/)
+- **发布时间**: 2026-06-09
+
+#### [How common is it for firms to have PMs or managers that share task duties with the staff they supervise?](https://www.reddit.com/r/civilengineering/comments/1u0hbu7/how_common_is_it_for_firms_to_have_pms_or/)
 - **发布时间**: 2026-06-08
 
-#### [Why does civil engineering start at 70-80k a year while trash-men start at 50-60k a year and can start out of high school?](https://www.reddit.com/r/civilengineering/comments/1tzp0uw/why_does_civil_engineering_start_at_7080k_a_year/)
-- **发布时间**: 2026-06-07
-
-#### [How involved in design work were you during your first internship/co-op?](https://www.reddit.com/r/civilengineering/comments/1tz82m0/how_involved_in_design_work_were_you_during_your/)
-- **发布时间**: 2026-06-07
-
-#### [Aviation as a broad field](https://www.reddit.com/r/civilengineering/comments/1tyzzio/aviation_as_a_broad_field/)
-- **发布时间**: 2026-06-07
-
-#### [Am I being dramatic? EIT hating life](https://www.reddit.com/r/civilengineering/comments/1tyt598/am_i_being_dramatic_eit_hating_life/)
-- **发布时间**: 2026-06-06
+#### [Stuck in construction engineering/management and I don’t know how to branch out](https://www.reddit.com/r/civilengineering/comments/1tzsy5a/stuck_in_construction_engineeringmanagement_and_i/)
+- **发布时间**: 2026-06-08
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### 📍 r/Construction 动态
@@ -76,6 +76,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
