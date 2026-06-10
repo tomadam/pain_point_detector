@@ -1,15 +1,15 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-09 01:59:27 (UTC)
+> **生成时间**: 2026-06-10 02:11:40 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Professional Organizations](https://www.reddit.com/r/civilengineering/comments/1u0rmu1/professional_organizations/)
+#### [Civil Engineering Business Development Director Pay Structure](https://www.reddit.com/r/civilengineering/comments/1u1kz0o/civil_engineering_business_development_director/)
 - **发布时间**: 2026-06-09
 
-#### [Seeking entry level career advice: two job offers in water resources](https://www.reddit.com/r/civilengineering/comments/1u0qusz/seeking_entry_level_career_advice_two_job_offers/)
+#### [Professional Organizations](https://www.reddit.com/r/civilengineering/comments/1u0rmu1/professional_organizations/)
 - **发布时间**: 2026-06-09
 
 #### [Taking Another Role](https://www.reddit.com/r/civilengineering/comments/1u0q5sw/taking_another_role/)
@@ -42,6 +42,9 @@
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### 📍 r/QuantitySurveying 动态
 
+#### [NZ Career Outlook for Diploma](https://www.reddit.com/r/quantitysurveying/comments/1u1b17q/nz_career_outlook_for_diploma/)
+- **发布时间**: 2026-06-09
+
 #### [Technical/Behavioral Interview Asst QS AMEY](https://www.reddit.com/r/quantitysurveying/comments/1tysu8i/technicalbehavioral_interview_asst_qs_amey/)
 - **发布时间**: 2026-06-06
 
@@ -53,9 +56,6 @@
 
 #### [Is There Real Value in a Dedicated MEP QS?](https://www.reddit.com/r/quantitysurveying/comments/1twwxu2/is_there_real_value_in_a_dedicated_mep_qs/)
 - **发布时间**: 2026-06-04
-
-#### [Is Something Fishy Going On](https://www.reddit.com/r/quantitysurveying/comments/1tvoqz4/is_something_fishy_going_on/)
-- **发布时间**: 2026-06-03
 
 
 # 🇨🇳 中国平台 - 知乎
