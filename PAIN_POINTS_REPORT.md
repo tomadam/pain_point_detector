@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-12 02:29:33 (UTC)
+> **生成时间**: 2026-06-13 02:10:18 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [CIVIL SITE PROFILE INFORMATION NOT MAKING SENSE.](https://www.reddit.com/r/civilengineering/comments/1u49zi6/civil_site_profile_information_not_making_sense/)
+- **发布时间**: 2026-06-12
+
+#### [OSP Design Manager with Civil Engineering degree thinking about doing something else](https://www.reddit.com/r/civilengineering/comments/1u48vci/osp_design_manager_with_civil_engineering_degree/)
+- **发布时间**: 2026-06-12
+
+#### [ASCE Membership - Wisconsin Section](https://www.reddit.com/r/civilengineering/comments/1u3lk7z/asce_membership_wisconsin_section/)
+- **发布时间**: 2026-06-12
 
 #### [Being Apart of the Rebuild](https://www.reddit.com/r/civilengineering/comments/1u2rufs/being_apart_of_the_rebuild/)
 - **发布时间**: 2026-06-11
 
 #### [How detailed should an ITP actually be?](https://www.reddit.com/r/civilengineering/comments/1u25mzu/how_detailed_should_an_itp_actually_be/)
 - **发布时间**: 2026-06-10
-
-#### [Civil Engineering Business Development Director Pay Structure](https://www.reddit.com/r/civilengineering/comments/1u1kz0o/civil_engineering_business_development_director/)
-- **发布时间**: 2026-06-09
-
-#### [Professional Organizations](https://www.reddit.com/r/civilengineering/comments/1u0rmu1/professional_organizations/)
-- **发布时间**: 2026-06-09
-
-#### [Taking Another Role](https://www.reddit.com/r/civilengineering/comments/1u0q5sw/taking_another_role/)
-- **发布时间**: 2026-06-09
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
