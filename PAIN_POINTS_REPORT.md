@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-14 02:33:38 (UTC)
+> **生成时间**: 2026-06-15 02:38:20 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Interview question, but can't answer.](https://www.reddit.com/r/civilengineering/comments/1u5mo31/interview_question_but_cant_answer/)
+- **发布时间**: 2026-06-14
 
 #### [CIVIL SITE PROFILE INFORMATION NOT MAKING SENSE.](https://www.reddit.com/r/civilengineering/comments/1u49zi6/civil_site_profile_information_not_making_sense/)
 - **发布时间**: 2026-06-12
@@ -17,9 +20,6 @@
 
 #### [Being Apart of the Rebuild](https://www.reddit.com/r/civilengineering/comments/1u2rufs/being_apart_of_the_rebuild/)
 - **发布时间**: 2026-06-11
-
-#### [How detailed should an ITP actually be?](https://www.reddit.com/r/civilengineering/comments/1u25mzu/how_detailed_should_an_itp_actually_be/)
-- **发布时间**: 2026-06-10
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,6 +46,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
