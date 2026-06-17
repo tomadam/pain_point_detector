@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-16 02:41:00 (UTC)
+> **生成时间**: 2026-06-17 02:38:06 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Anyone here working at HNTB's NYC office?](https://www.reddit.com/r/civilengineering/comments/1u7p23q/anyone_here_working_at_hntbs_nyc_office/)
+- **发布时间**: 2026-06-16
+
+#### [Confused between road design engineer and rail design engineer.](https://www.reddit.com/r/civilengineering/comments/1u7cqlj/confused_between_road_design_engineer_and_rail/)
+- **发布时间**: 2026-06-16
 
 #### [intern feeling stuck](https://www.reddit.com/r/civilengineering/comments/1u6rdbg/intern_feeling_stuck/)
 - **发布时间**: 2026-06-15
@@ -14,12 +20,6 @@
 
 #### [Interview question, but can't answer.](https://www.reddit.com/r/civilengineering/comments/1u5mo31/interview_question_but_cant_answer/)
 - **发布时间**: 2026-06-14
-
-#### [CIVIL SITE PROFILE INFORMATION NOT MAKING SENSE.](https://www.reddit.com/r/civilengineering/comments/1u49zi6/civil_site_profile_information_not_making_sense/)
-- **发布时间**: 2026-06-12
-
-#### [OSP Design Manager with Civil Engineering degree thinking about doing something else](https://www.reddit.com/r/civilengineering/comments/1u48vci/osp_design_manager_with_civil_engineering_degree/)
-- **发布时间**: 2026-06-12
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
