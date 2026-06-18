@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-17 02:38:06 (UTC)
+> **生成时间**: 2026-06-18 02:35:15 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [county internship](https://www.reddit.com/r/civilengineering/comments/1u8otmy/county_internship/)
+- **发布时间**: 2026-06-17
+
+#### [Advice on side project.](https://www.reddit.com/r/civilengineering/comments/1u8f3ix/advice_on_side_project/)
+- **发布时间**: 2026-06-17
+
+#### [I got almost 2 years of experience as a transportation engineer](https://www.reddit.com/r/civilengineering/comments/1u84uc1/i_got_almost_2_years_of_experience_as_a/)
+- **发布时间**: 2026-06-17
+
+#### [Utility Company](https://www.reddit.com/r/civilengineering/comments/1u7yyp9/utility_company/)
+- **发布时间**: 2026-06-17
+
 #### [Anyone here working at HNTB's NYC office?](https://www.reddit.com/r/civilengineering/comments/1u7p23q/anyone_here_working_at_hntbs_nyc_office/)
 - **发布时间**: 2026-06-16
-
-#### [Confused between road design engineer and rail design engineer.](https://www.reddit.com/r/civilengineering/comments/1u7cqlj/confused_between_road_design_engineer_and_rail/)
-- **发布时间**: 2026-06-16
-
-#### [intern feeling stuck](https://www.reddit.com/r/civilengineering/comments/1u6rdbg/intern_feeling_stuck/)
-- **发布时间**: 2026-06-15
-
-#### [Where do engineers look for jobs?](https://www.reddit.com/r/civilengineering/comments/1u6kjt3/where_do_engineers_look_for_jobs/)
-- **发布时间**: 2026-06-15
-
-#### [Interview question, but can't answer.](https://www.reddit.com/r/civilengineering/comments/1u5mo31/interview_question_but_cant_answer/)
-- **发布时间**: 2026-06-14
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,6 +46,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
