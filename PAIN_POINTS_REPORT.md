@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-18 02:35:15 (UTC)
+> **生成时间**: 2026-06-19 02:51:26 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Young Civil Engineer looking for career advice: Estimation vs Planning](https://www.reddit.com/r/civilengineering/comments/1u91jkr/young_civil_engineer_looking_for_career_advice/)
+- **发布时间**: 2026-06-18
 
 #### [county internship](https://www.reddit.com/r/civilengineering/comments/1u8otmy/county_internship/)
 - **发布时间**: 2026-06-17
@@ -17,9 +20,6 @@
 
 #### [Utility Company](https://www.reddit.com/r/civilengineering/comments/1u7yyp9/utility_company/)
 - **发布时间**: 2026-06-17
-
-#### [Anyone here working at HNTB's NYC office?](https://www.reddit.com/r/civilengineering/comments/1u7p23q/anyone_here_working_at_hntbs_nyc_office/)
-- **发布时间**: 2026-06-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
