@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-19 02:51:26 (UTC)
+> **生成时间**: 2026-06-20 02:12:17 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Greenbuild international conference NYC 2026](https://www.reddit.com/r/civilengineering/comments/1ua9mhy/greenbuild_international_conference_nyc_2026/)
+- **发布时间**: 2026-06-19
+
+#### [Are young engineers encouraged to not obtain their PE early?](https://www.reddit.com/r/civilengineering/comments/1ua8gnc/are_young_engineers_encouraged_to_not_obtain/)
+- **发布时间**: 2026-06-19
+
+#### [How to keep prepared while unemployed?](https://www.reddit.com/r/civilengineering/comments/1u9zo3h/how_to_keep_prepared_while_unemployed/)
+- **发布时间**: 2026-06-19
+
+#### [Benefits at Other Companies](https://www.reddit.com/r/civilengineering/comments/1u9vh9e/benefits_at_other_companies/)
+- **发布时间**: 2026-06-19
+
 #### [Young Civil Engineer looking for career advice: Estimation vs Planning](https://www.reddit.com/r/civilengineering/comments/1u91jkr/young_civil_engineer_looking_for_career_advice/)
 - **发布时间**: 2026-06-18
-
-#### [county internship](https://www.reddit.com/r/civilengineering/comments/1u8otmy/county_internship/)
-- **发布时间**: 2026-06-17
-
-#### [Advice on side project.](https://www.reddit.com/r/civilengineering/comments/1u8f3ix/advice_on_side_project/)
-- **发布时间**: 2026-06-17
-
-#### [I got almost 2 years of experience as a transportation engineer](https://www.reddit.com/r/civilengineering/comments/1u84uc1/i_got_almost_2_years_of_experience_as_a/)
-- **发布时间**: 2026-06-17
-
-#### [Utility Company](https://www.reddit.com/r/civilengineering/comments/1u7yyp9/utility_company/)
-- **发布时间**: 2026-06-17
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
