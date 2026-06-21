@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-20 02:12:17 (UTC)
+> **生成时间**: 2026-06-21 02:36:50 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Would taking an online civil 3D course be worth it?](https://www.reddit.com/r/civilengineering/comments/1ub8rha/would_taking_an_online_civil_3d_course_be_worth_it/)
+- **发布时间**: 2026-06-20
+
+#### [Highway Design to Traffic](https://www.reddit.com/r/civilengineering/comments/1ub5a0r/highway_design_to_traffic/)
+- **发布时间**: 2026-06-20
+
+#### [Interview Tips?](https://www.reddit.com/r/civilengineering/comments/1uayipc/interview_tips/)
+- **发布时间**: 2026-06-20
+
+#### [International Student in Australia Seeking Entry-Level Site Engineer Roles – Honest Resume Review Needed](https://www.reddit.com/r/civilengineering/comments/1uavqf4/international_student_in_australia_seeking/)
+- **发布时间**: 2026-06-20
+
 #### [Greenbuild international conference NYC 2026](https://www.reddit.com/r/civilengineering/comments/1ua9mhy/greenbuild_international_conference_nyc_2026/)
 - **发布时间**: 2026-06-19
-
-#### [Are young engineers encouraged to not obtain their PE early?](https://www.reddit.com/r/civilengineering/comments/1ua8gnc/are_young_engineers_encouraged_to_not_obtain/)
-- **发布时间**: 2026-06-19
-
-#### [How to keep prepared while unemployed?](https://www.reddit.com/r/civilengineering/comments/1u9zo3h/how_to_keep_prepared_while_unemployed/)
-- **发布时间**: 2026-06-19
-
-#### [Benefits at Other Companies](https://www.reddit.com/r/civilengineering/comments/1u9vh9e/benefits_at_other_companies/)
-- **发布时间**: 2026-06-19
-
-#### [Young Civil Engineer looking for career advice: Estimation vs Planning](https://www.reddit.com/r/civilengineering/comments/1u91jkr/young_civil_engineer_looking_for_career_advice/)
-- **发布时间**: 2026-06-18
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
