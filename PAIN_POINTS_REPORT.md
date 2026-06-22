@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-21 02:36:50 (UTC)
+> **生成时间**: 2026-06-22 02:40:27 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Would taking an online civil 3D course be worth it?](https://www.reddit.com/r/civilengineering/comments/1ub8rha/would_taking_an_online_civil_3d_course_be_worth_it/)
-- **发布时间**: 2026-06-20
+#### [Question about soil stabilization method](https://www.reddit.com/r/civilengineering/comments/1uc1wet/question_about_soil_stabilization_method/)
+- **发布时间**: 2026-06-21
 
-#### [Highway Design to Traffic](https://www.reddit.com/r/civilengineering/comments/1ub5a0r/highway_design_to_traffic/)
+#### [Civil, Architecture, or Nursing?](https://www.reddit.com/r/civilengineering/comments/1ubycg4/civil_architecture_or_nursing/)
+- **发布时间**: 2026-06-21
+
+#### [Physicist considering career change](https://www.reddit.com/r/civilengineering/comments/1ubs2av/physicist_considering_career_change/)
+- **发布时间**: 2026-06-21
+
+#### [Would taking an online civil 3D course be worth it?](https://www.reddit.com/r/civilengineering/comments/1ub8rha/would_taking_an_online_civil_3d_course_be_worth_it/)
 - **发布时间**: 2026-06-20
 
 #### [Interview Tips?](https://www.reddit.com/r/civilengineering/comments/1uayipc/interview_tips/)
 - **发布时间**: 2026-06-20
-
-#### [International Student in Australia Seeking Entry-Level Site Engineer Roles – Honest Resume Review Needed](https://www.reddit.com/r/civilengineering/comments/1uavqf4/international_student_in_australia_seeking/)
-- **发布时间**: 2026-06-20
-
-#### [Greenbuild international conference NYC 2026](https://www.reddit.com/r/civilengineering/comments/1ua9mhy/greenbuild_international_conference_nyc_2026/)
-- **发布时间**: 2026-06-19
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,8 +46,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
