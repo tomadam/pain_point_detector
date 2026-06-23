@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-22 02:40:27 (UTC)
+> **生成时间**: 2026-06-23 02:06:33 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [What should I do if I don’t get anything to do at Intern?](https://www.reddit.com/r/civilengineering/comments/1ucxgnl/what_should_i_do_if_i_dont_get_anything_to_do_at/)
+- **发布时间**: 2026-06-22
+
+#### [Year in Industry (intern) PPE failure leading to an incident - insight appreciated](https://www.reddit.com/r/civilengineering/comments/1ucnyx1/year_in_industry_intern_ppe_failure_leading_to_an/)
+- **发布时间**: 2026-06-22
+
+#### [[Help] Need access to ADAPT Builder for a university assignment — license situation is a mess](https://www.reddit.com/r/civilengineering/comments/1uceb80/help_need_access_to_adapt_builder_for_a/)
+- **发布时间**: 2026-06-22
 
 #### [Question about soil stabilization method](https://www.reddit.com/r/civilengineering/comments/1uc1wet/question_about_soil_stabilization_method/)
 - **发布时间**: 2026-06-21
 
 #### [Civil, Architecture, or Nursing?](https://www.reddit.com/r/civilengineering/comments/1ubycg4/civil_architecture_or_nursing/)
 - **发布时间**: 2026-06-21
-
-#### [Physicist considering career change](https://www.reddit.com/r/civilengineering/comments/1ubs2av/physicist_considering_career_change/)
-- **发布时间**: 2026-06-21
-
-#### [Would taking an online civil 3D course be worth it?](https://www.reddit.com/r/civilengineering/comments/1ub8rha/would_taking_an_online_civil_3d_course_be_worth_it/)
-- **发布时间**: 2026-06-20
-
-#### [Interview Tips?](https://www.reddit.com/r/civilengineering/comments/1uayipc/interview_tips/)
-- **发布时间**: 2026-06-20
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,6 +46,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
