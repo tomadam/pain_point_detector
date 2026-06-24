@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-23 02:06:33 (UTC)
+> **生成时间**: 2026-06-24 02:08:28 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [What should I do if I don’t get anything to do at Intern?](https://www.reddit.com/r/civilengineering/comments/1ucxgnl/what_should_i_do_if_i_dont_get_anything_to_do_at/)
-- **发布时间**: 2026-06-22
+#### [How to Make More Than 200k?](https://www.reddit.com/r/civilengineering/comments/1udqvny/how_to_make_more_than_200k/)
+- **发布时间**: 2026-06-23
 
-#### [Year in Industry (intern) PPE failure leading to an incident - insight appreciated](https://www.reddit.com/r/civilengineering/comments/1ucnyx1/year_in_industry_intern_ppe_failure_leading_to_an/)
-- **发布时间**: 2026-06-22
+#### [Entry Level Advice Needed (>2 years)](https://www.reddit.com/r/civilengineering/comments/1udnkey/entry_level_advice_needed_2_years/)
+- **发布时间**: 2026-06-23
 
-#### [[Help] Need access to ADAPT Builder for a university assignment — license situation is a mess](https://www.reddit.com/r/civilengineering/comments/1uceb80/help_need_access_to_adapt_builder_for_a/)
-- **发布时间**: 2026-06-22
+#### [UK Chartership coming from academic background - sponsor letters](https://www.reddit.com/r/civilengineering/comments/1udks5q/uk_chartership_coming_from_academic_background/)
+- **发布时间**: 2026-06-23
 
-#### [Question about soil stabilization method](https://www.reddit.com/r/civilengineering/comments/1uc1wet/question_about_soil_stabilization_method/)
-- **发布时间**: 2026-06-21
+#### [Thinking of doing mater from Italy need help](https://www.reddit.com/r/civilengineering/comments/1udjc0o/thinking_of_doing_mater_from_italy_need_help/)
+- **发布时间**: 2026-06-23
 
-#### [Civil, Architecture, or Nursing?](https://www.reddit.com/r/civilengineering/comments/1ubycg4/civil_architecture_or_nursing/)
-- **发布时间**: 2026-06-21
+#### [social norms when leaving job](https://www.reddit.com/r/civilengineering/comments/1udfr0k/social_norms_when_leaving_job/)
+- **发布时间**: 2026-06-23
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
