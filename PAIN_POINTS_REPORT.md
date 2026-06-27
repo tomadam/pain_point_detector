@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-26 02:10:13 (UTC)
+> **生成时间**: 2026-06-27 02:05:15 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [roles outside government that aren't consulting? Looking to branch out but without the billable-hour grind](https://www.reddit.com/r/civilengineering/comments/1ughigi/roles_outside_government_that_arent_consulting/)
+- **发布时间**: 2026-06-26
+
+#### [University student looking for advice to land job at dream company.](https://www.reddit.com/r/civilengineering/comments/1ufu73x/university_student_looking_for_advice_to_land_job/)
+- **发布时间**: 2026-06-26
 
 #### [Thinking of leaving private consulting?](https://www.reddit.com/r/civilengineering/comments/1uehop3/thinking_of_leaving_private_consulting/)
 - **发布时间**: 2026-06-24
@@ -13,12 +19,6 @@
 - **发布时间**: 2026-06-24
 
 #### [How to Make More Than 200k?](https://www.reddit.com/r/civilengineering/comments/1udqvny/how_to_make_more_than_200k/)
-- **发布时间**: 2026-06-23
-
-#### [Entry Level Advice Needed (>2 years)](https://www.reddit.com/r/civilengineering/comments/1udnkey/entry_level_advice_needed_2_years/)
-- **发布时间**: 2026-06-23
-
-#### [UK Chartership coming from academic background - sponsor letters](https://www.reddit.com/r/civilengineering/comments/1udks5q/uk_chartership_coming_from_academic_background/)
 - **发布时间**: 2026-06-23
 
 ## 🏢 领域：建筑施工 (r/Construction)
