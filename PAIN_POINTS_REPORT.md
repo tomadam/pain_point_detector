@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-27 02:05:15 (UTC)
+> **生成时间**: 2026-06-28 02:26:53 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Need advice on changing responsibilties](https://www.reddit.com/r/civilengineering/comments/1uhgh6h/need_advice_on_changing_responsibilties/)
+- **发布时间**: 2026-06-27
+
+#### [Civil Engineering is The Backrooms](https://www.reddit.com/r/civilengineering/comments/1uh2cer/civil_engineering_is_the_backrooms/)
+- **发布时间**: 2026-06-27
 
 #### [roles outside government that aren't consulting? Looking to branch out but without the billable-hour grind](https://www.reddit.com/r/civilengineering/comments/1ughigi/roles_outside_government_that_arent_consulting/)
 - **发布时间**: 2026-06-26
@@ -12,14 +18,8 @@
 #### [University student looking for advice to land job at dream company.](https://www.reddit.com/r/civilengineering/comments/1ufu73x/university_student_looking_for_advice_to_land_job/)
 - **发布时间**: 2026-06-26
 
-#### [Thinking of leaving private consulting?](https://www.reddit.com/r/civilengineering/comments/1uehop3/thinking_of_leaving_private_consulting/)
-- **发布时间**: 2026-06-24
-
-#### [ETABS: best real-world method for (1) sloped concrete roofs and (2) distributed shear to strip footings?](https://www.reddit.com/r/civilengineering/comments/1ue8oab/etabs_best_realworld_method_for_1_sloped_concrete/)
-- **发布时间**: 2026-06-24
-
-#### [How to Make More Than 200k?](https://www.reddit.com/r/civilengineering/comments/1udqvny/how_to_make_more_than_200k/)
-- **发布时间**: 2026-06-23
+#### [Study Plan Advice](https://www.reddit.com/r/civilengineering/comments/1ufrcar/study_plan_advice/)
+- **发布时间**: 2026-06-26
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,6 +46,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
