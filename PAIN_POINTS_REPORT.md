@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-28 02:26:53 (UTC)
+> **生成时间**: 2026-06-29 02:15:18 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Pre engineered metal building cladding system.](https://www.reddit.com/r/civilengineering/comments/1ui3tg9/pre_engineered_metal_building_cladding_system/)
+- **发布时间**: 2026-06-28
 
 #### [Need advice on changing responsibilties](https://www.reddit.com/r/civilengineering/comments/1uhgh6h/need_advice_on_changing_responsibilties/)
 - **发布时间**: 2026-06-27
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-06-26
 
 #### [University student looking for advice to land job at dream company.](https://www.reddit.com/r/civilengineering/comments/1ufu73x/university_student_looking_for_advice_to_land_job/)
-- **发布时间**: 2026-06-26
-
-#### [Study Plan Advice](https://www.reddit.com/r/civilengineering/comments/1ufrcar/study_plan_advice/)
 - **发布时间**: 2026-06-26
 
 ## 🏢 领域：建筑施工 (r/Construction)
