@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-06-30 02:10:32 (UTC)
+> **生成时间**: 2026-07-01 02:14:52 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [What's the cheapest move you've seen a consulting company make?](https://www.reddit.com/r/civilengineering/comments/1uk5fzv/whats_the_cheapest_move_youve_seen_a_consulting/)
+- **发布时间**: 2026-06-30
 
 #### [Job Site Banter/Etiquette/Conduct](https://www.reddit.com/r/civilengineering/comments/1uj0nb9/job_site_banteretiquetteconduct/)
 - **发布时间**: 2026-06-29
@@ -14,9 +17,6 @@
 
 #### [Can I defer multiple US university offers and choose later?](https://www.reddit.com/r/civilengineering/comments/1uipmqg/can_i_defer_multiple_us_university_offers_and/)
 - **发布时间**: 2026-06-29
-
-#### [Pre engineered metal building cladding system.](https://www.reddit.com/r/civilengineering/comments/1ui3tg9/pre_engineered_metal_building_cladding_system/)
-- **发布时间**: 2026-06-28
 
 #### [Need advice on changing responsibilties](https://www.reddit.com/r/civilengineering/comments/1uhgh6h/need_advice_on_changing_responsibilties/)
 - **发布时间**: 2026-06-27
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
