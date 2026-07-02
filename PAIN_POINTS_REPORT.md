@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-01 02:14:52 (UTC)
+> **生成时间**: 2026-07-02 02:07:13 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Internship Advice](https://www.reddit.com/r/civilengineering/comments/1ul1y5x/internship_advice/)
+- **发布时间**: 2026-07-01
+
+#### [Question about non-union Engineering roles with the City in ontario (Inflation adjustments, salary progression and getting in)](https://www.reddit.com/r/civilengineering/comments/1ukswfv/question_about_nonunion_engineering_roles_with/)
+- **发布时间**: 2026-07-01
+
+#### [24-year-old Civil Engineer from India looking for advice/opportunities abroad](https://www.reddit.com/r/civilengineering/comments/1ukep8m/24yearold_civil_engineer_from_india_looking_for/)
+- **发布时间**: 2026-07-01
+
+#### [Scope Creep Strategy?](https://www.reddit.com/r/civilengineering/comments/1ukcgds/scope_creep_strategy/)
+- **发布时间**: 2026-07-01
+
 #### [What's the cheapest move you've seen a consulting company make?](https://www.reddit.com/r/civilengineering/comments/1uk5fzv/whats_the_cheapest_move_youve_seen_a_consulting/)
 - **发布时间**: 2026-06-30
-
-#### [Job Site Banter/Etiquette/Conduct](https://www.reddit.com/r/civilengineering/comments/1uj0nb9/job_site_banteretiquetteconduct/)
-- **发布时间**: 2026-06-29
-
-#### [Working for the FAA?](https://www.reddit.com/r/civilengineering/comments/1uirn0f/working_for_the_faa/)
-- **发布时间**: 2026-06-29
-
-#### [Can I defer multiple US university offers and choose later?](https://www.reddit.com/r/civilengineering/comments/1uipmqg/can_i_defer_multiple_us_university_offers_and/)
-- **发布时间**: 2026-06-29
-
-#### [Need advice on changing responsibilties](https://www.reddit.com/r/civilengineering/comments/1uhgh6h/need_advice_on_changing_responsibilties/)
-- **发布时间**: 2026-06-27
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,14 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
