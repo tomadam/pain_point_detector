@@ -1,15 +1,18 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-03 01:51:13 (UTC)
+> **生成时间**: 2026-07-04 01:51:02 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Internship Advice](https://www.reddit.com/r/civilengineering/comments/1ul1y5x/internship_advice/)
-- **发布时间**: 2026-07-01
+#### [Unsupervised site visit as intern?](https://www.reddit.com/r/civilengineering/comments/1umijo5/unsupervised_site_visit_as_intern/)
+- **发布时间**: 2026-07-03
 
-#### [Question about non-union Engineering roles with the City in ontario (Inflation adjustments, salary progression and getting in)](https://www.reddit.com/r/civilengineering/comments/1ukswfv/question_about_nonunion_engineering_roles_with/)
+#### [Career Advice: UK or US](https://www.reddit.com/r/civilengineering/comments/1um47fq/career_advice_uk_or_us/)
+- **发布时间**: 2026-07-03
+
+#### [Internship Advice](https://www.reddit.com/r/civilengineering/comments/1ul1y5x/internship_advice/)
 - **发布时间**: 2026-07-01
 
 #### [24-year-old Civil Engineer from India looking for advice/opportunities abroad](https://www.reddit.com/r/civilengineering/comments/1ukep8m/24yearold_civil_engineer_from_india_looking_for/)
@@ -17,9 +20,6 @@
 
 #### [Scope Creep Strategy?](https://www.reddit.com/r/civilengineering/comments/1ukcgds/scope_creep_strategy/)
 - **发布时间**: 2026-07-01
-
-#### [What's the cheapest move you've seen a consulting company make?](https://www.reddit.com/r/civilengineering/comments/1uk5fzv/whats_the_cheapest_move_youve_seen_a_consulting/)
-- **发布时间**: 2026-06-30
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
