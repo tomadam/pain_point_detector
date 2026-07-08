@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-07 01:59:03 (UTC)
+> **生成时间**: 2026-07-08 01:28:38 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Chemical Engineering Student Looking to Pivot Into Civil/Environmental Engineering](https://www.reddit.com/r/civilengineering/comments/1upaobt/chemical_engineering_student_looking_to_pivot/)
-- **发布时间**: 2026-07-06
+#### [What do Field Engineers do?](https://www.reddit.com/r/civilengineering/comments/1uq8n4h/what_do_field_engineers_do/)
+- **发布时间**: 2026-07-07
+
+#### [Summer projects](https://www.reddit.com/r/civilengineering/comments/1upn52r/summer_projects/)
+- **发布时间**: 2026-07-07
+
+#### [Job Posting](https://www.reddit.com/r/civilengineering/comments/1upjbbv/job_posting/)
+- **发布时间**: 2026-07-07
 
 #### [Do Civil Engineering Firms Actually Outsource Civil 3D Work?](https://www.reddit.com/r/civilengineering/comments/1up85rn/do_civil_engineering_firms_actually_outsource/)
 - **发布时间**: 2026-07-06
 
 #### [Need brutally honest feedback on a concept to reduce urban waterlogging – what am I missing?](https://www.reddit.com/r/civilengineering/comments/1uovgnx/need_brutally_honest_feedback_on_a_concept_to/)
 - **发布时间**: 2026-07-06
-
-#### [Undergrad Research](https://www.reddit.com/r/civilengineering/comments/1uon98i/undergrad_research/)
-- **发布时间**: 2026-07-06
-
-#### [Being fired three weeks into internship](https://www.reddit.com/r/civilengineering/comments/1uoduu9/being_fired_three_weeks_into_internship/)
-- **发布时间**: 2026-07-05
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
