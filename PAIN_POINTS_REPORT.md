@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-09 01:50:45 (UTC)
+> **生成时间**: 2026-07-10 01:49:40 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Negotiating Starting Salary](https://www.reddit.com/r/civilengineering/comments/1us4o62/negotiating_starting_salary/)
+- **发布时间**: 2026-07-09
+
+#### [Interested in a job from a recruiter, worried about ethics](https://www.reddit.com/r/civilengineering/comments/1us32g2/interested_in_a_job_from_a_recruiter_worried/)
+- **发布时间**: 2026-07-09
+
+#### [How tall would you design a curb in a parking lot that holds up a sidewalk before needing a wall?](https://www.reddit.com/r/civilengineering/comments/1urx514/how_tall_would_you_design_a_curb_in_a_parking_lot/)
+- **发布时间**: 2026-07-09
+
+#### [Detention Pond Design](https://www.reddit.com/r/civilengineering/comments/1urkkyn/detention_pond_design/)
+- **发布时间**: 2026-07-09
+
 #### [Engineering students/builders — how do you actually visualize your ideas before building them?](https://www.reddit.com/r/civilengineering/comments/1uqywn5/engineering_studentsbuilders_how_do_you_actually/)
 - **发布时间**: 2026-07-08
-
-#### [cold joint or lift line?](https://www.reddit.com/r/civilengineering/comments/1uqnx6s/cold_joint_or_lift_line/)
-- **发布时间**: 2026-07-08
-
-#### [What do Field Engineers do?](https://www.reddit.com/r/civilengineering/comments/1uq8n4h/what_do_field_engineers_do/)
-- **发布时间**: 2026-07-07
-
-#### [Summer projects](https://www.reddit.com/r/civilengineering/comments/1upn52r/summer_projects/)
-- **发布时间**: 2026-07-07
-
-#### [Job Posting](https://www.reddit.com/r/civilengineering/comments/1upjbbv/job_posting/)
-- **发布时间**: 2026-07-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,12 +40,12 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
