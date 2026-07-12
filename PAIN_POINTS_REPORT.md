@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-11 01:28:24 (UTC)
+> **生成时间**: 2026-07-12 01:30:00 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [If an intern’s background is across numerous engineering sectors as well as pre-med, does that look bad for employers?](https://www.reddit.com/r/civilengineering/comments/1ut33hl/if_an_interns_background_is_across_numerous/)
-- **发布时间**: 2026-07-10
+#### [Civil Engineering vs Architecture – Can I Still Work on Building Design?](https://www.reddit.com/r/civilengineering/comments/1uturn2/civil_engineering_vs_architecture_can_i_still/)
+- **发布时间**: 2026-07-11
 
-#### [Teacher looking for help ! Please share your experience here.](https://www.reddit.com/r/civilengineering/comments/1usi09p/teacher_looking_for_help_please_share_your/)
-- **发布时间**: 2026-07-10
+#### [Qualities for a top student](https://www.reddit.com/r/civilengineering/comments/1utowau/qualities_for_a_top_student/)
+- **发布时间**: 2026-07-11
 
-#### [Thoughts on this underground "cave house" built in Ecuador? (Seems like a structural disaster waiting to happen)](https://www.reddit.com/r/civilengineering/comments/1usdy2q/thoughts_on_this_underground_cave_house_built_in/)
-- **发布时间**: 2026-07-10
+#### [Concrete edge protection for high traffic area](https://www.reddit.com/r/civilengineering/comments/1utopf3/concrete_edge_protection_for_high_traffic_area/)
+- **发布时间**: 2026-07-11
 
-#### [Feeling inadequate](https://www.reddit.com/r/civilengineering/comments/1usakdw/feeling_inadequate/)
-- **发布时间**: 2026-07-10
+#### [ADVICE NEEDED: Should I JJS (just jump ship)?](https://www.reddit.com/r/civilengineering/comments/1utk7or/advice_needed_should_i_jjs_just_jump_ship/)
+- **发布时间**: 2026-07-11
 
-#### [Negotiating Starting Salary](https://www.reddit.com/r/civilengineering/comments/1us4o62/negotiating_starting_salary/)
-- **发布时间**: 2026-07-09
+#### [Leadership emailing me (EIT) about utilization. Timing is interesting.](https://www.reddit.com/r/civilengineering/comments/1utizc6/leadership_emailing_me_eit_about_utilization/)
+- **发布时间**: 2026-07-11
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,14 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
