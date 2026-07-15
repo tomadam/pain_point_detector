@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-14 01:20:18 (UTC)
+> **生成时间**: 2026-07-15 01:17:01 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Landed 2 solid engineering internships as an underclassman, happy to share what actually worked](https://www.reddit.com/r/civilengineering/comments/1uvth96/landed_2_solid_engineering_internships_as_an/)
+#### [Advice for Aerospace switching to Civil!!!!](https://www.reddit.com/r/civilengineering/comments/1uwerk0/advice_for_aerospace_switching_to_civil/)
 - **发布时间**: 2026-07-14
 
-#### [A foreman was so sure nobody read his daily reports, he started hiding jokes in them to test us. What does your site actually do with daily reports?](https://www.reddit.com/r/civilengineering/comments/1uu2cgg/a_foreman_was_so_sure_nobody_read_his_daily/)
-- **发布时间**: 2026-07-12
+#### [Alternative structural eng job](https://www.reddit.com/r/civilengineering/comments/1uwe1ri/alternative_structural_eng_job/)
+- **发布时间**: 2026-07-14
 
-#### [Civil Engineering vs Architecture – Can I Still Work on Building Design?](https://www.reddit.com/r/civilengineering/comments/1uturn2/civil_engineering_vs_architecture_can_i_still/)
-- **发布时间**: 2026-07-11
+#### [Geotechnical engineer considering Melbourne-to-Brisbane move for career progression. Torn.](https://www.reddit.com/r/civilengineering/comments/1uvyhtv/geotechnical_engineer_considering/)
+- **发布时间**: 2026-07-14
 
-#### [Qualities for a top student](https://www.reddit.com/r/civilengineering/comments/1utowau/qualities_for_a_top_student/)
-- **发布时间**: 2026-07-11
+#### [Early Career Engineer at an Impasse](https://www.reddit.com/r/civilengineering/comments/1uvxaue/early_career_engineer_at_an_impasse/)
+- **发布时间**: 2026-07-14
 
-#### [Concrete edge protection for high traffic area](https://www.reddit.com/r/civilengineering/comments/1utopf3/concrete_edge_protection_for_high_traffic_area/)
-- **发布时间**: 2026-07-11
+#### [Landed 2 solid engineering internships as an underclassman, happy to share what actually worked](https://www.reddit.com/r/civilengineering/comments/1uvth96/landed_2_solid_engineering_internships_as_an/)
+- **发布时间**: 2026-07-14
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
