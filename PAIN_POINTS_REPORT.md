@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-15 01:17:01 (UTC)
+> **生成时间**: 2026-07-16 01:27:13 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [AI Use](https://www.reddit.com/r/civilengineering/comments/1uwxoin/ai_use/)
+- **发布时间**: 2026-07-15
 
 #### [Advice for Aerospace switching to Civil!!!!](https://www.reddit.com/r/civilengineering/comments/1uwerk0/advice_for_aerospace_switching_to_civil/)
 - **发布时间**: 2026-07-14
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-07-14
 
 #### [Early Career Engineer at an Impasse](https://www.reddit.com/r/civilengineering/comments/1uvxaue/early_career_engineer_at_an_impasse/)
-- **发布时间**: 2026-07-14
-
-#### [Landed 2 solid engineering internships as an underclassman, happy to share what actually worked](https://www.reddit.com/r/civilengineering/comments/1uvth96/landed_2_solid_engineering_internships_as_an/)
 - **发布时间**: 2026-07-14
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -44,8 +44,6 @@
 > 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
