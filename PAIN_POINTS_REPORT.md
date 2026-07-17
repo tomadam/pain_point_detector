@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-16 01:27:13 (UTC)
+> **生成时间**: 2026-07-17 01:29:52 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [AI Use](https://www.reddit.com/r/civilengineering/comments/1uwxoin/ai_use/)
-- **发布时间**: 2026-07-15
+#### [Seattle-based civil/structural California PE (2 YOE) seeking advice/looking to transition into forensic engineering](https://www.reddit.com/r/civilengineering/comments/1uyiqxc/seattlebased_civilstructural_california_pe_2_yoe/)
+- **发布时间**: 2026-07-16
 
-#### [Advice for Aerospace switching to Civil!!!!](https://www.reddit.com/r/civilengineering/comments/1uwerk0/advice_for_aerospace_switching_to_civil/)
-- **发布时间**: 2026-07-14
+#### [Homebuilder roles](https://www.reddit.com/r/civilengineering/comments/1uye6e7/homebuilder_roles/)
+- **发布时间**: 2026-07-16
 
-#### [Alternative structural eng job](https://www.reddit.com/r/civilengineering/comments/1uwe1ri/alternative_structural_eng_job/)
-- **发布时间**: 2026-07-14
+#### [To my colleagues across the pond, should I consider an MS in civil?](https://www.reddit.com/r/civilengineering/comments/1uybpcb/to_my_colleagues_across_the_pond_should_i/)
+- **发布时间**: 2026-07-16
 
-#### [Geotechnical engineer considering Melbourne-to-Brisbane move for career progression. Torn.](https://www.reddit.com/r/civilengineering/comments/1uvyhtv/geotechnical_engineer_considering/)
-- **发布时间**: 2026-07-14
+#### [Roughly 12 foot retaining wall above my property failed and collapsed downhill, and the developer rebuilt it. Does the repair approach make engineering sense?](https://www.reddit.com/r/civilengineering/comments/1uy9ga9/roughly_12_foot_retaining_wall_above_my_property/)
+- **发布时间**: 2026-07-16
 
-#### [Early Career Engineer at an Impasse](https://www.reddit.com/r/civilengineering/comments/1uvxaue/early_career_engineer_at_an_impasse/)
-- **发布时间**: 2026-07-14
+#### [Active or Education Path](https://www.reddit.com/r/civilengineering/comments/1uxpezn/active_or_education_path/)
+- **发布时间**: 2026-07-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
