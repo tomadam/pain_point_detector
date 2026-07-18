@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-17 01:29:52 (UTC)
+> **生成时间**: 2026-07-18 01:21:45 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Industry jobs for ex-software dev?](https://www.reddit.com/r/civilengineering/comments/1uz71jy/industry_jobs_for_exsoftware_dev/)
+- **发布时间**: 2026-07-17
 
 #### [Seattle-based civil/structural California PE (2 YOE) seeking advice/looking to transition into forensic engineering](https://www.reddit.com/r/civilengineering/comments/1uyiqxc/seattlebased_civilstructural_california_pe_2_yoe/)
 - **发布时间**: 2026-07-16
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-07-16
 
 #### [Roughly 12 foot retaining wall above my property failed and collapsed downhill, and the developer rebuilt it. Does the repair approach make engineering sense?](https://www.reddit.com/r/civilengineering/comments/1uy9ga9/roughly_12_foot_retaining_wall_above_my_property/)
-- **发布时间**: 2026-07-16
-
-#### [Active or Education Path](https://www.reddit.com/r/civilengineering/comments/1uxpezn/active_or_education_path/)
 - **发布时间**: 2026-07-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
