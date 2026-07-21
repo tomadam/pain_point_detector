@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-20 03:03:49 (UTC)
+> **生成时间**: 2026-07-21 01:27:38 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Bridge in Pittsburgh being slid into place](https://www.reddit.com/r/civilengineering/comments/1v1rw8b/bridge_in_pittsburgh_being_slid_into_place/)
+- **发布时间**: 2026-07-20
 
 #### [Former Software Engineer looking at Civil](https://www.reddit.com/r/civilengineering/comments/1v0yygr/former_software_engineer_looking_at_civil/)
 - **发布时间**: 2026-07-19
@@ -17,9 +20,6 @@
 
 #### [I think I need a PE. Is it realistic at this point?](https://www.reddit.com/r/civilengineering/comments/1uzjd86/i_think_i_need_a_pe_is_it_realistic_at_this_point/)
 - **发布时间**: 2026-07-18
-
-#### [Industry jobs for ex-software dev?](https://www.reddit.com/r/civilengineering/comments/1uz71jy/industry_jobs_for_exsoftware_dev/)
-- **发布时间**: 2026-07-17
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
