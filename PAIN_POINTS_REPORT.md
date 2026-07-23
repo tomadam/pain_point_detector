@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-22 01:26:30 (UTC)
+> **生成时间**: 2026-07-23 01:45:38 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Canadian PR with two engineering internships from China. Rejected from Graduate Civil Engineer roles — what am I missing?](https://www.reddit.com/r/civilengineering/comments/1v3dg8w/canadian_pr_with_two_engineering_internships_from/)
+- **发布时间**: 2026-07-22
 
 #### [Feeling Lost After 300+ Applications: Civil Engineering Grad With MS Data Science Getting Rejected From Entry-Level Roles](https://www.reddit.com/r/civilengineering/comments/1v31fah/feeling_lost_after_300_applications_civil/)
 - **发布时间**: 2026-07-22
@@ -17,9 +20,6 @@
 
 #### [Working for HNTB](https://www.reddit.com/r/civilengineering/comments/1v2k8tu/working_for_hntb/)
 - **发布时间**: 2026-07-21
-
-#### [Bridge in Pittsburgh being slid into place](https://www.reddit.com/r/civilengineering/comments/1v1rw8b/bridge_in_pittsburgh_being_slid_into_place/)
-- **发布时间**: 2026-07-20
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
