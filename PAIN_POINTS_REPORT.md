@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-24 01:41:59 (UTC)
+> **生成时间**: 2026-07-25 01:30:13 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Found out my wife and I are working on the same project](https://www.reddit.com/r/civilengineering/comments/1v5jnhb/found_out_my_wife_and_i_are_working_on_the_same/)
+- **发布时间**: 2026-07-24
+
+#### [Go back for another Internship? Advice wanted](https://www.reddit.com/r/civilengineering/comments/1v5h3kt/go_back_for_another_internship_advice_wanted/)
+- **发布时间**: 2026-07-24
 
 #### [My research results completely rejected/changed my hypothesis a week before my project ends. How would you handle this?](https://www.reddit.com/r/civilengineering/comments/1v4t2gd/my_research_results_completely_rejectedchanged_my/)
 - **发布时间**: 2026-07-23
@@ -15,29 +21,8 @@
 #### [Advice Please](https://www.reddit.com/r/civilengineering/comments/1v4ed65/advice_please/)
 - **发布时间**: 2026-07-23
 
-#### [Canadian PR with two engineering internships from China. Rejected from Graduate Civil Engineer roles — what am I missing?](https://www.reddit.com/r/civilengineering/comments/1v3dg8w/canadian_pr_with_two_engineering_internships_from/)
-- **发布时间**: 2026-07-22
-
-#### [Feeling Lost After 300+ Applications: Civil Engineering Grad With MS Data Science Getting Rejected From Entry-Level Roles](https://www.reddit.com/r/civilengineering/comments/1v31fah/feeling_lost_after_300_applications_civil/)
-- **发布时间**: 2026-07-22
-
 ## 🏢 领域：建筑施工 (r/Construction)
-### 📍 r/Construction 动态
-
-#### [Question about cracks in load bearing beam](https://www.reddit.com/r/Construction/comments/1v48zwh/question_about_cracks_in_load_bearing_beam/)
-- **发布时间**: 2026-07-23
-
-#### [Commercial Specialty Contractor - Specific Software or Ops Organization Recs](https://www.reddit.com/r/Construction/comments/1v3uhaj/commercial_specialty_contractor_specific_software/)
-- **发布时间**: 2026-07-22
-
-#### [Courses or certificates I can take to help supplement my lack of construction education?](https://www.reddit.com/r/Construction/comments/1v2gwh7/courses_or_certificates_i_can_take_to_help/)
-- **发布时间**: 2026-07-21
-
-#### [Carpenters/builders:To your younger self …](https://www.reddit.com/r/Construction/comments/1v0fetx/carpentersbuildersto_your_younger_self/)
-- **发布时间**: 2026-07-19
-
-#### [Estimator —> PE/ APM / PM](https://www.reddit.com/r/Construction/comments/1uzwdyx/estimator_pe_apm_pm/)
-- **发布时间**: 2026-07-18
+### [!] r/Construction 获取失败或为空
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### [!] r/QuantitySurveying 获取失败或为空
