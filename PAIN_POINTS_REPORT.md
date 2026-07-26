@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-25 01:30:13 (UTC)
+> **生成时间**: 2026-07-26 01:44:30 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [What civil engineering career path fits someone in my situation?](https://www.reddit.com/r/civilengineering/comments/1v6jlep/what_civil_engineering_career_path_fits_someone/)
+- **发布时间**: 2026-07-25
+
+#### [Is there any difference in shaping my career in working for a city vs private company?](https://www.reddit.com/r/civilengineering/comments/1v6cc79/is_there_any_difference_in_shaping_my_career_in/)
+- **发布时间**: 2026-07-25
 
 #### [Found out my wife and I are working on the same project](https://www.reddit.com/r/civilengineering/comments/1v5jnhb/found_out_my_wife_and_i_are_working_on_the_same/)
 - **发布时间**: 2026-07-24
@@ -13,12 +19,6 @@
 - **发布时间**: 2026-07-24
 
 #### [My research results completely rejected/changed my hypothesis a week before my project ends. How would you handle this?](https://www.reddit.com/r/civilengineering/comments/1v4t2gd/my_research_results_completely_rejectedchanged_my/)
-- **发布时间**: 2026-07-23
-
-#### [Offer from GFT Insight wanted!](https://www.reddit.com/r/civilengineering/comments/1v4jrtx/offer_from_gft_insight_wanted/)
-- **发布时间**: 2026-07-23
-
-#### [Advice Please](https://www.reddit.com/r/civilengineering/comments/1v4ed65/advice_please/)
 - **发布时间**: 2026-07-23
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -46,8 +46,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
