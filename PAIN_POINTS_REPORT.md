@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-26 01:44:30 (UTC)
+> **生成时间**: 2026-07-27 01:51:30 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Ethics Question: Approve credit from the Contractor for work not included in the base scope?](https://www.reddit.com/r/civilengineering/comments/1v7mnuv/ethics_question_approve_credit_from_the/)
+- **发布时间**: 2026-07-27
 
 #### [What civil engineering career path fits someone in my situation?](https://www.reddit.com/r/civilengineering/comments/1v6jlep/what_civil_engineering_career_path_fits_someone/)
 - **发布时间**: 2026-07-25
@@ -18,9 +21,6 @@
 #### [Go back for another Internship? Advice wanted](https://www.reddit.com/r/civilengineering/comments/1v5h3kt/go_back_for_another_internship_advice_wanted/)
 - **发布时间**: 2026-07-24
 
-#### [My research results completely rejected/changed my hypothesis a week before my project ends. How would you handle this?](https://www.reddit.com/r/civilengineering/comments/1v4t2gd/my_research_results_completely_rejectedchanged_my/)
-- **发布时间**: 2026-07-23
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
@@ -30,12 +30,16 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content", waiting until "domcontentloaded"
+
 
 ### 知乎「土木工程 痛点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content", waiting until "domcontentloaded"
+
 
 
 # 🇨🇳 中国平台 - 小红书
@@ -46,6 +50,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
