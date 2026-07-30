@@ -1,24 +1,24 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-29 01:26:30 (UTC)
+> **生成时间**: 2026-07-30 01:19:34 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Infrastructure Advisory. What is it like?](https://www.reddit.com/r/civilengineering/comments/1vabnf8/infrastructure_advisory_what_is_it_like/)
+- **发布时间**: 2026-07-29
+
+#### [Organization outings- networking](https://www.reddit.com/r/civilengineering/comments/1va559c/organization_outings_networking/)
+- **发布时间**: 2026-07-29
+
+#### [Hate civil engineering.](https://www.reddit.com/r/civilengineering/comments/1va3wsw/hate_civil_engineering/)
+- **发布时间**: 2026-07-29
+
 #### [Work Life Balance](https://www.reddit.com/r/civilengineering/comments/1v8oe15/work_life_balance/)
 - **发布时间**: 2026-07-28
 
 #### [Construction management or structural engineering focus?](https://www.reddit.com/r/civilengineering/comments/1v8eqf7/construction_management_or_structural_engineering/)
-- **发布时间**: 2026-07-27
-
-#### [Advice on Interview outside of Civil Engineering](https://www.reddit.com/r/civilengineering/comments/1v8eoxw/advice_on_interview_outside_of_civil_engineering/)
-- **发布时间**: 2026-07-27
-
-#### [Advice on job offer](https://www.reddit.com/r/civilengineering/comments/1v8ditf/advice_on_job_offer/)
-- **发布时间**: 2026-07-27
-
-#### [Lift pump with control panel in external inground vault?](https://www.reddit.com/r/civilengineering/comments/1v8dael/lift_pump_with_control_panel_in_external_inground/)
 - **发布时间**: 2026-07-27
 
 ## 🏢 领域：建筑施工 (r/Construction)
