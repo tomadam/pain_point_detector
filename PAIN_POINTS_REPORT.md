@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-07-30 01:19:34 (UTC)
+> **生成时间**: 2026-07-31 01:46:16 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Confuse with life right now](https://www.reddit.com/r/civilengineering/comments/1vawjie/confuse_with_life_right_now/)
+- **发布时间**: 2026-07-30
 
 #### [Infrastructure Advisory. What is it like?](https://www.reddit.com/r/civilengineering/comments/1vabnf8/infrastructure_advisory_what_is_it_like/)
 - **发布时间**: 2026-07-29
@@ -17,9 +20,6 @@
 
 #### [Work Life Balance](https://www.reddit.com/r/civilengineering/comments/1v8oe15/work_life_balance/)
 - **发布时间**: 2026-07-28
-
-#### [Construction management or structural engineering focus?](https://www.reddit.com/r/civilengineering/comments/1v8eqf7/construction_management_or_structural_engineering/)
-- **发布时间**: 2026-07-27
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
