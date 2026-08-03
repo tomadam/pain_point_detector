@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-02 01:43:48 (UTC)
+> **生成时间**: 2026-08-03 01:46:24 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [I need to change jobs asap. Should I include this job I have been at for 4 months on my resume?](https://www.reddit.com/r/civilengineering/comments/1vcr0pw/i_need_to_change_jobs_asap_should_i_include_this/)
-- **发布时间**: 2026-08-01
+#### [Expressway Exit and Entrance Shift Opinion](https://www.reddit.com/r/civilengineering/comments/1vdzfhv/expressway_exit_and_entrance_shift_opinion/)
+- **发布时间**: 2026-08-03
 
-#### [Relocating to a smaller city to gain WW engineering experience](https://www.reddit.com/r/civilengineering/comments/1vbtf56/relocating_to_a_smaller_city_to_gain_ww/)
-- **发布时间**: 2026-07-31
+#### [How is it studying civil engineering in 2026?](https://www.reddit.com/r/civilengineering/comments/1vdwyl8/how_is_it_studying_civil_engineering_in_2026/)
+- **发布时间**: 2026-08-02
 
-#### [Unemployed as a fresh Civil Engineer in Pakistan. How are you guys surviving or pivoting?](https://www.reddit.com/r/civilengineering/comments/1vbof04/unemployed_as_a_fresh_civil_engineer_in_pakistan/)
-- **发布时间**: 2026-07-31
+#### [22m, uk degree apprenticeship in civil engineering](https://www.reddit.com/r/civilengineering/comments/1vduzv7/22m_uk_degree_apprenticeship_in_civil_engineering/)
+- **发布时间**: 2026-08-02
 
-#### [Healthy construction jobs?](https://www.reddit.com/r/civilengineering/comments/1vbhy8z/healthy_construction_jobs/)
-- **发布时间**: 2026-07-31
+#### [Balancing Ambitions vs. Just Living Life](https://www.reddit.com/r/civilengineering/comments/1vdn9b2/balancing_ambitions_vs_just_living_life/)
+- **发布时间**: 2026-08-02
 
-#### [Open Roads](https://www.reddit.com/r/civilengineering/comments/1vbdy6y/open_roads/)
-- **发布时间**: 2026-07-31
+#### [Question about the necessity of driving as part of Civil Engineering, and if it's possible to avoid it.](https://www.reddit.com/r/civilengineering/comments/1vdkv8y/question_about_the_necessity_of_driving_as_part/)
+- **发布时间**: 2026-08-02
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
