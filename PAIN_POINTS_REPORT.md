@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-03 01:46:24 (UTC)
+> **生成时间**: 2026-08-04 01:22:03 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Expressway Exit and Entrance Shift Opinion](https://www.reddit.com/r/civilengineering/comments/1vdzfhv/expressway_exit_and_entrance_shift_opinion/)
+#### [Should I apply for government position or stick with job I just started?](https://www.reddit.com/r/civilengineering/comments/1vevxgs/should_i_apply_for_government_position_or_stick/)
+- **发布时间**: 2026-08-04
+
+#### [Does anyone use the EJCDC documents, specifically the Contractor Pay Application excel file? Is there an error?](https://www.reddit.com/r/civilengineering/comments/1veuje8/does_anyone_use_the_ejcdc_documents_specifically/)
+- **发布时间**: 2026-08-04
+
+#### [how long do projects take to be approved?](https://www.reddit.com/r/civilengineering/comments/1veg0zc/how_long_do_projects_take_to_be_approved/)
 - **发布时间**: 2026-08-03
 
-#### [How is it studying civil engineering in 2026?](https://www.reddit.com/r/civilengineering/comments/1vdwyl8/how_is_it_studying_civil_engineering_in_2026/)
-- **发布时间**: 2026-08-02
+#### [GIS Certificate](https://www.reddit.com/r/civilengineering/comments/1veekkz/gis_certificate/)
+- **发布时间**: 2026-08-03
 
-#### [22m, uk degree apprenticeship in civil engineering](https://www.reddit.com/r/civilengineering/comments/1vduzv7/22m_uk_degree_apprenticeship_in_civil_engineering/)
-- **发布时间**: 2026-08-02
-
-#### [Balancing Ambitions vs. Just Living Life](https://www.reddit.com/r/civilengineering/comments/1vdn9b2/balancing_ambitions_vs_just_living_life/)
-- **发布时间**: 2026-08-02
-
-#### [Question about the necessity of driving as part of Civil Engineering, and if it's possible to avoid it.](https://www.reddit.com/r/civilengineering/comments/1vdkv8y/question_about_the_necessity_of_driving_as_part/)
-- **发布时间**: 2026-08-02
+#### [TYLin](https://www.reddit.com/r/civilengineering/comments/1ve032b/tylin/)
+- **发布时间**: 2026-08-03
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
