@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-04 01:22:03 (UTC)
+> **生成时间**: 2026-08-05 01:26:59 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Advice around college](https://www.reddit.com/r/civilengineering/comments/1vfrbiz/advice_around_college/)
+- **发布时间**: 2026-08-05
+
+#### [Questions about a local project, as a non-engineer](https://www.reddit.com/r/civilengineering/comments/1vfgjcx/questions_about_a_local_project_as_a_nonengineer/)
+- **发布时间**: 2026-08-04
 
 #### [Should I apply for government position or stick with job I just started?](https://www.reddit.com/r/civilengineering/comments/1vevxgs/should_i_apply_for_government_position_or_stick/)
 - **发布时间**: 2026-08-04
@@ -15,14 +21,23 @@
 #### [how long do projects take to be approved?](https://www.reddit.com/r/civilengineering/comments/1veg0zc/how_long_do_projects_take_to_be_approved/)
 - **发布时间**: 2026-08-03
 
-#### [GIS Certificate](https://www.reddit.com/r/civilengineering/comments/1veekkz/gis_certificate/)
-- **发布时间**: 2026-08-03
-
-#### [TYLin](https://www.reddit.com/r/civilengineering/comments/1ve032b/tylin/)
-- **发布时间**: 2026-08-03
-
 ## 🏢 领域：建筑施工 (r/Construction)
-### [!] r/Construction 获取失败或为空
+### 📍 r/Construction 动态
+
+#### [How did you land your first commercial/industrial HVAC or Controls job?](https://www.reddit.com/r/Construction/comments/1vfqzxg/how_did_you_land_your_first_commercialindustrial/)
+- **发布时间**: 2026-08-04
+
+#### [Need guidance](https://www.reddit.com/r/Construction/comments/1vedblx/need_guidance/)
+- **发布时间**: 2026-08-03
+
+#### [Looking for cladding advice](https://www.reddit.com/r/Construction/comments/1vecqtw/looking_for_cladding_advice/)
+- **发布时间**: 2026-08-03
+
+#### [How to win my first contract](https://www.reddit.com/r/Construction/comments/1vea79v/how_to_win_my_first_contract/)
+- **发布时间**: 2026-08-03
+
+#### [How to handle internship extension vs waiting on an offer from a larger GC?](https://www.reddit.com/r/Construction/comments/1vd242t/how_to_handle_internship_extension_vs_waiting_on/)
+- **发布时间**: 2026-08-01
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### [!] r/QuantitySurveying 获取失败或为空
@@ -40,10 +55,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
