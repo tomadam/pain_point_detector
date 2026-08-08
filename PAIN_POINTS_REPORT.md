@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-07 02:03:02 (UTC)
+> **生成时间**: 2026-08-08 00:46:43 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [I hate this industry and engineers](https://www.reddit.com/r/civilengineering/comments/1vhfbi4/i_hate_this_industry_and_engineers/)
-- **发布时间**: 2026-08-06
+#### [Is this ESOP plan too good to be true?](https://www.reddit.com/r/civilengineering/comments/1vig7pd/is_this_esop_plan_too_good_to_be_true/)
+- **发布时间**: 2026-08-07
 
-#### [I need some advice, idk if I try more or just quit](https://www.reddit.com/r/civilengineering/comments/1vhbcmh/i_need_some_advice_idk_if_i_try_more_or_just_quit/)
-- **发布时间**: 2026-08-06
+#### [Accepted first offer but got another offer soon after... possibly better but I dont know?](https://www.reddit.com/r/civilengineering/comments/1vifv5i/accepted_first_offer_but_got_another_offer_soon/)
+- **发布时间**: 2026-08-07
 
-#### [Should I leave my ₱33k private job for a ₱20k Job Order position in our City Engineering Office?](https://www.reddit.com/r/civilengineering/comments/1vg6nny/should_i_leave_my_33k_private_job_for_a_20k_job/)
-- **发布时间**: 2026-08-05
+#### [How to move on from first job after short stint](https://www.reddit.com/r/civilengineering/comments/1vi2hyz/how_to_move_on_from_first_job_after_short_stint/)
+- **发布时间**: 2026-08-07
 
-#### [Advice around college](https://www.reddit.com/r/civilengineering/comments/1vfrbiz/advice_around_college/)
-- **发布时间**: 2026-08-05
+#### [Land acess permission](https://www.reddit.com/r/civilengineering/comments/1vi1a7h/land_acess_permission/)
+- **发布时间**: 2026-08-07
 
-#### [Questions about a local project, as a non-engineer](https://www.reddit.com/r/civilengineering/comments/1vfgjcx/questions_about_a_local_project_as_a_nonengineer/)
-- **发布时间**: 2026-08-04
+#### [is civil engineering a good career if i’m sensitive to loud noises? (autism)](https://www.reddit.com/r/civilengineering/comments/1vhz5g4/is_civil_engineering_a_good_career_if_im/)
+- **发布时间**: 2026-08-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -44,8 +44,6 @@
 > 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
