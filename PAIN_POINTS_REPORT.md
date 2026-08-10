@@ -1,13 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-09 00:51:16 (UTC)
+> **生成时间**: 2026-08-10 00:52:51 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Is this ESOP plan too good to be true?](https://www.reddit.com/r/civilengineering/comments/1vig7pd/is_this_esop_plan_too_good_to_be_true/)
-- **发布时间**: 2026-08-07
+#### [Municipal Engineers - Are we just construction inspectors?](https://www.reddit.com/r/civilengineering/comments/1vk3n39/municipal_engineers_are_we_just_construction/)
+- **发布时间**: 2026-08-09
+
+#### [Planning Moving to NZ for Structural Engineering at UC – 2 YOE in Civil/Hydro, how to transition and learn NZ codes?](https://www.reddit.com/r/civilengineering/comments/1vjl0xc/planning_moving_to_nz_for_structural_engineering/)
+- **发布时间**: 2026-08-09
 
 #### [Accepted first offer but got another offer soon after... possibly better but I dont know?](https://www.reddit.com/r/civilengineering/comments/1vifv5i/accepted_first_offer_but_got_another_offer_soon/)
 - **发布时间**: 2026-08-07
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-08-07
 
 #### [Land acess permission](https://www.reddit.com/r/civilengineering/comments/1vi1a7h/land_acess_permission/)
-- **发布时间**: 2026-08-07
-
-#### [is civil engineering a good career if i’m sensitive to loud noises? (autism)](https://www.reddit.com/r/civilengineering/comments/1vhz5g4/is_civil_engineering_a_good_career_if_im/)
 - **发布时间**: 2026-08-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
