@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-15 00:35:23 (UTC)
+> **生成时间**: 2026-08-16 00:36:41 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Looking for advice on fully funded MS programs in Civil Engineering in the USA and what specialization I should focus on?](https://www.reddit.com/r/civilengineering/comments/1vp5wss/looking_for_advice_on_fully_funded_ms_programs_in/)
+- **发布时间**: 2026-08-15
+
+#### [Career path](https://www.reddit.com/r/civilengineering/comments/1vosi3a/career_path/)
+- **发布时间**: 2026-08-15
 
 #### [Getting into mining/tunnel engineering from civil](https://www.reddit.com/r/civilengineering/comments/1vnc678/getting_into_miningtunnel_engineering_from_civil/)
 - **发布时间**: 2026-08-13
@@ -14,12 +20,6 @@
 
 #### [Anyone have experience working for a developer rather than a consultant?](https://www.reddit.com/r/civilengineering/comments/1vmmhbo/anyone_have_experience_working_for_a_developer/)
 - **发布时间**: 2026-08-12
-
-#### [A question on social engineering through civil infrastructure](https://www.reddit.com/r/civilengineering/comments/1vladlt/a_question_on_social_engineering_through_civil/)
-- **发布时间**: 2026-08-11
-
-#### [A few questions. Post might be long.](https://www.reddit.com/r/civilengineering/comments/1vl5ywf/a_few_questions_post_might_be_long/)
-- **发布时间**: 2026-08-11
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,8 +46,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
