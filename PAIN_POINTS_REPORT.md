@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-20 00:35:05 (UTC)
+> **生成时间**: 2026-08-21 00:37:23 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Is there an academy that give NX Siemens courses for beginners? I wanna learn it.](https://www.reddit.com/r/civilengineering/comments/1vtu9i6/is_there_an_academy_that_give_nx_siemens_courses/)
+- **发布时间**: 2026-08-20
+
+#### [Did I get hired as a Design Manager — or as the guy who inherits the mess nobody wants?](https://www.reddit.com/r/civilengineering/comments/1vtqjx7/did_i_get_hired_as_a_design_manager_or_as_the_guy/)
+- **发布时间**: 2026-08-20
+
+#### [Surveying app on phone](https://www.reddit.com/r/civilengineering/comments/1vtg5qa/surveying_app_on_phone/)
+- **发布时间**: 2026-08-20
+
+#### [Should I stick with geostructural engineering for now and try to move into structural before graduation?](https://www.reddit.com/r/civilengineering/comments/1vta2st/should_i_stick_with_geostructural_engineering_for/)
+- **发布时间**: 2026-08-20
+
 #### [Looking to Connect with a Drainage/Land Development Engineer in Central Florida](https://www.reddit.com/r/civilengineering/comments/1vswtij/looking_to_connect_with_a_drainageland/)
 - **发布时间**: 2026-08-19
-
-#### [Early Career Decisions](https://www.reddit.com/r/civilengineering/comments/1vsdnqk/early_career_decisions/)
-- **发布时间**: 2026-08-19
-
-#### [Small or Medium Sized Town](https://www.reddit.com/r/civilengineering/comments/1vsb9jv/small_or_medium_sized_town/)
-- **发布时间**: 2026-08-19
-
-#### [Successfully Obtaining and Maintaining 2 Civil Engineering Jobs?](https://www.reddit.com/r/civilengineering/comments/1vsb7kc/successfully_obtaining_and_maintaining_2_civil/)
-- **发布时间**: 2026-08-19
-
-#### [Need advice how to prove eligibility for PE license in New York](https://www.reddit.com/r/civilengineering/comments/1vrds2n/need_advice_how_to_prove_eligibility_for_pe/)
-- **发布时间**: 2026-08-18
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,12 +40,12 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
-
-### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
 
+
+### 小红书「施工现场」
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
