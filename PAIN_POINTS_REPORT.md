@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-21 00:37:23 (UTC)
+> **生成时间**: 2026-08-22 00:34:39 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Is there an academy that give NX Siemens courses for beginners? I wanna learn it.](https://www.reddit.com/r/civilengineering/comments/1vtu9i6/is_there_an_academy_that_give_nx_siemens_courses/)
-- **发布时间**: 2026-08-20
+#### [9 years’ experience but most of it's from Mexico — not sure how I stack up or what to ask for](https://www.reddit.com/r/civilengineering/comments/1vuxij6/9_years_experience_but_most_of_its_from_mexico/)
+- **发布时间**: 2026-08-22
 
-#### [Did I get hired as a Design Manager — or as the guy who inherits the mess nobody wants?](https://www.reddit.com/r/civilengineering/comments/1vtqjx7/did_i_get_hired_as_a_design_manager_or_as_the_guy/)
-- **发布时间**: 2026-08-20
+#### [Geotechnical Soil Mechanics - trying to determine the stress/pressure on a plug/wall at the entrance to a tunnel at the bottom of a 120m open pit backfilled with alluvium. Pit will eventually fill up with water.](https://www.reddit.com/r/civilengineering/comments/1vuu9rb/geotechnical_soil_mechanics_trying_to_determine/)
+- **发布时间**: 2026-08-21
 
-#### [Surveying app on phone](https://www.reddit.com/r/civilengineering/comments/1vtg5qa/surveying_app_on_phone/)
-- **发布时间**: 2026-08-20
+#### [What Sealant Would You Use for This Outdoor Telemetry Enclosure?](https://www.reddit.com/r/civilengineering/comments/1vurbhg/what_sealant_would_you_use_for_this_outdoor/)
+- **发布时间**: 2026-08-21
 
-#### [Should I stick with geostructural engineering for now and try to move into structural before graduation?](https://www.reddit.com/r/civilengineering/comments/1vta2st/should_i_stick_with_geostructural_engineering_for/)
-- **发布时间**: 2026-08-20
+#### [Any structural engineers enjoy their job?](https://www.reddit.com/r/civilengineering/comments/1vuk88h/any_structural_engineers_enjoy_their_job/)
+- **发布时间**: 2026-08-21
 
-#### [Looking to Connect with a Drainage/Land Development Engineer in Central Florida](https://www.reddit.com/r/civilengineering/comments/1vswtij/looking_to_connect_with_a_drainageland/)
-- **发布时间**: 2026-08-19
+#### [Government hiring is not competitive and it’s creating a bad product](https://www.reddit.com/r/civilengineering/comments/1vujykf/government_hiring_is_not_competitive_and_its/)
+- **发布时间**: 2026-08-21
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
