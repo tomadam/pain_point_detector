@@ -1,13 +1,10 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-22 00:34:39 (UTC)
+> **生成时间**: 2026-08-23 00:38:03 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
-
-#### [9 years’ experience but most of it's from Mexico — not sure how I stack up or what to ask for](https://www.reddit.com/r/civilengineering/comments/1vuxij6/9_years_experience_but_most_of_its_from_mexico/)
-- **发布时间**: 2026-08-22
 
 #### [Geotechnical Soil Mechanics - trying to determine the stress/pressure on a plug/wall at the entrance to a tunnel at the bottom of a 120m open pit backfilled with alluvium. Pit will eventually fill up with water.](https://www.reddit.com/r/civilengineering/comments/1vuu9rb/geotechnical_soil_mechanics_trying_to_determine/)
 - **发布时间**: 2026-08-21
@@ -18,8 +15,11 @@
 #### [Any structural engineers enjoy their job?](https://www.reddit.com/r/civilengineering/comments/1vuk88h/any_structural_engineers_enjoy_their_job/)
 - **发布时间**: 2026-08-21
 
-#### [Government hiring is not competitive and it’s creating a bad product](https://www.reddit.com/r/civilengineering/comments/1vujykf/government_hiring_is_not_competitive_and_its/)
-- **发布时间**: 2026-08-21
+#### [Did I get hired as a Design Manager — or as the guy who inherits the mess nobody wants?](https://www.reddit.com/r/civilengineering/comments/1vtqjx7/did_i_get_hired_as_a_design_manager_or_as_the_guy/)
+- **发布时间**: 2026-08-20
+
+#### [Surveying app on phone](https://www.reddit.com/r/civilengineering/comments/1vtg5qa/surveying_app_on_phone/)
+- **发布时间**: 2026-08-20
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,14 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
