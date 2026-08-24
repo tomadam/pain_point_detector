@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-23 00:38:03 (UTC)
+> **生成时间**: 2026-08-24 00:36:52 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Large corp A/E firm](https://www.reddit.com/r/civilengineering/comments/1vwfg8c/large_corp_ae_firm/)
+- **发布时间**: 2026-08-23
+
+#### [im a student and wondering if civil engineering is worth it for me](https://www.reddit.com/r/civilengineering/comments/1vwf5ym/im_a_student_and_wondering_if_civil_engineering/)
+- **发布时间**: 2026-08-23
 
 #### [Geotechnical Soil Mechanics - trying to determine the stress/pressure on a plug/wall at the entrance to a tunnel at the bottom of a 120m open pit backfilled with alluvium. Pit will eventually fill up with water.](https://www.reddit.com/r/civilengineering/comments/1vuu9rb/geotechnical_soil_mechanics_trying_to_determine/)
 - **发布时间**: 2026-08-21
@@ -15,12 +21,6 @@
 #### [Any structural engineers enjoy their job?](https://www.reddit.com/r/civilengineering/comments/1vuk88h/any_structural_engineers_enjoy_their_job/)
 - **发布时间**: 2026-08-21
 
-#### [Did I get hired as a Design Manager — or as the guy who inherits the mess nobody wants?](https://www.reddit.com/r/civilengineering/comments/1vtqjx7/did_i_get_hired_as_a_design_manager_or_as_the_guy/)
-- **发布时间**: 2026-08-20
-
-#### [Surveying app on phone](https://www.reddit.com/r/civilengineering/comments/1vtg5qa/surveying_app_on_phone/)
-- **发布时间**: 2026-08-20
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
@@ -30,8 +30,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 
 ### 知乎「土木工程 痛点」
 > ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
