@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-08-28 07:43:30 (UTC)
+> **生成时间**: 2026-08-29 04:40:13 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Paper Drawing Sets](https://www.reddit.com/r/civilengineering/comments/1w18gze/paper_drawing_sets/)
+- **发布时间**: 2026-08-29
 
 #### [Great at geometry- suck at algebra](https://www.reddit.com/r/civilengineering/comments/1w0hq4o/great_at_geometry_suck_at_algebra/)
 - **发布时间**: 2026-08-28
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-08-27
 
 #### [How do you find a spec clause in an old project archive today? I built a tool on 6,000 pages of public TxDOT docs and want to know if it matches how you actually work.](https://www.reddit.com/r/civilengineering/comments/1w00qz7/how_do_you_find_a_spec_clause_in_an_old_project/)
-- **发布时间**: 2026-08-27
-
-#### [Should I be worried?](https://www.reddit.com/r/civilengineering/comments/1vzhgh1/should_i_be_worried/)
 - **发布时间**: 2026-08-27
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -40,10 +40,14 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
