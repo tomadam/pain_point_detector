@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-01 02:28:51 (UTC)
+> **生成时间**: 2026-09-02 01:50:07 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Advice for Part-Time Employment](https://www.reddit.com/r/civilengineering/comments/1w4kqhl/advice_for_parttime_employment/)
+- **发布时间**: 2026-09-01
+
+#### [Is a Geotechnical Engineering internship worth the effort?](https://www.reddit.com/r/civilengineering/comments/1w3x9pz/is_a_geotechnical_engineering_internship_worth/)
+- **发布时间**: 2026-09-01
 
 #### [Graduating in May 2027 with no co-op experience, what should I be doing right now?](https://www.reddit.com/r/civilengineering/comments/1w3u0hp/graduating_in_may_2027_with_no_coop_experience/)
 - **发布时间**: 2026-08-31
@@ -14,12 +20,6 @@
 
 #### [When to throw in the towel?](https://www.reddit.com/r/civilengineering/comments/1w361d1/when_to_throw_in_the_towel/)
 - **发布时间**: 2026-08-31
-
-#### [Anybody find out they’re not cut out for design or see other people hating it? I feel like it’s making me depressed](https://www.reddit.com/r/civilengineering/comments/1w276ka/anybody_find_out_theyre_not_cut_out_for_design_or/)
-- **发布时间**: 2026-08-30
-
-#### [How do I transition into the world of civil engineering?](https://www.reddit.com/r/civilengineering/comments/1w1ropo/how_do_i_transition_into_the_world_of_civil/)
-- **发布时间**: 2026-08-29
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
