@@ -1,28 +1,43 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-02 01:50:07 (UTC)
+> **生成时间**: 2026-09-03 01:55:57 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [How would you professionally push back on a coworker creating mandatory AI-based training for civil engineering/contract management?](https://www.reddit.com/r/civilengineering/comments/1w5rane/how_would_you_professionally_push_back_on_a/)
+- **发布时间**: 2026-09-02
+
+#### [Red Flag from job reference](https://www.reddit.com/r/civilengineering/comments/1w5h4zm/red_flag_from_job_reference/)
+- **发布时间**: 2026-09-02
+
+#### [Is it too soon to leave a new job?](https://www.reddit.com/r/civilengineering/comments/1w5fn1y/is_it_too_soon_to_leave_a_new_job/)
+- **发布时间**: 2026-09-02
+
+#### [Civil Student - Projects](https://www.reddit.com/r/civilengineering/comments/1w4z3tl/civil_student_projects/)
+- **发布时间**: 2026-09-02
+
 #### [Advice for Part-Time Employment](https://www.reddit.com/r/civilengineering/comments/1w4kqhl/advice_for_parttime_employment/)
 - **发布时间**: 2026-09-01
 
-#### [Is a Geotechnical Engineering internship worth the effort?](https://www.reddit.com/r/civilengineering/comments/1w3x9pz/is_a_geotechnical_engineering_internship_worth/)
-- **发布时间**: 2026-09-01
-
-#### [Graduating in May 2027 with no co-op experience, what should I be doing right now?](https://www.reddit.com/r/civilengineering/comments/1w3u0hp/graduating_in_may_2027_with_no_coop_experience/)
-- **发布时间**: 2026-08-31
-
-#### [Technician -> Engineer: Tips for now being an engineer and managing technicians](https://www.reddit.com/r/civilengineering/comments/1w3dqht/technician_engineer_tips_for_now_being_an/)
-- **发布时间**: 2026-08-31
-
-#### [When to throw in the towel?](https://www.reddit.com/r/civilengineering/comments/1w361d1/when_to_throw_in_the_towel/)
-- **发布时间**: 2026-08-31
-
 ## 🏢 领域：建筑施工 (r/Construction)
-### [!] r/Construction 获取失败或为空
+### 📍 r/Construction 动态
+
+#### [Is there a way to make natural hydraulic lime from regular industrial lime?](https://www.reddit.com/r/Construction/comments/1w5tqh6/is_there_a_way_to_make_natural_hydraulic_lime/)
+- **发布时间**: 2026-09-03
+
+#### [Contractors — how would you price this renovation?](https://www.reddit.com/r/Construction/comments/1w58mmu/contractors_how_would_you_price_this_renovation/)
+- **发布时间**: 2026-09-02
+
+#### [Needing some advice](https://www.reddit.com/r/Construction/comments/1w50496/needing_some_advice/)
+- **发布时间**: 2026-09-02
+
+#### [Negative Experiences with Laing O'Rourke](https://www.reddit.com/r/Construction/comments/1w23729/negative_experiences_with_laing_orourke/)
+- **发布时间**: 2026-08-30
+
+#### [🏗️ KSU Construction Certificates — Worth It or Waste of Money?](https://www.reddit.com/r/Construction/comments/1w1w713/ksu_construction_certificates_worth_it_or_waste/)
+- **发布时间**: 2026-08-29
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
 ### [!] r/QuantitySurveying 获取失败或为空
@@ -46,6 +61,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
