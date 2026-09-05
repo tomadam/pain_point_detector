@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-04 01:50:26 (UTC)
+> **生成时间**: 2026-09-05 01:51:22 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Annual raise](https://www.reddit.com/r/civilengineering/comments/1w7i353/annual_raise/)
+- **发布时间**: 2026-09-04
+
+#### [Where to learn deck/boardwalk design?](https://www.reddit.com/r/civilengineering/comments/1w75th7/where_to_learn_deckboardwalk_design/)
+- **发布时间**: 2026-09-04
 
 #### [How would you feel qorking with/ hiring somone who got their degree online?](https://www.reddit.com/r/civilengineering/comments/1w6qg5r/how_would_you_feel_qorking_with_hiring_somone_who/)
 - **发布时间**: 2026-09-04
@@ -14,12 +20,6 @@
 
 #### [Should I Stay or Move for Better Work-Life Balance?](https://www.reddit.com/r/civilengineering/comments/1w63k4v/should_i_stay_or_move_for_better_worklife_balance/)
 - **发布时间**: 2026-09-03
-
-#### [How would you professionally push back on a coworker creating mandatory AI-based training for civil engineering/contract management?](https://www.reddit.com/r/civilengineering/comments/1w5rane/how_would_you_professionally_push_back_on_a/)
-- **发布时间**: 2026-09-02
-
-#### [Red Flag from job reference](https://www.reddit.com/r/civilengineering/comments/1w5h4zm/red_flag_from_job_reference/)
-- **发布时间**: 2026-09-02
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,8 +46,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
