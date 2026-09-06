@@ -1,10 +1,19 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-05 01:51:22 (UTC)
+> **生成时间**: 2026-09-06 01:45:55 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Leaving Public for Private Growth](https://www.reddit.com/r/civilengineering/comments/1w8dq2y/leaving_public_for_private_growth/)
+- **发布时间**: 2026-09-05
+
+#### [Two Jobs Outcome](https://www.reddit.com/r/civilengineering/comments/1w8ca0d/two_jobs_outcome/)
+- **发布时间**: 2026-09-05
+
+#### [Can you get into urban design from a civil engineering degree?](https://www.reddit.com/r/civilengineering/comments/1w82wcn/can_you_get_into_urban_design_from_a_civil/)
+- **发布时间**: 2026-09-05
 
 #### [Annual raise](https://www.reddit.com/r/civilengineering/comments/1w7i353/annual_raise/)
 - **发布时间**: 2026-09-04
@@ -12,20 +21,20 @@
 #### [Where to learn deck/boardwalk design?](https://www.reddit.com/r/civilengineering/comments/1w75th7/where_to_learn_deckboardwalk_design/)
 - **发布时间**: 2026-09-04
 
-#### [How would you feel qorking with/ hiring somone who got their degree online?](https://www.reddit.com/r/civilengineering/comments/1w6qg5r/how_would_you_feel_qorking_with_hiring_somone_who/)
-- **发布时间**: 2026-09-04
-
-#### [I'm doing civil engineering 5th sem ( diploma)](https://www.reddit.com/r/civilengineering/comments/1w6bfkz/im_doing_civil_engineering_5th_sem_diploma/)
-- **发布时间**: 2026-09-03
-
-#### [Should I Stay or Move for Better Work-Life Balance?](https://www.reddit.com/r/civilengineering/comments/1w63k4v/should_i_stay_or_move_for_better_worklife_balance/)
-- **发布时间**: 2026-09-03
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### [!] r/QuantitySurveying 获取失败或为空
+### 📍 r/QuantitySurveying 动态
+
+#### [Career changing into QS and looking to connect with people in the industry](https://www.reddit.com/r/quantitysurveying/comments/1w7wv4n/career_changing_into_qs_and_looking_to_connect/)
+- **发布时间**: 2026-09-05
+
+#### [Quote notes and exclusions](https://www.reddit.com/r/quantitysurveying/comments/1w6z3ie/quote_notes_and_exclusions/)
+- **发布时间**: 2026-09-04
+
+#### [Assistant QS interview](https://www.reddit.com/r/quantitysurveying/comments/1w4gby3/assistant_qs_interview/)
+- **发布时间**: 2026-09-01
 
 
 # 🇨🇳 中国平台 - 知乎
