@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-07 01:43:01 (UTC)
+> **生成时间**: 2026-09-08 01:54:31 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Will civil engineering die?](https://www.reddit.com/r/civilengineering/comments/1w9yy07/will_civil_engineering_die/)
+- **发布时间**: 2026-09-07
+
+#### [Guwahati floods every monsoon. If you were actually responsible for fixing it, what would you do?](https://www.reddit.com/r/civilengineering/comments/1w9sun2/guwahati_floods_every_monsoon_if_you_were/)
+- **发布时间**: 2026-09-07
+
+#### [As a 3rd year Civil engineering student with low marks, what can I do to make my resume look better?](https://www.reddit.com/r/civilengineering/comments/1w9rjse/as_a_3rd_year_civil_engineering_student_with_low/)
+- **发布时间**: 2026-09-07
+
+#### [Considering moving from Texas to East Tennessee—how do you know when the risk is worth it?](https://www.reddit.com/r/civilengineering/comments/1w9gh3j/considering_moving_from_texas_to_east/)
+- **发布时间**: 2026-09-07
+
 #### [Anyone familiar with C2PA Or Content Credentials?](https://www.reddit.com/r/civilengineering/comments/1w9cy4i/anyone_familiar_with_c2pa_or_content_credentials/)
 - **发布时间**: 2026-09-07
-
-#### [Do Companies care what FE exam you take?](https://www.reddit.com/r/civilengineering/comments/1w9cnbs/do_companies_care_what_fe_exam_you_take/)
-- **发布时间**: 2026-09-07
-
-#### [Ridiculous embellishment on resumes](https://www.reddit.com/r/civilengineering/comments/1w8u25z/ridiculous_embellishment_on_resumes/)
-- **发布时间**: 2026-09-06
-
-#### [Leaving Public for Private Growth](https://www.reddit.com/r/civilengineering/comments/1w8dq2y/leaving_public_for_private_growth/)
-- **发布时间**: 2026-09-05
-
-#### [Two Jobs Outcome](https://www.reddit.com/r/civilengineering/comments/1w8ca0d/two_jobs_outcome/)
-- **发布时间**: 2026-09-05
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
