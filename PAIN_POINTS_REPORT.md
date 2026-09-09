@@ -1,24 +1,24 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-08 01:54:31 (UTC)
+> **生成时间**: 2026-09-09 01:59:53 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Tell me about your position(s)](https://www.reddit.com/r/civilengineering/comments/1wb4rax/tell_me_about_your_positions/)
+- **发布时间**: 2026-09-08
+
+#### [Seeking Career Advice: Transitioning from Civil Engineering to AI, BIM, and Structural Analysis](https://www.reddit.com/r/civilengineering/comments/1wb2rie/seeking_career_advice_transitioning_from_civil/)
+- **发布时间**: 2026-09-08
+
+#### [Just finished my Civil Engineering degree and completely lost about what career path to take — looking for advice](https://www.reddit.com/r/civilengineering/comments/1wb24pf/just_finished_my_civil_engineering_degree_and/)
+- **发布时间**: 2026-09-08
+
+#### [Thoughts on Brown and Caldwell?](https://www.reddit.com/r/civilengineering/comments/1wawtfk/thoughts_on_brown_and_caldwell/)
+- **发布时间**: 2026-09-08
+
 #### [Will civil engineering die?](https://www.reddit.com/r/civilengineering/comments/1w9yy07/will_civil_engineering_die/)
-- **发布时间**: 2026-09-07
-
-#### [Guwahati floods every monsoon. If you were actually responsible for fixing it, what would you do?](https://www.reddit.com/r/civilengineering/comments/1w9sun2/guwahati_floods_every_monsoon_if_you_were/)
-- **发布时间**: 2026-09-07
-
-#### [As a 3rd year Civil engineering student with low marks, what can I do to make my resume look better?](https://www.reddit.com/r/civilengineering/comments/1w9rjse/as_a_3rd_year_civil_engineering_student_with_low/)
-- **发布时间**: 2026-09-07
-
-#### [Considering moving from Texas to East Tennessee—how do you know when the risk is worth it?](https://www.reddit.com/r/civilengineering/comments/1w9gh3j/considering_moving_from_texas_to_east/)
-- **发布时间**: 2026-09-07
-
-#### [Anyone familiar with C2PA Or Content Credentials?](https://www.reddit.com/r/civilengineering/comments/1w9cy4i/anyone_familiar_with_c2pa_or_content_credentials/)
 - **发布时间**: 2026-09-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
