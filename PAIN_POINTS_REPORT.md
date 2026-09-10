@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-09 01:59:53 (UTC)
+> **生成时间**: 2026-09-10 01:56:25 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Foreign Civil Engineering Degree + 5 Years Experience in the US — How Do I Restart My Career?](https://www.reddit.com/r/civilengineering/comments/1wbmx8t/foreign_civil_engineering_degree_5_years/)
+- **发布时间**: 2026-09-09
+
+#### [Need some advice on a government job background check](https://www.reddit.com/r/civilengineering/comments/1wbkx8r/need_some_advice_on_a_government_job_background/)
+- **发布时间**: 2026-09-09
+
+#### [Offer from Michael baker intl.](https://www.reddit.com/r/civilengineering/comments/1wb9lzi/offer_from_michael_baker_intl/)
+- **发布时间**: 2026-09-09
+
+#### [What Intern Hourly Pay Should I Ask For?](https://www.reddit.com/r/civilengineering/comments/1wb6lfb/what_intern_hourly_pay_should_i_ask_for/)
+- **发布时间**: 2026-09-09
+
 #### [Tell me about your position(s)](https://www.reddit.com/r/civilengineering/comments/1wb4rax/tell_me_about_your_positions/)
 - **发布时间**: 2026-09-08
-
-#### [Seeking Career Advice: Transitioning from Civil Engineering to AI, BIM, and Structural Analysis](https://www.reddit.com/r/civilengineering/comments/1wb2rie/seeking_career_advice_transitioning_from_civil/)
-- **发布时间**: 2026-09-08
-
-#### [Just finished my Civil Engineering degree and completely lost about what career path to take — looking for advice](https://www.reddit.com/r/civilengineering/comments/1wb24pf/just_finished_my_civil_engineering_degree_and/)
-- **发布时间**: 2026-09-08
-
-#### [Thoughts on Brown and Caldwell?](https://www.reddit.com/r/civilengineering/comments/1wawtfk/thoughts_on_brown_and_caldwell/)
-- **发布时间**: 2026-09-08
-
-#### [Will civil engineering die?](https://www.reddit.com/r/civilengineering/comments/1w9yy07/will_civil_engineering_die/)
-- **发布时间**: 2026-09-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
