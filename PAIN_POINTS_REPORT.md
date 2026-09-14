@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-13 01:53:50 (UTC)
+> **生成时间**: 2026-09-14 02:11:38 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [What am i missing about consulting?](https://www.reddit.com/r/civilengineering/comments/1wfq249/what_am_i_missing_about_consulting/)
+- **发布时间**: 2026-09-14
+
+#### [General Civil vs Geotech?](https://www.reddit.com/r/civilengineering/comments/1wf6o7l/general_civil_vs_geotech/)
+- **发布时间**: 2026-09-13
 
 #### [I'm a transportation engineer but I'm building a stone retaining wall help me understand some of the math behind it for fun you structural/ geotechs](https://www.reddit.com/r/civilengineering/comments/1wetuhs/im_a_transportation_engineer_but_im_building_a/)
 - **发布时间**: 2026-09-13
@@ -14,12 +20,6 @@
 
 #### [Joining US engineering workforce from a non-regulated country?](https://www.reddit.com/r/civilengineering/comments/1weo487/joining_us_engineering_workforce_from_a/)
 - **发布时间**: 2026-09-12
-
-#### [How do you actually know your SHM sensor setup will detect the damage you care about before you install it?](https://www.reddit.com/r/civilengineering/comments/1we977a/how_do_you_actually_know_your_shm_sensor_setup/)
-- **发布时间**: 2026-09-12
-
-#### [Worried about choosing civil engineering, is there any way to change domains in the future?](https://www.reddit.com/r/civilengineering/comments/1wdv528/worried_about_choosing_civil_engineering_is_there/)
-- **发布时间**: 2026-09-11
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
