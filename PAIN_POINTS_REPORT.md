@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-18 02:01:12 (UTC)
+> **生成时间**: 2026-09-19 02:05:44 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Career pivot to the business side](https://www.reddit.com/r/civilengineering/comments/1wjvyfv/career_pivot_to_the_business_side/)
+- **发布时间**: 2026-09-18
+
+#### [Project Engineer struggling with difficult EIT- vent/advice needed](https://www.reddit.com/r/civilengineering/comments/1wjpypw/project_engineer_struggling_with_difficult_eit/)
+- **发布时间**: 2026-09-18
 
 #### [Received our first set of AI plans](https://www.reddit.com/r/civilengineering/comments/1wjcyes/received_our_first_set_of_ai_plans/)
 - **发布时间**: 2026-09-18
@@ -14,12 +20,6 @@
 
 #### [Fresh grad: Should I stay in consulting or move to contractor side for experience?](https://www.reddit.com/r/civilengineering/comments/1wij0h7/fresh_grad_should_i_stay_in_consulting_or_move_to/)
 - **发布时间**: 2026-09-17
-
-#### [How to make a full time position temporary/internship?](https://www.reddit.com/r/civilengineering/comments/1wic9yx/how_to_make_a_full_time_position/)
-- **发布时间**: 2026-09-16
-
-#### [Is it common now to see aerospace engineers applying to jobs that are typical for civil engineering jobs?](https://www.reddit.com/r/civilengineering/comments/1wiba14/is_it_common_now_to_see_aerospace_engineers/)
-- **发布时间**: 2026-09-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
