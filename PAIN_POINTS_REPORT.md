@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-19 02:05:44 (UTC)
+> **生成时间**: 2026-09-20 02:11:18 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [ai adoption in civil engineering company](https://www.reddit.com/r/civilengineering/comments/1wkwmuw/ai_adoption_in_civil_engineering_company/)
+- **发布时间**: 2026-09-19
+
+#### [Question for Solo / small-firm Land Development & Civil PEs: can I start a side hustle where I do preliminary research & due diligence packets for you?](https://www.reddit.com/r/civilengineering/comments/1wkmcfp/question_for_solo_smallfirm_land_development/)
+- **发布时间**: 2026-09-19
+
+#### [Is land development a good place to start out as a civil engineer?](https://www.reddit.com/r/civilengineering/comments/1wkaswb/is_land_development_a_good_place_to_start_out_as/)
+- **发布时间**: 2026-09-19
 
 #### [Career pivot to the business side](https://www.reddit.com/r/civilengineering/comments/1wjvyfv/career_pivot_to_the_business_side/)
 - **发布时间**: 2026-09-18
 
 #### [Project Engineer struggling with difficult EIT- vent/advice needed](https://www.reddit.com/r/civilengineering/comments/1wjpypw/project_engineer_struggling_with_difficult_eit/)
 - **发布时间**: 2026-09-18
-
-#### [Received our first set of AI plans](https://www.reddit.com/r/civilengineering/comments/1wjcyes/received_our_first_set_of_ai_plans/)
-- **发布时间**: 2026-09-18
-
-#### [Looking for Advice](https://www.reddit.com/r/civilengineering/comments/1wivr12/looking_for_advice/)
-- **发布时间**: 2026-09-17
-
-#### [Fresh grad: Should I stay in consulting or move to contractor side for experience?](https://www.reddit.com/r/civilengineering/comments/1wij0h7/fresh_grad_should_i_stay_in_consulting_or_move_to/)
-- **发布时间**: 2026-09-17
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,12 +40,12 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
-
-### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
 
+
+### 小红书「施工现场」
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
