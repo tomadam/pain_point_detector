@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-20 02:11:18 (UTC)
+> **生成时间**: 2026-09-21 02:11:16 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Job Dilemma as Fresh Engineering Graduate](https://www.reddit.com/r/civilengineering/comments/1wlniy2/job_dilemma_as_fresh_engineering_graduate/)
+- **发布时间**: 2026-09-20
 
 #### [ai adoption in civil engineering company](https://www.reddit.com/r/civilengineering/comments/1wkwmuw/ai_adoption_in_civil_engineering_company/)
 - **发布时间**: 2026-09-19
@@ -18,9 +21,6 @@
 #### [Career pivot to the business side](https://www.reddit.com/r/civilengineering/comments/1wjvyfv/career_pivot_to_the_business_side/)
 - **发布时间**: 2026-09-18
 
-#### [Project Engineer struggling with difficult EIT- vent/advice needed](https://www.reddit.com/r/civilengineering/comments/1wjpypw/project_engineer_struggling_with_difficult_eit/)
-- **发布时间**: 2026-09-18
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
@@ -30,8 +30,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 
 ### 知乎「土木工程 痛点」
 > ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
