@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-22 02:16:17 (UTC)
+> **生成时间**: 2026-09-23 02:16:26 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Dealing with aggressive, screaming managers. Is the grass greener somewhere else or is it like this everywhere?](https://www.reddit.com/r/civilengineering/comments/1wnlwrx/dealing_with_aggressive_screaming_managers_is_the/)
+- **发布时间**: 2026-09-22
+
+#### [Junior civil engineering student deciding between a Kimley-Horn offer now vs. waiting for NYSDOT — how would you approach this?](https://www.reddit.com/r/civilengineering/comments/1wnhn4m/junior_civil_engineering_student_deciding_between/)
+- **发布时间**: 2026-09-22
+
+#### [Civil engineering environmental focus](https://www.reddit.com/r/civilengineering/comments/1wmxmd0/civil_engineering_environmental_focus/)
+- **发布时间**: 2026-09-22
 
 #### [Struggling landing an interview and finding jobs](https://www.reddit.com/r/civilengineering/comments/1wmebj0/struggling_landing_an_interview_and_finding_jobs/)
 - **发布时间**: 2026-09-21
 
 #### [Career advice](https://www.reddit.com/r/civilengineering/comments/1wm9dh7/career_advice/)
 - **发布时间**: 2026-09-21
-
-#### [WSP- P2 to P3](https://www.reddit.com/r/civilengineering/comments/1wm6oar/wsp_p2_to_p3/)
-- **发布时间**: 2026-09-21
-
-#### [Job Dilemma as Fresh Engineering Graduate](https://www.reddit.com/r/civilengineering/comments/1wlniy2/job_dilemma_as_fresh_engineering_graduate/)
-- **发布时间**: 2026-09-20
-
-#### [ai adoption in civil engineering company](https://www.reddit.com/r/civilengineering/comments/1wkwmuw/ai_adoption_in_civil_engineering_company/)
-- **发布时间**: 2026-09-19
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
