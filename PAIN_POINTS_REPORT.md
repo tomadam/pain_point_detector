@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-23 02:16:26 (UTC)
+> **生成时间**: 2026-09-24 02:03:15 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Dealing with aggressive, screaming managers. Is the grass greener somewhere else or is it like this everywhere?](https://www.reddit.com/r/civilengineering/comments/1wnlwrx/dealing_with_aggressive_screaming_managers_is_the/)
-- **发布时间**: 2026-09-22
+#### [What Masters to work in Water Resources?](https://www.reddit.com/r/civilengineering/comments/1woogg5/what_masters_to_work_in_water_resources/)
+- **发布时间**: 2026-09-24
 
-#### [Junior civil engineering student deciding between a Kimley-Horn offer now vs. waiting for NYSDOT — how would you approach this?](https://www.reddit.com/r/civilengineering/comments/1wnhn4m/junior_civil_engineering_student_deciding_between/)
-- **发布时间**: 2026-09-22
+#### [Had my first drug test.](https://www.reddit.com/r/civilengineering/comments/1woo6xs/had_my_first_drug_test/)
+- **发布时间**: 2026-09-24
 
-#### [Civil engineering environmental focus](https://www.reddit.com/r/civilengineering/comments/1wmxmd0/civil_engineering_environmental_focus/)
-- **发布时间**: 2026-09-22
+#### [transportation engineering](https://www.reddit.com/r/civilengineering/comments/1woo3fi/transportation_engineering/)
+- **发布时间**: 2026-09-24
 
-#### [Struggling landing an interview and finding jobs](https://www.reddit.com/r/civilengineering/comments/1wmebj0/struggling_landing_an_interview_and_finding_jobs/)
-- **发布时间**: 2026-09-21
+#### [Has anyone switched sectors and gone to an entry level job after obtaining PE license?](https://www.reddit.com/r/civilengineering/comments/1womchq/has_anyone_switched_sectors_and_gone_to_an_entry/)
+- **发布时间**: 2026-09-23
 
-#### [Career advice](https://www.reddit.com/r/civilengineering/comments/1wm9dh7/career_advice/)
-- **发布时间**: 2026-09-21
+#### [I now have 2 jobs, weird situation! Any ethical concerns?](https://www.reddit.com/r/civilengineering/comments/1wom9zv/i_now_have_2_jobs_weird_situation_any_ethical/)
+- **发布时间**: 2026-09-23
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -30,8 +30,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 
 ### 知乎「土木工程 痛点」
 > ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
