@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-25 02:20:24 (UTC)
+> **生成时间**: 2026-09-26 02:25:34 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Asphalt overlays: does tack coat binder grade need to match the binder grade of the overlay asphalt mix?](https://www.reddit.com/r/civilengineering/comments/1wp5jbn/asphalt_overlays_does_tack_coat_binder_grade_need/)
-- **发布时间**: 2026-09-24
+#### [Masters in Civil Engineering with different bachelors](https://www.reddit.com/r/civilengineering/comments/1wqdh0x/masters_in_civil_engineering_with_different/)
+- **发布时间**: 2026-09-26
 
-#### [Best way to reshape a 300 LF roadside swale for safe mowing without extensive retaining walls?](https://www.reddit.com/r/civilengineering/comments/1wp509e/best_way_to_reshape_a_300_lf_roadside_swale_for/)
-- **发布时间**: 2026-09-24
+#### [Moving out of FL](https://www.reddit.com/r/civilengineering/comments/1wqd086/moving_out_of_fl/)
+- **发布时间**: 2026-09-26
 
-#### [Health issues getting worse from work](https://www.reddit.com/r/civilengineering/comments/1wosrg3/health_issues_getting_worse_from_work/)
-- **发布时间**: 2026-09-24
+#### [How do I determine a design water stage elevation](https://www.reddit.com/r/civilengineering/comments/1wq9j4i/how_do_i_determine_a_design_water_stage_elevation/)
+- **发布时间**: 2026-09-25
 
-#### [What Masters to work in Water Resources?](https://www.reddit.com/r/civilengineering/comments/1woogg5/what_masters_to_work_in_water_resources/)
-- **发布时间**: 2026-09-24
+#### [Advice for internship](https://www.reddit.com/r/civilengineering/comments/1wq7pi4/advice_for_internship/)
+- **发布时间**: 2026-09-25
 
-#### [Had my first drug test.](https://www.reddit.com/r/civilengineering/comments/1woo6xs/had_my_first_drug_test/)
-- **发布时间**: 2026-09-24
+#### [Graduate in Switzerland asking for help](https://www.reddit.com/r/civilengineering/comments/1wpph8h/graduate_in_switzerland_asking_for_help/)
+- **发布时间**: 2026-09-25
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
