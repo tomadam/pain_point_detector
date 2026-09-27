@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-26 02:25:34 (UTC)
+> **生成时间**: 2026-09-27 02:21:15 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Internship Interview at Psomas (Santa Ana, California)](https://www.reddit.com/r/civilengineering/comments/1wql2wf/internship_interview_at_psomas_santa_ana/)
+- **发布时间**: 2026-09-26
 
 #### [Masters in Civil Engineering with different bachelors](https://www.reddit.com/r/civilengineering/comments/1wqdh0x/masters_in_civil_engineering_with_different/)
 - **发布时间**: 2026-09-26
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-09-25
 
 #### [Advice for internship](https://www.reddit.com/r/civilengineering/comments/1wq7pi4/advice_for_internship/)
-- **发布时间**: 2026-09-25
-
-#### [Graduate in Switzerland asking for help](https://www.reddit.com/r/civilengineering/comments/1wpph8h/graduate_in_switzerland_asking_for_help/)
 - **发布时间**: 2026-09-25
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
