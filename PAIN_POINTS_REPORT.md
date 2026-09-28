@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-27 02:21:15 (UTC)
+> **生成时间**: 2026-09-28 02:25:02 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Floodplain Development "No Rise" Math](https://www.reddit.com/r/civilengineering/comments/1wrxqk2/floodplain_development_no_rise_math/)
+- **发布时间**: 2026-09-27
+
+#### [Trying to move toward software/automation... am I going in the right direction?](https://www.reddit.com/r/civilengineering/comments/1wr9q49/trying_to_move_toward_softwareautomation_am_i/)
+- **发布时间**: 2026-09-27
 
 #### [Internship Interview at Psomas (Santa Ana, California)](https://www.reddit.com/r/civilengineering/comments/1wql2wf/internship_interview_at_psomas_santa_ana/)
 - **发布时间**: 2026-09-26
@@ -14,12 +20,6 @@
 
 #### [Moving out of FL](https://www.reddit.com/r/civilengineering/comments/1wqd086/moving_out_of_fl/)
 - **发布时间**: 2026-09-26
-
-#### [How do I determine a design water stage elevation](https://www.reddit.com/r/civilengineering/comments/1wq9j4i/how_do_i_determine_a_design_water_stage_elevation/)
-- **发布时间**: 2026-09-25
-
-#### [Advice for internship](https://www.reddit.com/r/civilengineering/comments/1wq7pi4/advice_for_internship/)
-- **发布时间**: 2026-09-25
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
