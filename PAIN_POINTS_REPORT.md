@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-09-29 03:08:40 (UTC)
+> **生成时间**: 2026-09-30 02:50:56 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Was offered an internship in Geotechnical engineering and looking some advice](https://www.reddit.com/r/civilengineering/comments/1wtcfma/was_offered_an_internship_in_geotechnical/)
+- **发布时间**: 2026-09-29
+
+#### [Early-career EIT: how do you manage up when your PM is overloaded and expectations are unclear?](https://www.reddit.com/r/civilengineering/comments/1wt0q3e/earlycareer_eit_how_do_you_manage_up_when_your_pm/)
+- **发布时间**: 2026-09-29
 
 #### [Choosing between two civil engineering internship offers + two more interviews this week](https://www.reddit.com/r/civilengineering/comments/1wsu6z3/choosing_between_two_civil_engineering_internship/)
 - **发布时间**: 2026-09-28
@@ -15,17 +21,23 @@
 #### [Experience level advice](https://www.reddit.com/r/civilengineering/comments/1wsgzpk/experience_level_advice/)
 - **发布时间**: 2026-09-28
 
-#### [Floodplain Development "No Rise" Math](https://www.reddit.com/r/civilengineering/comments/1wrxqk2/floodplain_development_no_rise_math/)
-- **发布时间**: 2026-09-27
-
-#### [Trying to move toward software/automation... am I going in the right direction?](https://www.reddit.com/r/civilengineering/comments/1wr9q49/trying_to_move_toward_softwareautomation_am_i/)
-- **发布时间**: 2026-09-27
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
 ## 🏢 领域：工程造价/估算 (r/QuantitySurveying)
-### [!] r/QuantitySurveying 获取失败或为空
+### 📍 r/QuantitySurveying 动态
+
+#### [30 M 6 years self employed carpenter UK. Looking into QS](https://www.reddit.com/r/quantitysurveying/comments/1wrhgy8/30_m_6_years_self_employed_carpenter_uk_looking/)
+- **发布时间**: 2026-09-27
+
+#### [26M, 2 years in MEP Estimation/QS , what should I study next?](https://www.reddit.com/r/quantitysurveying/comments/1wql39z/26m_2_years_in_mep_estimationqs_what_should_i/)
+- **发布时间**: 2026-09-26
+
+#### [Graduate opportunities in Australia moving from scotland](https://www.reddit.com/r/quantitysurveying/comments/1wpdxx9/graduate_opportunities_in_australia_moving_from/)
+- **发布时间**: 2026-09-24
+
+#### [I have two options - QS or Estimator?](https://www.reddit.com/r/quantitysurveying/comments/1wo1h22/i_have_two_options_qs_or_estimator/)
+- **发布时间**: 2026-09-23
 
 
 # 🇨🇳 中国平台 - 知乎
