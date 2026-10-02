@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-01 02:56:54 (UTC)
+> **生成时间**: 2026-10-02 02:59:20 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Should I go back to school for CE](https://www.reddit.com/r/civilengineering/comments/1wve3wm/should_i_go_back_to_school_for_ce/)
+- **发布时间**: 2026-10-01
 
 #### [Is it possible to work as an Architectural Draftsman with an Associates of Applied Science in Civil Engineering Technology?](https://www.reddit.com/r/civilengineering/comments/1wukx5m/is_it_possible_to_work_as_an_architectural/)
 - **发布时间**: 2026-10-01
@@ -17,9 +20,6 @@
 
 #### [Idk if civil is for me? (need advice)](https://www.reddit.com/r/civilengineering/comments/1wtuj2v/idk_if_civil_is_for_me_need_advice/)
 - **发布时间**: 2026-09-30
-
-#### [Was offered an internship in Geotechnical engineering and looking some advice](https://www.reddit.com/r/civilengineering/comments/1wtcfma/was_offered_an_internship_in_geotechnical/)
-- **发布时间**: 2026-09-29
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
