@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-06 03:42:20 (UTC)
+> **生成时间**: 2026-10-07 03:09:34 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Is it worth taking a new job?](https://www.reddit.com/r/civilengineering/comments/1wzkba9/is_it_worth_taking_a_new_job/)
+- **发布时间**: 2026-10-07
+
+#### [Working at Olsson](https://www.reddit.com/r/civilengineering/comments/1wzcngg/working_at_olsson/)
+- **发布时间**: 2026-10-06
 
 #### [I really don’t like working in construction, how to salvage my career at this point?](https://www.reddit.com/r/civilengineering/comments/1wxonhn/i_really_dont_like_working_in_construction_how_to/)
 - **发布时间**: 2026-10-04
@@ -14,12 +20,6 @@
 
 #### [Seeking advice: switching from Civil Highways to Structural Engineering career (8 years experience)](https://www.reddit.com/r/civilengineering/comments/1wxi6ia/seeking_advice_switching_from_civil_highways_to/)
 - **发布时间**: 2026-10-04
-
-#### [Decisions decisions](https://www.reddit.com/r/civilengineering/comments/1wxghrf/decisions_decisions/)
-- **发布时间**: 2026-10-04
-
-#### [Confused About My Career Path After 2.5 Years in BIM, Need Advice.](https://www.reddit.com/r/civilengineering/comments/1wvsc3l/confused_about_my_career_path_after_25_years_in/)
-- **发布时间**: 2026-10-02
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
