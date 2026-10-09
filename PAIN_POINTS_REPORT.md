@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-08 03:25:17 (UTC)
+> **生成时间**: 2026-10-09 03:30:51 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [How different is the work between land development and transportation?](https://www.reddit.com/r/civilengineering/comments/1x19ahz/how_different_is_the_work_between_land/)
+- **发布时间**: 2026-10-09
+
+#### [Question](https://www.reddit.com/r/civilengineering/comments/1x0ovqs/question/)
+- **发布时间**: 2026-10-08
+
+#### [Junior year & career path](https://www.reddit.com/r/civilengineering/comments/1x0j02o/junior_year_career_path/)
+- **发布时间**: 2026-10-08
 
 #### [Got a gig working with a PE in civil engineering but need advice](https://www.reddit.com/r/civilengineering/comments/1x023xd/got_a_gig_working_with_a_pe_in_civil_engineering/)
 - **发布时间**: 2026-10-07
 
 #### [New job opportunity… nervous to take it](https://www.reddit.com/r/civilengineering/comments/1wzvhl6/new_job_opportunity_nervous_to_take_it/)
 - **发布时间**: 2026-10-07
-
-#### [Is it worth taking a new job?](https://www.reddit.com/r/civilengineering/comments/1wzkba9/is_it_worth_taking_a_new_job/)
-- **发布时间**: 2026-10-07
-
-#### [Working at Olsson](https://www.reddit.com/r/civilengineering/comments/1wzcngg/working_at_olsson/)
-- **发布时间**: 2026-10-06
-
-#### [I really don’t like working in construction, how to salvage my career at this point?](https://www.reddit.com/r/civilengineering/comments/1wxonhn/i_really_dont_like_working_in_construction_how_to/)
-- **发布时间**: 2026-10-04
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,14 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
