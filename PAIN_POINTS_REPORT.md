@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-09 03:30:51 (UTC)
+> **生成时间**: 2026-10-10 03:11:03 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Considering ways to switch career. Time of specialising, while people have no general knowledge.](https://www.reddit.com/r/civilengineering/comments/1x1qfhx/considering_ways_to_switch_career_time_of/)
+- **发布时间**: 2026-10-09
 
 #### [How different is the work between land development and transportation?](https://www.reddit.com/r/civilengineering/comments/1x19ahz/how_different_is_the_work_between_land/)
 - **发布时间**: 2026-10-09
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-10-08
 
 #### [Got a gig working with a PE in civil engineering but need advice](https://www.reddit.com/r/civilengineering/comments/1x023xd/got_a_gig_working_with_a_pe_in_civil_engineering/)
-- **发布时间**: 2026-10-07
-
-#### [New job opportunity… nervous to take it](https://www.reddit.com/r/civilengineering/comments/1wzvhl6/new_job_opportunity_nervous_to_take_it/)
 - **发布时间**: 2026-10-07
 
 ## 🏢 领域：建筑施工 (r/Construction)
