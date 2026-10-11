@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-10 03:11:03 (UTC)
+> **生成时间**: 2026-10-11 02:43:31 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [HNTB's ESOP: A 20 year deep dive on who actually profits](https://www.reddit.com/r/civilengineering/comments/1x2p6ex/hntbs_esop_a_20_year_deep_dive_on_who_actually/)
+- **发布时间**: 2026-10-10
 
 #### [Considering ways to switch career. Time of specialising, while people have no general knowledge.](https://www.reddit.com/r/civilengineering/comments/1x1qfhx/considering_ways_to_switch_career_time_of/)
 - **发布时间**: 2026-10-09
@@ -18,9 +21,6 @@
 #### [Junior year & career path](https://www.reddit.com/r/civilengineering/comments/1x0j02o/junior_year_career_path/)
 - **发布时间**: 2026-10-08
 
-#### [Got a gig working with a PE in civil engineering but need advice](https://www.reddit.com/r/civilengineering/comments/1x023xd/got_a_gig_working_with_a_pe_in_civil_engineering/)
-- **发布时间**: 2026-10-07
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
@@ -30,8 +30,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 
 ### 知乎「土木工程 痛点」
 > ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
@@ -46,8 +45,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
