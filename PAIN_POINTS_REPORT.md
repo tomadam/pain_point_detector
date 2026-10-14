@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-13 04:23:02 (UTC)
+> **生成时间**: 2026-10-14 02:33:21 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Retaining Wall](https://www.reddit.com/r/civilengineering/comments/1x468py/retaining_wall/)
-- **发布时间**: 2026-10-12
+#### [Is it possible for me to get a graduate civ engineering role as an international student in the UK](https://www.reddit.com/r/civilengineering/comments/1x5erji/is_it_possible_for_me_to_get_a_graduate_civ/)
+- **发布时间**: 2026-10-14
 
-#### [Am I being naive/shortsighted?](https://www.reddit.com/r/civilengineering/comments/1x40thd/am_i_being_naiveshortsighted/)
-- **发布时间**: 2026-10-12
+#### [Thinking about switching from Civil Engineering to Civil Engineering Technology. Is it worth it?](https://www.reddit.com/r/civilengineering/comments/1x59u4d/thinking_about_switching_from_civil_engineering/)
+- **发布时间**: 2026-10-13
 
-#### [How do you think I should approach this and prioritize my criteria when choosing an apartment?](https://www.reddit.com/r/civilengineering/comments/1x3mrgd/how_do_you_think_i_should_approach_this_and/)
-- **发布时间**: 2026-10-11
+#### [I’m working a lot, but not setting myself up to be an SME as an EIT. What do I do?](https://www.reddit.com/r/civilengineering/comments/1x530br/im_working_a_lot_but_not_setting_myself_up_to_be/)
+- **发布时间**: 2026-10-13
 
-#### [Trained as a Civil Engineer but absolutely hate it (and construction sites). Stuck in a career conundrum—how do I maneuver this?](https://www.reddit.com/r/civilengineering/comments/1x32sza/trained_as_a_civil_engineer_but_absolutely_hate/)
-- **发布时间**: 2026-10-11
+#### [How to start career as a civil engineer](https://www.reddit.com/r/civilengineering/comments/1x4yxhg/how_to_start_career_as_a_civil_engineer/)
+- **发布时间**: 2026-10-13
 
-#### [HNTB's ESOP: A 20 year deep dive on who actually profits](https://www.reddit.com/r/civilengineering/comments/1x2p6ex/hntbs_esop_a_20_year_deep_dive_on_who_actually/)
-- **发布时间**: 2026-10-10
+#### [Internship Interview](https://www.reddit.com/r/civilengineering/comments/1x4odtf/internship_interview/)
+- **发布时间**: 2026-10-13
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,8 +46,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
