@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-16 02:04:53 (UTC)
+> **生成时间**: 2026-10-17 01:59:11 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Is it possible for me to get a graduate civ engineering role as an international student in the UK](https://www.reddit.com/r/civilengineering/comments/1x5erji/is_it_possible_for_me_to_get_a_graduate_civ/)
-- **发布时间**: 2026-10-14
+#### [Being a new engineer sucks lol](https://www.reddit.com/r/civilengineering/comments/1x7xdl8/being_a_new_engineer_sucks_lol/)
+- **发布时间**: 2026-10-17
 
-#### [Thinking about switching from Civil Engineering to Civil Engineering Technology. Is it worth it?](https://www.reddit.com/r/civilengineering/comments/1x59u4d/thinking_about_switching_from_civil_engineering/)
-- **发布时间**: 2026-10-13
+#### [Understanding drinking water distribution system hydraulics.](https://www.reddit.com/r/civilengineering/comments/1x7stou/understanding_drinking_water_distribution_system/)
+- **发布时间**: 2026-10-16
 
-#### [I’m working a lot, but not setting myself up to be an SME as an EIT. What do I do?](https://www.reddit.com/r/civilengineering/comments/1x530br/im_working_a_lot_but_not_setting_myself_up_to_be/)
-- **发布时间**: 2026-10-13
+#### [I’m exhausted from internship interviews. Did I mess up my chances?](https://www.reddit.com/r/civilengineering/comments/1x7s5bz/im_exhausted_from_internship_interviews_did_i/)
+- **发布时间**: 2026-10-16
 
-#### [How to start career as a civil engineer](https://www.reddit.com/r/civilengineering/comments/1x4yxhg/how_to_start_career_as_a_civil_engineer/)
-- **发布时间**: 2026-10-13
+#### [Looking for Advice- Training for teams](https://www.reddit.com/r/civilengineering/comments/1x79k0q/looking_for_advice_training_for_teams/)
+- **发布时间**: 2026-10-16
 
-#### [Internship Interview](https://www.reddit.com/r/civilengineering/comments/1x4odtf/internship_interview/)
-- **发布时间**: 2026-10-13
+#### [Question to Engineers](https://www.reddit.com/r/civilengineering/comments/1x78zrx/question_to_engineers/)
+- **发布时间**: 2026-10-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,8 +40,10 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
+
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
