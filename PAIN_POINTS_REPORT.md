@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-19 02:15:13 (UTC)
+> **生成时间**: 2026-10-20 02:29:40 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Seeking Civil/Sanitary Sewer Engineer to Review Municipal Sewer Plans – Illinois Lawsuit](https://www.reddit.com/r/civilengineering/comments/1xaaiyf/seeking_civilsanitary_sewer_engineer_to_review/)
+- **发布时间**: 2026-10-19
+
+#### [chicago firms](https://www.reddit.com/r/civilengineering/comments/1xa8w05/chicago_firms/)
+- **发布时间**: 2026-10-19
 
 #### [I built a free code-lookup tool for Florida land development and would love feedback from people who actually do this work](https://www.reddit.com/r/civilengineering/comments/1x97vog/i_built_a_free_codelookup_tool_for_florida_land/)
 - **发布时间**: 2026-10-18
@@ -14,12 +20,6 @@
 
 #### [Career Pipeline Suggestion/Commentary](https://www.reddit.com/r/civilengineering/comments/1x8y1yc/career_pipeline_suggestioncommentary/)
 - **发布时间**: 2026-10-18
-
-#### [Salary for 7 years of experience? South Florida](https://www.reddit.com/r/civilengineering/comments/1x8kmq4/salary_for_7_years_of_experience_south_florida/)
-- **发布时间**: 2026-10-17
-
-#### [Understanding drinking water distribution system hydraulics.](https://www.reddit.com/r/civilengineering/comments/1x7stou/understanding_drinking_water_distribution_system/)
-- **发布时间**: 2026-10-16
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -40,10 +40,8 @@
 
 # 🇨🇳 中国平台 - 小红书
 ### 小红书「建筑设计」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1)
 
 ### 小红书「施工现场」
 > ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
