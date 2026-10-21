@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-20 02:29:40 (UTC)
+> **生成时间**: 2026-10-21 02:23:27 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Let's talk about how absolutely pathetic the rail infrastructure is in America](https://www.reddit.com/r/civilengineering/comments/1xaycse/lets_talk_about_how_absolutely_pathetic_the_rail/)
+- **发布时间**: 2026-10-20
+
+#### [Kimley-Horn or Kiewit?](https://www.reddit.com/r/civilengineering/comments/1xaxnqp/kimleyhorn_or_kiewit/)
+- **发布时间**: 2026-10-20
 
 #### [Seeking Civil/Sanitary Sewer Engineer to Review Municipal Sewer Plans – Illinois Lawsuit](https://www.reddit.com/r/civilengineering/comments/1xaaiyf/seeking_civilsanitary_sewer_engineer_to_review/)
 - **发布时间**: 2026-10-19
@@ -13,12 +19,6 @@
 - **发布时间**: 2026-10-19
 
 #### [I built a free code-lookup tool for Florida land development and would love feedback from people who actually do this work](https://www.reddit.com/r/civilengineering/comments/1x97vog/i_built_a_free_codelookup_tool_for_florida_land/)
-- **发布时间**: 2026-10-18
-
-#### [Online civil program? ABET accredited](https://www.reddit.com/r/civilengineering/comments/1x95o9o/online_civil_program_abet_accredited/)
-- **发布时间**: 2026-10-18
-
-#### [Career Pipeline Suggestion/Commentary](https://www.reddit.com/r/civilengineering/comments/1x8y1yc/career_pipeline_suggestioncommentary/)
 - **发布时间**: 2026-10-18
 
 ## 🏢 领域：建筑施工 (r/Construction)
