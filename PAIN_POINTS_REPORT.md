@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-21 02:23:27 (UTC)
+> **生成时间**: 2026-10-22 02:18:55 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [6+ YOE and a PE, but consistently underutilized at my current firm. Would you go back to a previous employer?](https://www.reddit.com/r/civilengineering/comments/1xby4eg/6_yoe_and_a_pe_but_consistently_underutilized_at/)
+- **发布时间**: 2026-10-21
 
 #### [Let's talk about how absolutely pathetic the rail infrastructure is in America](https://www.reddit.com/r/civilengineering/comments/1xaycse/lets_talk_about_how_absolutely_pathetic_the_rail/)
 - **发布时间**: 2026-10-20
@@ -18,9 +21,6 @@
 #### [chicago firms](https://www.reddit.com/r/civilengineering/comments/1xa8w05/chicago_firms/)
 - **发布时间**: 2026-10-19
 
-#### [I built a free code-lookup tool for Florida land development and would love feedback from people who actually do this work](https://www.reddit.com/r/civilengineering/comments/1x97vog/i_built_a_free_codelookup_tool_for_florida_land/)
-- **发布时间**: 2026-10-18
-
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
 
@@ -30,8 +30,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 
 ### 知乎「土木工程 痛点」
 > ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
