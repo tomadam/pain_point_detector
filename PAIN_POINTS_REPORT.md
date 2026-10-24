@@ -1,10 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-23 02:24:20 (UTC)
+> **生成时间**: 2026-10-24 02:22:00 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Sales Engineering Internship](https://www.reddit.com/r/civilengineering/comments/1xdv6x6/sales_engineering_internship/)
+- **发布时间**: 2026-10-24
 
 #### [ASCE 3DPC forum or discussion?](https://www.reddit.com/r/civilengineering/comments/1xcw73e/asce_3dpc_forum_or_discussion/)
 - **发布时间**: 2026-10-22
@@ -16,9 +19,6 @@
 - **发布时间**: 2026-10-22
 
 #### [Mental health struggles while working as an EIT in Land Dev](https://www.reddit.com/r/civilengineering/comments/1xcqjiy/mental_health_struggles_while_working_as_an_eit/)
-- **发布时间**: 2026-10-22
-
-#### [trying to get civil engineering internships/placement years in austraila(sydney0](https://www.reddit.com/r/civilengineering/comments/1xcim42/trying_to_get_civil_engineering/)
 - **发布时间**: 2026-10-22
 
 ## 🏢 领域：建筑施工 (r/Construction)
