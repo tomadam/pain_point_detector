@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-24 02:22:00 (UTC)
+> **生成时间**: 2026-10-25 02:09:19 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Sales Engineering Internship](https://www.reddit.com/r/civilengineering/comments/1xdv6x6/sales_engineering_internship/)
+#### [How can an Algerian civil engineering student find a fully funded research internship in China for Summer 2027?](https://www.reddit.com/r/civilengineering/comments/1xekavx/how_can_an_algerian_civil_engineering_student/)
 - **发布时间**: 2026-10-24
 
-#### [ASCE 3DPC forum or discussion?](https://www.reddit.com/r/civilengineering/comments/1xcw73e/asce_3dpc_forum_or_discussion/)
-- **发布时间**: 2026-10-22
+#### [How is it like working for Garver? I am student and planning to apply there for an internship. Any advice is appreciated.](https://www.reddit.com/r/civilengineering/comments/1xefnvb/how_is_it_like_working_for_garver_i_am_student/)
+- **发布时间**: 2026-10-24
 
-#### [Recently accepted Land Development Internship with KH, what could salary look like post grad?](https://www.reddit.com/r/civilengineering/comments/1xcs67i/recently_accepted_land_development_internship/)
-- **发布时间**: 2026-10-22
+#### [AECOM NYC Electrical Engineer (Transportation) – Starting Salary, Bonuses & Raises?](https://www.reddit.com/r/civilengineering/comments/1xedfnl/aecom_nyc_electrical_engineer_transportation/)
+- **发布时间**: 2026-10-24
 
-#### [PSA: Taking career advice from this sub is a trap (yes, I see the irony)](https://www.reddit.com/r/civilengineering/comments/1xcs1i7/psa_taking_career_advice_from_this_sub_is_a_trap/)
-- **发布时间**: 2026-10-22
+#### [Is a draughtsman course worth it?](https://www.reddit.com/r/civilengineering/comments/1xdz64c/is_a_draughtsman_course_worth_it/)
+- **发布时间**: 2026-10-24
 
-#### [Mental health struggles while working as an EIT in Land Dev](https://www.reddit.com/r/civilengineering/comments/1xcqjiy/mental_health_struggles_while_working_as_an_eit/)
-- **发布时间**: 2026-10-22
+#### [As a civil engineering bachelor in the construction sector, do you feel you lack knowledge regarding the soft skills of construction?](https://www.reddit.com/r/civilengineering/comments/1xdxph6/as_a_civil_engineering_bachelor_in_the/)
+- **发布时间**: 2026-10-24
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,6 +46,8 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
-> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
+> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
+
 
