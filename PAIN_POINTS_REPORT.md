@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-25 02:09:19 (UTC)
+> **生成时间**: 2026-10-26 02:09:52 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Compensation negotiation advice](https://www.reddit.com/r/civilengineering/comments/1xfbws4/compensation_negotiation_advice/)
+- **发布时间**: 2026-10-25
+
+#### [Am I out of line to ask for a raise?](https://www.reddit.com/r/civilengineering/comments/1xer126/am_i_out_of_line_to_ask_for_a_raise/)
+- **发布时间**: 2026-10-25
 
 #### [How can an Algerian civil engineering student find a fully funded research internship in China for Summer 2027?](https://www.reddit.com/r/civilengineering/comments/1xekavx/how_can_an_algerian_civil_engineering_student/)
 - **发布时间**: 2026-10-24
@@ -13,12 +19,6 @@
 - **发布时间**: 2026-10-24
 
 #### [AECOM NYC Electrical Engineer (Transportation) – Starting Salary, Bonuses & Raises?](https://www.reddit.com/r/civilengineering/comments/1xedfnl/aecom_nyc_electrical_engineer_transportation/)
-- **发布时间**: 2026-10-24
-
-#### [Is a draughtsman course worth it?](https://www.reddit.com/r/civilengineering/comments/1xdz64c/is_a_draughtsman_course_worth_it/)
-- **发布时间**: 2026-10-24
-
-#### [As a civil engineering bachelor in the construction sector, do you feel you lack knowledge regarding the soft skills of construction?](https://www.reddit.com/r/civilengineering/comments/1xdxph6/as_a_civil_engineering_bachelor_in_the/)
 - **发布时间**: 2026-10-24
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -30,12 +30,16 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content", waiting until "domcontentloaded"
+
 
 ### 知乎「土木工程 痛点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.goto: net::ERR_TIMED_OUT at https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content
+Call log:
+  - navigating to "https://www.zhihu.com/search?q=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%20%E7%97%9B%E7%82%B9&type=content", waiting until "domcontentloaded"
+
 
 
 # 🇨🇳 中国平台 - 小红书
@@ -46,8 +50,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
