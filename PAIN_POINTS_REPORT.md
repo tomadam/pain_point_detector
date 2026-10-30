@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-29 03:20:11 (UTC)
+> **生成时间**: 2026-10-30 03:22:00 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [PE by Day, Business Owner by Night — How to Make Some Benjamins?](https://www.reddit.com/r/civilengineering/comments/1xi8o8m/pe_by_day_business_owner_by_night_how_to_make/)
+#### [Project engineer needing advice](https://www.reddit.com/r/civilengineering/comments/1xiztcl/project_engineer_needing_advice/)
 - **发布时间**: 2026-10-29
 
-#### [Wrestling with changes in power industry](https://www.reddit.com/r/civilengineering/comments/1xi3jeo/wrestling_with_changes_in_power_industry/)
-- **发布时间**: 2026-10-28
+#### [In the Uk can you achieve ICE CEng through a client-side construction role, or should I move into contracting/consultancy early in my career?](https://www.reddit.com/r/civilengineering/comments/1xiykwx/in_the_uk_can_you_achieve_ice_ceng_through_a/)
+- **发布时间**: 2026-10-29
 
-#### [How much do you slack?](https://www.reddit.com/r/civilengineering/comments/1xi2hv5/how_much_do_you_slack/)
-- **发布时间**: 2026-10-28
+#### [Going to the Netherlands for masters at TU Delft (and a possible job there?)](https://www.reddit.com/r/civilengineering/comments/1xiyks1/going_to_the_netherlands_for_masters_at_tu_delft/)
+- **发布时间**: 2026-10-29
 
-#### [Site Development Internship - Best way to prepare.](https://www.reddit.com/r/civilengineering/comments/1xi22a3/site_development_internship_best_way_to_prepare/)
-- **发布时间**: 2026-10-28
+#### [Title: Around 5 Years in Bridge Construction, Want to Switch to Bridge Design — Is It Realistic, and How Should I Make the Transition?](https://www.reddit.com/r/civilengineering/comments/1xifvww/title_around_5_years_in_bridge_construction_want/)
+- **发布时间**: 2026-10-29
 
-#### [Where are the 5-10 year design technical people?](https://www.reddit.com/r/civilengineering/comments/1xhrre7/where_are_the_510_year_design_technical_people/)
-- **发布时间**: 2026-10-28
+#### [PE by Day, Business Owner by Night — How to Make Some Benjamins?](https://www.reddit.com/r/civilengineering/comments/1xi8o8m/pe_by_day_business_owner_by_night_how_to_make/)
+- **发布时间**: 2026-10-29
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
