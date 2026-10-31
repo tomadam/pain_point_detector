@@ -1,24 +1,24 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-10-30 03:22:00 (UTC)
+> **生成时间**: 2026-10-31 03:06:21 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
+#### [Another Kimley-Horn story...](https://www.reddit.com/r/civilengineering/comments/1xjtnec/another_kimleyhorn_story/)
+- **发布时间**: 2026-10-30
+
+#### [Short courses or certifications to break into civil/geotechnical engineering in the US?](https://www.reddit.com/r/civilengineering/comments/1xjgzuu/short_courses_or_certifications_to_break_into/)
+- **发布时间**: 2026-10-30
+
+#### [Rigidity differences between beam sizes](https://www.reddit.com/r/civilengineering/comments/1xjex3z/rigidity_differences_between_beam_sizes/)
+- **发布时间**: 2026-10-30
+
 #### [Project engineer needing advice](https://www.reddit.com/r/civilengineering/comments/1xiztcl/project_engineer_needing_advice/)
 - **发布时间**: 2026-10-29
 
 #### [In the Uk can you achieve ICE CEng through a client-side construction role, or should I move into contracting/consultancy early in my career?](https://www.reddit.com/r/civilengineering/comments/1xiykwx/in_the_uk_can_you_achieve_ice_ceng_through_a/)
-- **发布时间**: 2026-10-29
-
-#### [Going to the Netherlands for masters at TU Delft (and a possible job there?)](https://www.reddit.com/r/civilengineering/comments/1xiyks1/going_to_the_netherlands_for_masters_at_tu_delft/)
-- **发布时间**: 2026-10-29
-
-#### [Title: Around 5 Years in Bridge Construction, Want to Switch to Bridge Design — Is It Realistic, and How Should I Make the Transition?](https://www.reddit.com/r/civilengineering/comments/1xifvww/title_around_5_years_in_bridge_construction_want/)
-- **发布时间**: 2026-10-29
-
-#### [PE by Day, Business Owner by Night — How to Make Some Benjamins?](https://www.reddit.com/r/civilengineering/comments/1xi8o8m/pe_by_day_business_owner_by_night_how_to_make/)
 - **发布时间**: 2026-10-29
 
 ## 🏢 领域：建筑施工 (r/Construction)
@@ -30,7 +30,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
+> ⚠️ 触发了知乎的安全验证系统，无头浏览器被拦截。
 > 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
 
 ### 知乎「土木工程 痛点」
