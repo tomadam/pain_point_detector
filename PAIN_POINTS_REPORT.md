@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-01 03:01:01 (UTC)
+> **生成时间**: 2026-11-02 03:11:48 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [11-12 YOE, 6 firms, regretting my latest move. Twins on the way. Stick it out or move on?](https://www.reddit.com/r/civilengineering/comments/1xl3hja/1112_yoe_6_firms_regretting_my_latest_move_twins/)
+- **发布时间**: 2026-11-01
+
+#### [College Student Seeking Experienced Engineer (45+) for Career Interview](https://www.reddit.com/r/civilengineering/comments/1xl21yj/college_student_seeking_experienced_engineer_45/)
+- **发布时间**: 2026-11-01
+
+#### [Am I behind](https://www.reddit.com/r/civilengineering/comments/1xkw5gw/am_i_behind/)
+- **发布时间**: 2026-11-01
 
 #### [Another Kimley-Horn story...](https://www.reddit.com/r/civilengineering/comments/1xjtnec/another_kimleyhorn_story/)
 - **发布时间**: 2026-10-30
 
 #### [Short courses or certifications to break into civil/geotechnical engineering in the US?](https://www.reddit.com/r/civilengineering/comments/1xjgzuu/short_courses_or_certifications_to_break_into/)
 - **发布时间**: 2026-10-30
-
-#### [Rigidity differences between beam sizes](https://www.reddit.com/r/civilengineering/comments/1xjex3z/rigidity_differences_between_beam_sizes/)
-- **发布时间**: 2026-10-30
-
-#### [Project engineer needing advice](https://www.reddit.com/r/civilengineering/comments/1xiztcl/project_engineer_needing_advice/)
-- **发布时间**: 2026-10-29
-
-#### [In the Uk can you achieve ICE CEng through a client-side construction role, or should I move into contracting/consultancy early in my career?](https://www.reddit.com/r/civilengineering/comments/1xiykwx/in_the_uk_can_you_achieve_ice_ceng_through_a/)
-- **发布时间**: 2026-10-29
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
@@ -46,8 +46,6 @@ Call log:
 
 
 ### 小红书「施工现场」
-> ⚠️ 浏览器异常: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA", waiting until "networkidle"
-
+> ⚠️ 触发了滑动验证码或人机验证，无头浏览器被拦截。
+> 📱 [手动执行搜索](https://www.xiaohongshu.com/search_result?keyword=%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA)
 
