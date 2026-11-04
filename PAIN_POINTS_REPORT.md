@@ -1,12 +1,18 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-03 04:27:37 (UTC)
+> **生成时间**: 2026-11-04 03:46:09 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [How to ask for a raise?](https://www.reddit.com/r/civilengineering/comments/1xmfdi6/how_to_ask_for_a_raise/)
+#### [Going to engineering from geology and geodesy.](https://www.reddit.com/r/civilengineering/comments/1xn8qyk/going_to_engineering_from_geology_and_geodesy/)
+- **发布时间**: 2026-11-03
+
+#### [Pipe Run Edits](https://www.reddit.com/r/civilengineering/comments/1xmt5ig/pipe_run_edits/)
+- **发布时间**: 2026-11-03
+
+#### [Young contractor in India with a degree, debating a Construction Management master's abroad vs. building my business](https://www.reddit.com/r/civilengineering/comments/1xmmcl4/young_contractor_in_india_with_a_degree_debating/)
 - **发布时间**: 2026-11-03
 
 #### [Transition out of PM?](https://www.reddit.com/r/civilengineering/comments/1xmdcnn/transition_out_of_pm/)
@@ -14,12 +20,6 @@
 
 #### [Filipino Civil Engineer Insights: Aus visa 189/190 Pathway](https://www.reddit.com/r/civilengineering/comments/1xmd035/filipino_civil_engineer_insights_aus_visa_189190/)
 - **发布时间**: 2026-11-02
-
-#### [First engineering job after graduating and I already feel so incompetent. Is this normal?](https://www.reddit.com/r/civilengineering/comments/1xlqpxl/first_engineering_job_after_graduating_and_i/)
-- **发布时间**: 2026-11-02
-
-#### [11-12 YOE, 6 firms, regretting my latest move. Twins on the way. Stick it out or move on?](https://www.reddit.com/r/civilengineering/comments/1xl3hja/1112_yoe_6_firms_regretting_my_latest_move_twins/)
-- **发布时间**: 2026-11-01
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
