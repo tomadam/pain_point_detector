@@ -1,25 +1,25 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-06 04:01:12 (UTC)
+> **生成时间**: 2026-11-07 03:37:46 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Are newer software tools making some of our traditional workflows unnecessarily complicated?](https://www.reddit.com/r/civilengineering/comments/1xpri4c/are_newer_software_tools_making_some_of_our/)
+- **发布时间**: 2026-11-06
+
+#### [Toxic Manager or not?](https://www.reddit.com/r/civilengineering/comments/1xph0gs/toxic_manager_or_not/)
+- **发布时间**: 2026-11-06
+
+#### [Whom can i work for?](https://www.reddit.com/r/civilengineering/comments/1xp8235/whom_can_i_work_for/)
+- **发布时间**: 2026-11-06
 
 #### [Civil Engineering graduate from Mexico, U.S. citizen, struggling to start my engineering career in Texas. Looking for advice.](https://www.reddit.com/r/civilengineering/comments/1xp27lo/civil_engineering_graduate_from_mexico_us_citizen/)
 - **发布时间**: 2026-11-06
 
 #### [Concerned About Unsafe Practices](https://www.reddit.com/r/civilengineering/comments/1xo805z/concerned_about_unsafe_practices/)
 - **发布时间**: 2026-11-05
-
-#### [Unsure whether to take advantage of remote work](https://www.reddit.com/r/civilengineering/comments/1xo6dq4/unsure_whether_to_take_advantage_of_remote_work/)
-- **发布时间**: 2026-11-05
-
-#### [Manitoba Hydro Questions](https://www.reddit.com/r/civilengineering/comments/1xnsfju/manitoba_hydro_questions/)
-- **发布时间**: 2026-11-04
-
-#### [Leaving Private for Public](https://www.reddit.com/r/civilengineering/comments/1xne5as/leaving_private_for_public/)
-- **发布时间**: 2026-11-04
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
