@@ -1,13 +1,13 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-07 03:37:46 (UTC)
+> **生成时间**: 2026-11-08 03:09:12 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
 
-#### [Are newer software tools making some of our traditional workflows unnecessarily complicated?](https://www.reddit.com/r/civilengineering/comments/1xpri4c/are_newer_software_tools_making_some_of_our/)
-- **发布时间**: 2026-11-06
+#### [Will my offer get rescinded for a pre-employment drug & alcohol screening?](https://www.reddit.com/r/civilengineering/comments/1xpyrji/will_my_offer_get_rescinded_for_a_preemployment/)
+- **发布时间**: 2026-11-07
 
 #### [Toxic Manager or not?](https://www.reddit.com/r/civilengineering/comments/1xph0gs/toxic_manager_or_not/)
 - **发布时间**: 2026-11-06
