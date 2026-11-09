@@ -1,10 +1,16 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-08 03:09:12 (UTC)
+> **生成时间**: 2026-11-09 03:31:03 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
 ### 📍 r/CivilEngineering 动态
+
+#### [Masters of Science (MS) vs Masters of Engineering (MEng)](https://www.reddit.com/r/civilengineering/comments/1xr4423/masters_of_science_ms_vs_masters_of_engineering/)
+- **发布时间**: 2026-11-08
+
+#### [Have any of you met a trans woman civil engineer yet?](https://www.reddit.com/r/civilengineering/comments/1xqze90/have_any_of_you_met_a_trans_woman_civil_engineer/)
+- **发布时间**: 2026-11-08
 
 #### [Will my offer get rescinded for a pre-employment drug & alcohol screening?](https://www.reddit.com/r/civilengineering/comments/1xpyrji/will_my_offer_get_rescinded_for_a_preemployment/)
 - **发布时间**: 2026-11-07
@@ -14,12 +20,6 @@
 
 #### [Whom can i work for?](https://www.reddit.com/r/civilengineering/comments/1xp8235/whom_can_i_work_for/)
 - **发布时间**: 2026-11-06
-
-#### [Civil Engineering graduate from Mexico, U.S. citizen, struggling to start my engineering career in Texas. Looking for advice.](https://www.reddit.com/r/civilengineering/comments/1xp27lo/civil_engineering_graduate_from_mexico_us_citizen/)
-- **发布时间**: 2026-11-06
-
-#### [Concerned About Unsafe Practices](https://www.reddit.com/r/civilengineering/comments/1xo805z/concerned_about_unsafe_practices/)
-- **发布时间**: 2026-11-05
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
