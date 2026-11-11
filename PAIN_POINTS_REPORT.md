@@ -1,25 +1,10 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-10 05:03:41 (UTC)
+> **生成时间**: 2026-11-11 03:38:02 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
-### 📍 r/CivilEngineering 动态
-
-#### [Received an offer but have an interview scheduled next week for a different company.](https://www.reddit.com/r/civilengineering/comments/1xsbwc2/received_an_offer_but_have_an_interview_scheduled/)
-- **发布时间**: 2026-11-10
-
-#### [Small scale Hanging Bridge?](https://www.reddit.com/r/civilengineering/comments/1xs8e4q/small_scale_hanging_bridge/)
-- **发布时间**: 2026-11-10
-
-#### [What do you do when super light on work?](https://www.reddit.com/r/civilengineering/comments/1xs439r/what_do_you_do_when_super_light_on_work/)
-- **发布时间**: 2026-11-09
-
-#### [Masters of Science (MS) vs Masters of Engineering (MEng)](https://www.reddit.com/r/civilengineering/comments/1xr4423/masters_of_science_ms_vs_masters_of_engineering/)
-- **发布时间**: 2026-11-08
-
-#### [Have any of you met a trans woman civil engineer yet?](https://www.reddit.com/r/civilengineering/comments/1xqze90/have_any_of_you_met_a_trans_woman_civil_engineer/)
-- **发布时间**: 2026-11-08
+### r/CivilEngineering 本周无匹配内容
 
 ## 🏢 领域：建筑施工 (r/Construction)
 ### [!] r/Construction 获取失败或为空
