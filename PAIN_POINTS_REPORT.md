@@ -1,6 +1,6 @@
 # 🚀 全球建筑/土木行情与痛点探测报告
 
-> **生成时间**: 2026-11-11 03:38:02 (UTC)
+> **生成时间**: 2026-11-12 04:46:10 (UTC)
 
 # 🌍 国际平台 - Reddit
 ## 🏢 领域：土木工程 (r/CivilEngineering)
@@ -15,8 +15,7 @@
 
 # 🇨🇳 中国平台 - 知乎
 ### 知乎「建筑施工 难点」
-> ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
-> 🔗 [手动搜索链接](https://www.zhihu.com/search?q=%E5%BB%BA%E7%AD%91%E6%96%BD%E5%B7%A5%20%E9%9A%BE%E7%82%B9&type=content)
+> ⚠️ 浏览器抓取错误: Page.content: Unable to retrieve content because the page is navigating and changing the content.
 
 ### 知乎「土木工程 痛点」
 > ℹ️ 获取成功但未匹配到标题（未登录或改版视图）。
